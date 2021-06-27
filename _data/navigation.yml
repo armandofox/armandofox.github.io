@@ -1,0 +1,22 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Contact/Bio"
+    url: /
+  - title: "Books"
+    url: /
+  - title: "Research"
+    url: /
+  - title: "Teaching"
+    url: /
+  - title: "Diversity"
+    url: /
+  - title: "For Students"
+    url: /
+  - title: "Retro"
+    url: /
+  - title: "Music/Theater"
+    url: /
+  - title: "Random"
+    url: /
+  
