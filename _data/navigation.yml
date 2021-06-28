@@ -1,10 +1,6 @@
 main:
-  - title: "Home"
-    url: /
   - title: "Contact/Bio"
-    url: /
-  - title: "Books"
-    url: /
+    url: /contact
   - title: "Research"
     url: /
   - title: "Teaching"
@@ -13,10 +9,31 @@ main:
     url: /
   - title: "For Students"
     url: /
-  - title: "Retro"
-    url: /
   - title: "Music/Theater"
     url: /
   - title: "Random"
     url: /
   
+contact:
+  - title: "Bio & Photos"
+    children:
+      - title: "En castellano"
+        url: /contact/bio-castellano
+      - title: "Failure Bio"
+        url: /contact/bio-failure
+      - title: "Older Bios"
+        url: /contact/bio-older
+  - title: "PGP Public Key"
+    url: /contact/pgp/
+  - title: Visiting
+    url: /contact/visiting
+
+research:
+  - title: "Alumni"
+    url: /
+  - title: "RAD Lab"
+    url: /
+  - title: "ROC"
+    url: /
+  - title: "GloMop/NOW"
+    url: /

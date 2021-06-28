@@ -33,6 +33,8 @@ plugins:
   - jekyll-include-cache
   - jekyll-feed
 
+include: ["_pages"]
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -44,3 +46,10 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
