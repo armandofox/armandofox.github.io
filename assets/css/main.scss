@@ -6,7 +6,33 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+@import url(https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,300;0,800;1,300);
 
-html {
+$bodyfont: "Libre Franklin", Helvetica, Arial, sans-serif;
+
+
+body,h1,h2,h3,h4,h5,h6 {
+    font-size: 14px;
+    font-family: $bodyfont;
+}
+
+.masthead, #site-nav, .greedy-nav a, .greedy-nav ul {
+    background-color: #1e90ff;
+    font-family: $bodyfont;
     font-size: 16px;
+    color: white;
+}
+.greedy-nav a:hover {
+    color: gold;
+}
+
+.sidebar {
+    font-size: 16px;
+    background-color: #eee;
+    margin-left: -14px;
+    padding-left: 14px;
+}
+
+.sidebar a:hover {
+    text-decoration: underline;
 }
