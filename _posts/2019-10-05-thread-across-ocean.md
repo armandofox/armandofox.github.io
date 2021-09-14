@@ -1,5 +1,5 @@
 ---
-title: "Faxed: The Rise and Fall of the Fax Machine"
+title: "A Thread Across the Ocean: The Heroic Story of the Transatlantic Cable"
 categories: ['Book summary', 'Tech history']
 ---
 
