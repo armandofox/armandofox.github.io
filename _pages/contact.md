@@ -1,6 +1,8 @@
 ---
 title:
 permalink: /contact/
+type: page
+layout: single
 sidebar:
   nav: "contact"
 ---

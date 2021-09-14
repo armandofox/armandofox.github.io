@@ -1,5 +1,6 @@
 ---
 permalink: /contact/visiting/
+type: page
 sidebar:
   nav: "contact"
 ---

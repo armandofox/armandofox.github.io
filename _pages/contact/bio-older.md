@@ -1,5 +1,6 @@
 ---
 permalink: /contact/bio-older/
+type: page
 sidebar:
   nav: "contact"
 ---

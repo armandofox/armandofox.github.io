@@ -13,7 +13,9 @@ main:
     url: /
   - title: "Random"
     url: /
-  
+  - title: "Blog"
+    url: /categories
+
 contact:
   - title: "Bio & Photos"
     children:

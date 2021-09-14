@@ -1,5 +1,7 @@
 ---
 permalink: /contact/bio-castellano/
+type: page
+layout: single
 sidebar:
   nav: "contact"
 ---

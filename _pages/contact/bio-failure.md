@@ -1,5 +1,6 @@
 ---
 permalink: /contact/bio-failure/
+type: page
 sidebar:
   nav: "contact"
 ---

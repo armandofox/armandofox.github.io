@@ -1,5 +1,6 @@
 ---
 permalink: /contact/pgp/
+type: page
 sidebar:
   nav: "contact"
 ---
