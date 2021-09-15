@@ -11,7 +11,7 @@ In this short story aimed at pre-teens---the first in a [series of at least 10]
 
 The initial program just has to be typed in and run in order to reveal the "secret message" that will describe your mission to you. But as the book progresses, the programs require you to debug, analyze, or otherwise modify them as part of the story line. Some programs have bugs you must fix; in other cases you're asked to write a short program that automates a simple task, such as showing mappings between text characters and their ASCII codes (this is pre-Unicode, remember), in order to help "decode" intercepted enemy messages.
 
-[![](/assets/img/2017-03-19-learn-programming/micro_adventure_example.png)](https://4.bp.blogspot.com/-iXFMs4PanQk/WM8Fg4YLKCI/AAAAAAAAUu0/hwuYAB1_qKAtTLGQaELBuqfBbADnCa01ACLcB/s1600/micro_adventure_example.png)
+![](/assets/img/2017-03-19-learn-programming/micro_adventure_example.png)
 
 Of course, failing to do the puzzles can't block your progress in the story, because nothing stops you from just turning the page to keep reading. But this strikes me as an interesting way to get kids to learn how simple programs work. (I don't know how effective it was.) There is a "reference manual" at the end of the book explaining how the programs work, giving hints on solving the puzzles, and, of course, indicating which modifications must be made to allow the programs to run on different microcomputers. (Whereas code in a modern scripting language like Python will behave the same on all platforms, BASIC "dialects" differed enough across different computers that almost any non-toy program required changes to work with other computers' BASIC interpreters.)
 

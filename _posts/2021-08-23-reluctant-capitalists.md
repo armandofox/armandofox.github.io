@@ -1,6 +1,6 @@
 ---
 title: "Reluctant Capitalists: Bookselling and the Culture of Consumption"
-categories: [Book summary]
+categories: ["Book summary", "Bibliomane"]
 ---
 
 # Book summary: Reluctant Capitalists: Bookselling and the Culture of Consumption,  by Laura J. Miller

@@ -3,8 +3,6 @@ title: '"Damaged" by BASIC'
 categories: ['Tech history','Retro']
 ---
 
-### ["Damaged" by BASIC](https://armandofox.blogspot.com/2017/04/damaged-by-basic.html)
-
 At a recent conference I attended where a main theme of many papers was intelligent tutors to help novice programmers, an audience Q&A after one of the talks turned to the affordances available to novice programmers in computing's early days, including the BASIC programming language, which was developed expressly to introduce nontechnical students to computing.
 
 It didn't take long for one of the discussants to mention that during Edsger Dijkstra's storied career, he ranted against many things in computer science that he thought were "[considered harmful](https://en.wikipedia.org/wiki/Considered_harmful)," including the BASIC language. Specifically, Dijkstra wrote: "*It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration." *(COBOL and FORTRAN were the target of similarly withering remarks.)

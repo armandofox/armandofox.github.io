@@ -1,6 +1,6 @@
 ---
 title:
-categories: ["Book summary","Tech history"]
+categories: ["Book summary","Tech history","Bibliomane"]
 ---
 **Track Changes: A Literary History of Word Processing, **by Matthew Kirschenbaum.
 
