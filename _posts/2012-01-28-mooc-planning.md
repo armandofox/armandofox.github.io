@@ -27,7 +27,7 @@ Simple answer---we don't.  The on-campus class has been relying more and more o
 Whew!  That's the list so far.  In another post I'll write up what we did in the textbook both to embrace the coming ebook tsunami and to make the book more interactive and connected to other online course materials, even if you get the dead-tree version.
 
 
-### [Meaningful feedback on 50,000 programming assigments?](http://armandofox.blogspot.com/2012/01/meaningful-feedback-on-50000.html)
+### Meaningful feedback on 50,000 programming assigments?
 
 Previously I mentioned that we're offering the first five weeks of Berkeley's [CS169](http://www-inst.eecs.berkeley.edu/~cs169/sp12) course through the [Coursera](http://coursera.com/) education portal (the startup formed to commercialize Andrew Ng and Daphne Koller's online education system).
 
@@ -37,14 +37,14 @@ I had already been thinking of autograding technology even for the on-campus cou
 
 Coursera already had autograding for multiple-choice and short-answer (match a regexp) questions, but we wanted to be able to autograde programming assignments too.  To that end, Coursera created an API that allows an autograder to run arbitrary code to evaluate student homework submissions.  We've used that ability to create a tool that runs [RSpec](http://rspec.info/) in a sandbox, so that we can do an automatic but detailed evaluation of student code.  For example, if an assignment specifically calls for them to use map() rather than writing a loop to express an operation on a collection, RSpec allows writing fine-grained tests that would check this.
 
-Our goal is to extend the tool to also run [reek](https://github.com/kevinrutherford/reek/wiki), which looks for code smells, [flog](http://ruby.sadi.st/Ruby_Sadist.html), which estimates cyclomatic complexity, and [flay](http://ruby.sadi.st/Ruby_Sadist.html), which looks for duplicated code across many , so that we can provide automated feedback on coding style and best practices as well as code correctness.  We also expect to hook up SimpleCov or cover_me to give students feedback on their code coverage.  We'll release this tool on Github as soon as it's been field-tested.
+Our goal is to extend the tool to also run [reek](https://github.com/kevinrutherford/reek/wiki), which looks for code smells, [flog](http://ruby.sadi.st/Ruby_Sadist.html), which estimates cyclomatic complexity, and [flay](http://ruby.sadi.st/Ruby_Sadist.html), which looks for duplicated code across many, so that we can provide automated feedback on coding style and best practices as well as code correctness.  We also expect to hook up SimpleCov or cover_me to give students feedback on their code coverage.  We'll release this tool on Github as soon as it's been field-tested.
 
 Since we teach BDD, I'm also looking for a way to automatically run integration tests against students' homeworks, which they deploy on [Heroku](http://heroku.com/).  So my next adventure is to get in touch with someone at Saucelabs and see what we can work out.
 
 Anyone want to introduce me?
 
 
-### [CS 169 x 50,000 == ?](http://armandofox.blogspot.com/2012/01/cs-169-x-50000.html)
+### CS 169 x 50,000 == ?
 
 Along with Dave Patterson and Koushik Sen, I'm teaching CS 169 Software Engineering at Berkeley this spring (Jan-May 2012).
 

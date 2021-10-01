@@ -17,11 +17,11 @@ Trying to get around and find stuff on your first visit can be overwhelming, so 
 
 **Airport transfers: **Taxis to JFK or Newark are about $60 plus tip.  Or, from JFK, take the $5 AirTrain from any terminal towards Jamaica, where you can transfer to the subway (E, J) or the Long Island Railroad.  From Newark, the free AirTrain takes you to the Newark Airport train station, from which you can take the train to NY Penn Station  ($12, every 15-30 minutes, check timetable at[NJTransit.com](http://www.njtransit.com/sf/sf_servlet.srv?hdnPageAction=TrainTo)).  For LaGuardia, taxis are about $40, or take subway (E,V,G,R,7) to 74 St./Roosevelt Ave, then either a local taxi ride (around $15) or the Q33 or Q47 bus ($2.25, about 15 minutes) to the airport.
 
-### 0\. The Usual Suspects
+### 0. The Usual Suspects
 
 These are all classic tourist attractions and well worth seeing, but they're obvious choices and well covered by other guides, so  I won't discuss them further: the Empire State Building, the Metropolitan Museum of Art, the Museum  of Natural History (though it does have an exceptional dinosaur exhibit recently renamed the "Hall of Birds and their Extinct Ancestors") and the very kid-friendly and well-done Rose Center for Earth and Space (a/k/a Planetarium) adjacent to it, the Museum of Modern Art, South Street Seaport, Central Park (about the same size as Golden Gate Park in SF).
 
-### 1\. See a Broadway Show
+### 1. See a Broadway Show
 
 ***Why***: Experience not only the best production values in the US, but the energy that pervades one of only two really vigorous theater districts in the world (London is the other), with dozens of shows at dozens of theaters playing on any given night.  Most shows are dark on Mondays; some have Sunday evening shows, others only Sunday matinees.
 
@@ -31,7 +31,7 @@ These are all classic tourist attractions and well worth seeing, but they're obv
 
 **Dining and drinking in the theater district: **For a pricey drink with a great view before or after the show, go to the View Lounge in the Marriott Marquis hotel in Times Square (it can get crowded before a show).  For a quieter drink and full dinner menu, the hard-to-find Bar Centrale on 46th St. is great, but reservations a must for dinner.  If it's full, the Hilton Hotel has a bar that overlooks Madame Tussaud's Wax Museum and a munchies menu.  If you don't mind if it gets a bit loud, Havana Central on 47th St. near Broadway has live Latin music many nights, and great Cuban food.
 
-### **2\. Take a boat ride**
+### **2. Take a boat ride**
 
 ***Why:*** The best views of the Statue of Liberty and the lower Manhattan skyline, all for free.  (But no need to do this if you're visiting Ellis Island; see below.)
 
@@ -39,13 +39,13 @@ The Staten Island Ferry (subway: South Ferry, 1; Whitehall St, N,R; Bowling Gree
 
 Combine with a walk around lower Manhattan, including Battery Park and "ground zero" (where you can see the new Freedom Tower going up on the site of the former World Trade Center).
 
-### 3\. Walk the Brooklyn Bridge
+### 3. Walk the Brooklyn Bridge
 
 ***Why***: one of the great engineering achievements of pre-WWI America, its towers were the tallest structures in America when completed in 1887.  Culturally, it knitted the area together just as the Bay Bridge knitted the East Bay and San Francisco together.
 
 Since cars were not the focus of transportation, the pedestrian walkway is on the UPPER level and away from all the cars, affording a spectacular view all around.  **Caution**: the walkway has a striped-off bike lane that is VERY heavily used.  Stay out of cyclists' way.  My favorite route is to take the subway to High St in Brooklyn (A,C), follow the signs/people to walk 2 blocks to the bridge access stairway, and then walk across the bridge into Manhattan, where you'll end up at City Hall.  Including the subway ride from lower Manhattan, allow about an hour.
 
-### 4\. Experience Immigrant New York
+### 4. Experience Immigrant New York
 
 ***Why***: The story of New York, and America, is the story of immigrants.  Every immigration story, and every immigrant-related issue we deal with today, happened here first.  Here are two sites that tell the story vividly.
 
@@ -55,7 +55,7 @@ The little-known [Tenement Museum](http://www.tenement.org/) on the Lower East
 
 Note: the same ferry that serves Ellis Island also stops at the Statue of Liberty.  You can enter the Statue's pedestal for free (as I recall) but have to pay to climb up to the crown.  It is a strenuous climb and in summer it's like climbing in a copper oven.  You get a beautiful view of the statue from the Staten Island Ferry, and better views of Manhattan from the top of the Empire State Building, so I'd skip this.
 
-### 5\.  See Grand Central Terminal
+### 5.  See Grand Central Terminal
 
 ***Why: **[GCT](http://en.wikipedia.org/wiki/Grand_Central_Terminal) is one of the few Beaux Arts railroad terminals in the US that still serves as an active railroad terminal (45 tracks with 30 more planned for 2015, 286 daily commuter trains, 4 subway lines), and uniquely captures what the golden age of rail travel must have been like.  Allow 30 minutes, and it's a good meal stop.  Subway: 4,5,6,7 to 42 St./Grand Central, or S (shuttle) from Times Square.*
 
@@ -63,26 +63,26 @@ Pre-WWI American architecture, especially Beaux Arts, was buoyed by a civic opti
 
 **Bonus feature: **one of the best places to enjoy a classy, leisurely cocktail is the [Campbell Apartment](http://en.wikipedia.org/wiki/Campbell_Apartment), former office/study of New York Central Board member John Campbell.  It's physically part of GCT but the entrance is around the outside of the building, facing Vanderbilt Ave.  No sneakers, shorts, or t-shirts.
 
-### 6\.  The New York Public Library
+### 6.  The New York Public Library
 
 ***Why:*** Another amazing Beaux Arts structure from back when the zeitgeist was that a grand public experiment deserved grand public structures.
 
 Just down the street from Grand Central, the main (research, noncirculating) branch of the NYPL, built on the site of the former Croton Reservoir, is a spectacular building housing the NYPL's research collections and both permanent and rotating exhibits of historical books, maps and literary artifacts.  Admission is free; allow 30 minutes to wander around.  Walk from Grand Central, or subway: B,D,F to 42 St./Bryant Park, 7 to Fifth Ave.
 
-### 7\.  Transit Museum
+### 7.  Transit Museum
 
 ***Why:*** Step into real subway cars from 1904, the year America's largest transit system opened for business, and from every decade since then.
 
 Maybe it's just because I'm a transportation geek but this place is fascinating.  Built around a decommissioned subway station, a highlight of the exhibits is a collection of around a dozen subway cars covering the areas from 1904 to the recent past.  Many of these are still railworthy and are run as regular trains around the holiday season for railfans, and most still have period advertisements posted inside.  The museum itself is [a few blocks from downtown Brooklyn](http://mta.info/mta/museum).
 
-### 8\. Visit the Steinway factory
+### 8. Visit the Steinway factory
 
 Considered by many (including me) to be the makers of the best pianos anywhere, Steinway & Sons was founded by German immigrant Heinrich Steinweg (later Henry Steinway) in New York in 1853, and has been building pianos at the Astoria factory since 1880.  Free factory tours are held two or three times a week but you must . Every Steinway sold in the US is made here, essentially by hand and taking about a year per piano, using largely the same techniques and equipment that were used in 1880.  (Steinways sold in Europe are made in the Hamburg factory, which was established later.)  The Steinway factory is 1 mile from the Ditmars Blvd. subway station (N, Q lines); unfortunately there isn't a bus that gets you any closer.  Allow 2 hours.
 
-### 9\.  Greenwich Village
+### 9.  Greenwich Village
 
 Funky food, great bars, varied music scene, home of New York's "freeway revolt", site of the "Stonewall Riots" that launched the gay rights movement, home of NYU, it combines the cultural role of SF's North Beach with the closest New York ever got to bohemia.  The hole-in-the-wall restaurants along Bleecker and especially Macdougal are generally good bets.  The West Village is the nucleus of the gay community.  Subway: A,C,E to W. 4 St., 6 to Bleecker St., N, Q, R to W. 8th St., 1 to Christopher St./Sheridan Square.
 
-### 10\.  Lower Manhattan including Ground Zero
+### 10.  Lower Manhattan including Ground Zero
 
 Ground Zero is still a somewhat morbid tourist attraction, but it's interesting to see the new building going up there.  Lower Manhattan (basically, below Canal St.) is the original New York, and its twisty streets and tucked-away taverns preserve the feel of post-New-Amsterdam.  Join the Wall Street crowd for an after-work drink at the Stone Street alley near Coenties Slip, or drink where George Washington drank at Fraunces Tavern.  Subway: you can't swing a dead cat in lower Manhattan without having it fall into a subway station.  Walk in a random direction and you'll soon bump into a station.
