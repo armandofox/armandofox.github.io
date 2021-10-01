@@ -1,0 +1,17 @@
+---
+title: "TiVo’s “video on demand” UI was designed by vandals in the 80’s"
+categories: ["Gadgets"]
+---
+We have a 2nd-gen TiVo DVR as well as an AppleTV.
+
+TiVo is widely and deservedly praised for its outstanding user experience. But in the video-on-demand department, it's so pathetically inferior to AppleTV that it doesn't appear to have been designed in the same decade. The great guys and gals who designed the original TiVO UI must have left the back door open when it comes to the VoD UI.
+
+If I select the TiVo "video on demand" menu option from the top-level menu, I get six submenus: Amazon Video on Demand, Walt Disney Studios, Jaman Movies and Shorts, Browse Free Videos, Music Videos from Music Choice, and Home Movies By One True Media. As a user, what the hell do I choose? Why should the distributor of a piece of video be a first-order user experience choice? Wouldn't most users be more likely to know, say, the name of the movie or its actors rather than the name of the middleman distributor that happens to control the distribution rights for that piece of video via TiVo?
+
+Among those six choices, the submenus are all different. If I choose Amazon Video on Demand, I get choices like Top Rentals, Top Categories & Special Deals, Browse Entire Catalog, Search, and FAQ. The Walt Disney Studios menu item reveals Most Popular, New Arrivals, Browse, and About CinemaNow (whatever that is; the term doesn't appear elsewhere in the UE). Even in menu items where Search is allowed, it appears at a different spot in every menu. None of the menus or submenus have anything other than a text-only, one-screen-at-a-time interface. It's like using Gopher before we had the World Wide Web.
+
+Finally, to add insult to injury, the couple of times I've actually purchased TV episodes from Amazon Video on Demand, I have to wait an amount of time that is a large fraction of the total playing time before I can start watching. To watch a 30-minute TV sitcom episode, I had to wait over 20 minutes before I could hit Play. Look, I understand about buffering, but AppleTV gets this right--why can't TiVo?
+
+How does this compare to AppleTV's user experience? The top level choices there are "Movies" and "TV Shows". Each choice gets me to an attractively-arranged screen of box-cover graphics with titles (vs. TiVo's 1980's text-only interface), or I can search either movies or TV shows. The user experience is identical for both movies and TV shows. If I happen to have rented or purchased movies or TV shows in my iTunes library, I see those as well. I can watch the trailer of any movie instantly and for free. If I choose to purchase or rent a movie or TV show, I can typically start watching within 1 to 3 minutes, in HD and digital surround if available for that movie. Amazon VoD is 1- or 2-channel sound and standard-def NTSC video.
+
+Yes, AppleTV has a far smaller selection of content than Amazon, and the price per rental item is a bit higher. But using AppleTV is a joy, whereas using the TiVo/Amazon UE feels like I've been transported back to Gopher in the late 1980's. Shame on TiVo for allowing this dreck to invade an otherwise excellently designed product. It's frustrating that TiVo, a device that otherwise has an excellent UE and is by its nature an Internet appliance, falls so embarrassingly flat when it comes to a UE for video-on-demand that isn't even usable, let alone compelling. Get a clue, guys--the iPod has 85%+ market share for a reason.
