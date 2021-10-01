@@ -12,8 +12,7 @@ to stay in a room at Baker during the reunion. (544---Fifth East---if
 it matters to you.)  This was the popular "coffin" configuration, the
 smallest of three different types of single rooms available in Baker.
 
-![A typical Baker House "coffin"
-single](/assets/img/2015-06-19-baker-coffin-metaphor/IMG_3436.jpeg)
+![A typical Baker House "coffin" single](/assets/img/2015-06-19-baker-coffin-metaphor/IMG_3436.jpeg)
 
 (Ironically, I never had a coffin when I lived there; I lived in a
 quad freshman year, two weird-shaped back singles 607 and 608 which
