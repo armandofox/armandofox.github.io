@@ -24,6 +24,20 @@ h1 {
     font-size: 20px;
 }
 
+h1.page__title {
+    background-color: #555;
+    padding: 1ex;
+    margin-top: 0;
+    margin-left: 0;
+    color: white;
+    font-size: 20px;
+}
+
+/* super strong */
+.emph {
+    color: red;
+}
+
 /* in-page TOC */
 
 nav.toc {

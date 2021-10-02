@@ -10,11 +10,25 @@ main:
   - title: "For Students"
     url: /
   - title: "Music/Theater"
-    url: /
+    url: /music-theater
   - title: "Random"
     url: /random
   - title: "Blog"
     url: /categories
+
+music-theater:
+  - title: "Music/Theater Bio"
+    url: /music-bio
+  - title: "1-pager: A Little Night Music"
+    url: /1p-night-music
+  - title: "1-pager: Follies"
+    url: /1p-follies
+  - title: "1-pager: Sunday In the Park With George"
+    url: /1p-sunday
+  - title: "1-pager: West Side Story"
+    url: /1p-wss
+  - title: "Book: Piano/Conductor"
+    url: /books
 
 contact:
   - title: "Bio & Photos"
@@ -41,7 +55,11 @@ research:
     url: /
 
 random:
-  - title: "Retrocomputing"
+  - title: "Books"
+    url: /books
+  - title: "Computing History"
+    url: /computing-history
+  - title: "Retro Tech"
     url: /retro
   - title: "Quotes"
     url: /quotes
