@@ -6,15 +6,34 @@ main:
   - title: "Teaching"
     url: /
   - title: "Diversity"
-    url: /
+    url: /diversity
   - title: "For Students"
-    url: /
+    url: /students
   - title: "Music/Theater"
     url: /music-theater
   - title: "Random"
     url: /random
   - title: "Blog"
     url: /categories
+
+students:
+  - title: "Undergrad Advising"
+    url: /students/advising
+  - title: "Recommendation Letters"
+    url: /students/letters
+  - title: "Undergrad Research"
+    url: /students/research
+  - title: "Advice on..."
+    children:
+    - title: "Making Good Slides"
+      url: /students/slides
+    - title: "Giving Good Talks"
+      url: /students/talks
+    - title: "Writing Good Papers"
+      url: /students/writing-papers
+    - title: "Reading Papers Intelligently"
+      url: /students/reading-papers
+    
 
 music-theater:
   - title: "Music/Theater Bio"

@@ -46,14 +46,11 @@ nav.toc {
 
 /* sections on pages with images */
 .section {
-    clear: both;
-    margin-top: 1ex;
+    clear: left;
+    padding-top: 1ex;
 }
-img.embed-left {
+img.thumb {
     width: 120px;
-    margin-right: 1ex;
-    padding-right: 1ex;
-    float: left;
 }
 
 /* quotations list */

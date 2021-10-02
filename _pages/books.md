@@ -15,7 +15,7 @@ You'll find my name associated with a few books. Most can be downloaded for free
 # Engineering Software as a Service (ESaaS), 2nd Edition
 {: .section}
 
-<img class="embed-left" align="left" src="/assets/img/books/esaas.jpeg">
+![](/assets/img/books/esaas.jpeg){: .align-left .thumb}
 
 
 Co-authored with Turing Award winner Dave Patterson, this book serves as the foundation of CS 169/169A as well as the edX "Agile Development" Professional Certificate.
@@ -27,7 +27,7 @@ On the book's home page you'll also find freely downloadable versions of the Fir
 # Piano/Conductor: So They Talked You Into Being Music Director
 {: .section}
 
-<img class="embed-left" align="left" src="/assets/img/books/piano-conductor.jpeg">
+![](/assets/img/books/piano-conductor.jpeg){: .align-left .thumb}
 
 Although I've had a good deal of formal training in piano performance, musicianship, theory, etc., like most Music Directors working in a nonprofessional setting I never received any formal training on how to do that.
 
@@ -40,7 +40,7 @@ Learn more and download the free PDF [here](https://docs.google.com/viewer?a=v&
 # I'm Still Here: Memoirs 1957--1986
 {: .section}
 
-<img class="embed-left" align="left" src="/assets/img/books/imstillhere.jpeg">
+![](/assets/img/books/imstillhere.jpeg){: .align-left .thumb}
 
 Yes, my dad's family really did own the Tropicana night club in Havana, and my parents really did go there on dates. Their story of leaving Cuba as political refugees, as told through my late mom's memoirs, has to be read to be believed. It reads like a good spy story in parts, or maybe even a good musical someday.
 
