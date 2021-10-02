@@ -12,7 +12,7 @@ main:
   - title: "Music/Theater"
     url: /
   - title: "Random"
-    url: /
+    url: /random
   - title: "Blog"
     url: /categories
 
@@ -39,3 +39,9 @@ research:
     url: /
   - title: "GloMop/NOW"
     url: /
+
+random:
+  - title: "Retrocomputing"
+    url: /retro
+  - title: "Quotes"
+    url: /quotes

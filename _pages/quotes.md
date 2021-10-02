@@ -1,218 +1,309 @@
 ---
 title: "Favorite Quotes"
-permalink: /mastergeek-theater
+permalink: /quotes
 type: page
 layout: single
 sidebar:
   nav: "random"
+toc: true
+toc_label: "Quote categories"
 ---
+
 
 ***Disclaimer: In some cases I found the quote not in the book in
 which it originally appears, but in another book that quotes the
 original source. I've noted where that occurs, so you don't think I
 claim to read more than I do.***
 
-History & Governance --------------------
+# History & Governance
 
-The future is dark, the present burdensome. Only the past, dead and
-finished, bears contemplation. Those who look upon it have survived
-it; they are its product and its victors. No wonder therefore that men
-concern themselves with history. ---G.R. Elton, *The Practice of
-History*
+<dl class="quote">
 
-In England and the United States, in Denmark, Norway, and Sweden, in
-Switzerland and Canada, democracy is today sounder than ever
-before. It has defended itself with courage and energy against the
-assaults of foreign dictatorship, and has not yielded to dictatorship
-at home. But if war continues to absorb and dominate it, or if the
-itch to rule the world requires a large military establishment and
-appropriate, the freedoms of democracy may one by one succumb to the
-discipline of arms and strife. I**f race or class war divides us into
-hostile camps, changing political argument into blind hate, one side
-or the other may overturn the hustings with the rule of the sword. If
-our economy of freedom fails to distribute wealth as ably as it has
-created it, the road to dictatorship will be open to any man who can
-persuasively promise security for all; and a martial government, under
-whatever charming phrases, will engulf the democratic world. **---Will
-and Ariel Durant, *The Lessons of History*, chapter X "History and
-Government" (emphasis added by me)
+  <dt>The future is dark, the present burdensome. Only the past, dead and
+    finished, bears contemplation. Those who look upon it have survived
+    it; they are its product and its victors. No wonder therefore that men
+    concern themselves with history. </dt>
+  <dd>G.R. Elton, <em>The Practice of
+    History</em>
+  </dd>
 
-The democratic will is vulgar; its laws, imperfect. I admit all
-this. But if it is true that soon there will be no middle way between
-the empire of democracy and the yoke of one man, ought we not try
-rather for the former than submit voluntarily to the latter? ---Alexis
-de Tocqueville, *Democracy In America, *quoted in Michael
-Reid, *Forgotten Continent: A History of the New Latin America*
+  <dt>In England and the United States, in Denmark, Norway, and Sweden, in
+    Switzerland and Canada, democracy is today sounder than ever
+    before. It has defended itself with courage and energy against the
+    assaults of foreign dictatorship, and has not yielded to dictatorship
+    at home. But if war continues to absorb and dominate it, or if the
+    itch to rule the world requires a large military establishment and
+    appropriate, the freedoms of democracy may one by one succumb to the
+    discipline of arms and strife. <em>If race or class war divides us into
+    hostile camps, changing political argument into blind hate, one side
+    or the other may overturn the hustings with the rule of the sword. If
+    our economy of freedom fails to distribute wealth as ably as it has
+    created it, the road to dictatorship will be open to any man who can
+    persuasively promise security for all; and a martial government, under
+    whatever charming phrases, will engulf the democratic world.</em></dt>
+  <dd>Will
+    and Ariel Durant, <em>The Lessons of History</em>, chapter X "History and
+    Government" (emphasis added by me)
+  </dd>
 
-When one hears about acts of extraordinary bravery in combat, it is
-usually a sign that the battle has not been going terribly well. For
-when wars unfold according to plan and one's own side is winning, acts
-of exceptional individual heroism are rarely called for. Bravery is
-required mostly by the desperate side. ---Guy Deutscher, *Through the
-Language Glass*
+  <dt>The democratic will is vulgar; its laws, imperfect. I admit all
+    this. But if it is true that soon there will be no middle way between
+    the empire of democracy and the yoke of one man, ought we not try
+    rather for the former than submit voluntarily to the latter? </dt>
+  <dd>Alexis
+    de Tocqueville, <em>Democracy In America, </em>quoted in Michael
+    Reid, <em>Forgotten Continent: A History of the New Latin America</em>
+  </dd>
 
-Civilization is a stream with banks. The stream is sometimes filled
-with blood from people killing, stealing, shouting and doing things
-historians usually record; while on the banks, unnoticed, people build
-homes, make love, raise children, sing songs, write poetry and even
-whittle statues. The story of civilization is the story of what
-happened on the banks. Historians are pessimists because they ignore
-the banks of the river. ---Will and Ariel Durant, *The Story of
-Civilization*
+  <dt>When one hears about acts of extraordinary bravery in combat, it is
+    usually a sign that the battle has not been going terribly well. For
+    when wars unfold according to plan and one's own side is winning, acts
+    of exceptional individual heroism are rarely called for. Bravery is
+    required mostly by the desperate side. </dt>
+  <dd>Guy Deutscher, <em>Through the
+    Language Glass</em>
+  </dd>
 
-Where a great proportion of the people are suffered to languish in
-helpless misery, that country must be ill-policed and wretchedly
-governed. --- Gentlemen of education, he observed, were pretty much
-the same in all countries; the condition of the lower orders, the poor
-especially, was the true mark of national discrimination. ---Boswell,
-Life of Johnson, quoted in Paul Theroux, *The Old Patagonian Express*
+  <dt>Civilization is a stream with banks. The stream is sometimes filled
+    with blood from people killing, stealing, shouting and doing things
+    historians usually record; while on the banks, unnoticed, people build
+    homes, make love, raise children, sing songs, write poetry and even
+    whittle statues. The story of civilization is the story of what
+    happened on the banks. Historians are pessimists because they ignore
+    the banks of the river. </dt>
+  <dd>Will and Ariel Durant, <em>The Story of
+    Civilization</em>
+  </dd>
 
-We were born of risen apes, not fallen angels, and the apes were armed
-killers besides. And so what shall we wonder at? Our murders and
-massacres and missiles and irreconcilable regiments? Or our treaties,
-whatever they may be worth; our symphonies, however seldom they may be
-played; our peaceful acres, however frequently they may be converted
-into battlefields; our dreams, however rarely they may be
-accomplished? The miracle of man is not how far he has sunk but how
-magnificently he has risen. ---Robert Ardrey, *African Genesis*, after
-the work of Raymond Dart, quoted in Michael Benson's *Space Odyssey:
-Stanley Kubrick, Arthur C. Clarke, and the Making of a
-Masterpiece*. [While "risen apes" is discredited, the essence of the
-quote rings true to me.]
+  <dt>Where a great proportion of the people are suffered to languish in
+    helpless misery, that country must be ill-policed and wretchedly
+    governed. </dt>
+  <dd> Gentlemen of education, he observed, were pretty much
+    the same in all countries; the condition of the lower orders, the poor
+    especially, was the true mark of national discrimination. ---Boswell,
+    Life of Johnson, quoted in Paul Theroux, <em>The Old Patagonian Express</em>
+  </dd>
 
-If civilization is to mean anything, people have to acknowledge the
-humanity of their enemies.  ---John Hersey, author of *Hiroshima*
+  <dt>We were born of risen apes, not fallen angels, and the apes were armed
+    killers besides. And so what shall we wonder at? Our murders and
+    massacres and missiles and irreconcilable regiments? Or our treaties,
+    whatever they may be worth; our symphonies, however seldom they may be
+    played; our peaceful acres, however frequently they may be converted
+    into battlefields; our dreams, however rarely they may be
+    accomplished? The miracle of man is not how far he has sunk but how
+    magnificently he has risen. </dt>
+  <dd>Robert Ardrey, <em>African Genesis</em>, after
+    the work of Raymond Dart, quoted in Michael Benson's <em>Space Odyssey:
+    Stanley Kubrick, Arthur C. Clarke, and the Making of a
+    Masterpiece</em>. [While "risen apes" is discredited, the essence of the
+    quote rings true to me.]
+  </dd>
 
-*
+  <dt>If civilization is to mean anything, people have to acknowledge the
+    humanity of their enemies.  </dt>
+  <dd>John Hersey, author of <em>Hiroshima</em>
+  </dd>
 
-*
+  <dt>
+    To watch the TV screen for any length of time is to learn some really
+    frightening things about the American sense of reality. We are cruelly
+    trapped between what we would like to be and what we actually are. And
+    we cannot possibly become what we would like to be until we are
+    willing to ask ourselves just why the lives we lead on this continent
+    are mainly so empty, so tame, and so ugly.  </dt>
+  <dd><em>James Baldwin</em>
+  </dd>
 
-To watch the TV screen for any length of time is to learn some really
-frightening things about the American sense of reality. We are cruelly
-trapped between what we would like to be and what we actually are. And
-we cannot possibly become what we would like to be until we are
-willing to ask ourselves just why the lives we lead on this continent
-are mainly so empty, so tame, and so ugly.  ---*James Baldwin*
+</dl>
 
-Character, Education, & Self-formation
---------------------------------------
+# Character, Education, & Self-formation
 
-Most people would sooner die than think; in fact, they do so.   
----Bertrand Russell
+<dl class="quote">
+  <dt>
+    Most people would sooner die than think; in fact, they do so.   
+  </dt>
+  <dd>Bertrand Russell
+  </dd>
 
-Education is what's left over after everything that has been learnt is
-forgotten.  ---James Bryan Conant, President of Harvard University
-from 1833--1853
+  <dt>Education is what's left over after everything that has been learnt is
+    forgotten.  </dt>
+  <dd>James Bryan Conant, President of Harvard University
+    from 1833--1853
+  </dd>
 
-Man, unless he has experienced the influence of learning and
-philosophy, is subject to impulses worse than those of a wild
-beast. There is no beast more savage and dangerous than a human being
-who is swept along by the passions of ambition, greed, anger, envy,
-extravagance, and sensuality.  ---Erasmus
+  <dt>Man, unless he has experienced the influence of learning and
+    philosophy, is subject to impulses worse than those of a wild
+    beast. There is no beast more savage and dangerous than a human being
+    who is swept along by the passions of ambition, greed, anger, envy,
+    extravagance, and sensuality.  </dt>
+  <dd>Erasmus
+  </dd>
 
-A person who won't read has no advantage over one who can't read. 
----Mark Twain
+  <dt>A person who won't read has no advantage over one who can't read. 
+  </dt>
+  <dd>Mark Twain
+  </dd>
 
-The ultimate measure of a man is not where he stands in moments of
-comfort and convenience, but where he stands at times of challenge and
-controversy. ---Dr. Martin Luther King Jr.
+  <dt>The ultimate measure of a man is not where he stands in moments of
+    comfort and convenience, but where he stands at times of challenge and
+    controversy. </dt>
+  <dd>Dr. Martin Luther King Jr.
+  </dd>
 
-Nothing is so necessary for a man as the company of intelligent
-women.  ---Leo Tolstoy
+  <dt>Nothing is so necessary for a man as the company of intelligent
+    women.  </dt>
+  <dd>Leo Tolstoy
+  </dd>
 
-You may be better than [your undergrad students] at what you do, but
-you have something to learn from every one of them. ---[UC Berkeley CS
-prof Manuel Blum, to Dick
-Karp](http://www.eecs.berkeley.edu/BEARS/CS_Anniversary/karp-talk.html) (both
-winners of the Turing Award)
+  <dt>You may be better than [your undergrad students] at what you do, but
+    you have something to learn from every one of them. </dt>
+  <dd>[UC Berkeley CS
+    prof Manuel Blum, to Dick
+    Karp](http://www.eecs.berkeley.edu/BEARS/CS_Anniversary/karp-talk.html) (both
+    winners of the Turing Award)
+  </dd>
 
-Always remember, others may hate you, but those who hate you don't win
-unless you hate them, and then you destroy yourself. ---Richard
-M. Nixon (farewell speech)
+  <dt>Always remember, others may hate you, but those who hate you don't win
+    unless you hate them, and then you destroy yourself. </dt>
+  <dd>Richard
+    M. Nixon (farewell speech)
+  </dd>
 
-Great people are those who make others feel that they, too, can become
-great.  ---Mark Twain
+  <dt>Great people are those who make others feel that they, too, can become
+    great.  </dt>
+  <dd>Mark Twain
+  </dd>
 
-If they don't give you a seat at the table, bring a folding chair. 
----Shirley Chisholm, first Black Congresswoman
+  <dt>If they don't give you a seat at the table, bring a folding chair. 
+  </dt>
+  <dd>Shirley Chisholm, first Black Congresswoman
+  </dd>
 
-The thing that makes you exceptional, if you are at all, is inevitably
-that which must also make you lonely.  ---Lorraine Hansberry
+  <dt>The thing that makes you exceptional, if you are at all, is inevitably
+    that which must also make you lonely.  </dt>
+  <dd>Lorraine Hansberry
+  </dd>
 
-You seldom get what you pay for, but you never get what you don't pay
-for. ---Stanley Kubrick, quoted in Michael Benson's *Space Odyssey:
-Stanley Kubrick, Arthur C. Clarke, and the Making of a Masterpiece*
+  <dt>You seldom get what you pay for, but you never get what you don't pay
+    for. </dt>
+  <dd>Stanley Kubrick, quoted in Michael Benson's <em>Space Odyssey:
+    Stanley Kubrick, Arthur C. Clarke, and the Making of a Masterpiece</em>
+  </dd>
 
-Resilience
+</dl>
 
-When it feels like life is fucking you, keep changing positions until
-it feels good. ---John Leguizamo, *Latin History for Morons*
+# Resilience
 
-Success is not final, failure is not fatal. It is the courage to
-continue that counts. ---Winston Churchill
+<dl class="quote">
 
-Success is the ability to go from one failure to another without loss
-of enthusiasm. ---Winston Churchill
+  <dt>When it feels like life is fucking you, keep changing positions until
+    it feels good. </dt>
+  <dd>John Leguizamo, <em>Latin History for Morons</em>
+  </dd>
 
-Everybody has a plan until they get punched in the mouth. ---Mike
-Tyson
+  <dt>Success is not final, failure is not fatal. It is the courage to
+    continue that counts. </dt>
+  <dd>Winston Churchill
+  </dd>
 
+  <dt>Success is the ability to go from one failure to another without loss
+    of enthusiasm. </dt>
+  <dd>Winston Churchill
+  </dd>
 
-I have problems today that I did not have yesterday. I had problems
-yesterday that I do not have today. Admission to the burning ruins,
-ten cents.  ---George C. Tilyou, after Coney Island's Steeplechase
-Park burned to the ground
+  <dt>Everybody has a plan until they get punched in the mouth. </dt>
+  <dd>Mike
+    Tyson
+  </dd>
 
-## Religion & Philosophy
+  <dt>
+    I have problems today that I did not have yesterday. I had problems
+    yesterday that I do not have today. Admission to the burning ruins,
+    ten cents.  </dt>
+  <dd>George C. Tilyou, after Coney Island's Steeplechase
+    Park burned to the ground
+  </dd>
 
-Our lives are not our own. From womb to tomb, we are bound to others,
-past and present. And by each crime and every kindness, we birth our
-future.  ---"The Revelation of Sonmi-451" from David Mitchell's
-novel *Cloud Atlas*
+</dl>
 
-He who fights with monsters should look to it that he himself does not
-become a monster. For when you look deep into the abyss, the abyss
-also looks into you.    ---Friedrich Nietzsche, *Beyond Good and Evil*
+# Religion & Philosophy
 
-Pray: To ask that the laws of the universe be temporarily annulled in
-behalf of a single petitioner confessedly unworthy. ---Ambrose
-Bierce, *The Devil's Dictionary*
+<dl class="quote">
+  <dt>Our lives are not our own. From womb to tomb, we are bound to others,
+    past and present. And by each crime and every kindness, we birth our
+    future.  </dt>
+  <dd>"The Revelation of Sonmi-451" from David Mitchell's
+    novel <em>Cloud Atlas</em>
+  </dd>
 
-The fact that a believer is happier than a skeptic is no more to the
-point than the fact that a drunken man is happier than a sober
-one. ---George Bernard Shaw
+  <dt>He who fights with monsters should look to it that he himself does not
+    become a monster. For when you look deep into the abyss, the abyss
+    also looks into you.    </dt>
+  <dd>Friedrich Nietzsche, <em>Beyond Good and Evil</em>
+  </dd>
 
-[Man is] the only animal that loves his neighbor as himself and cuts
-his throat if his theology isn't straight.  ---Mark Twain
+  <dt>Pray: To ask that the laws of the universe be temporarily annulled in
+    behalf of a single petitioner confessedly unworthy. </dt>
+  <dd>Ambrose
+    Bierce, <em>The Devil's Dictionary</em>
+  </dd>
 
-When one tugs at a single thing in nature, he finds it attached to the
-rest of the world. ---John Muir
+  <dt>The fact that a believer is happier than a skeptic is no more to the
+    point than the fact that a drunken man is happier than a sober
+    one. </dt>
+  <dd>George Bernard Shaw
+  </dd>
 
-Only a Christian would think of our Buddha as 'just a man'. Our Buddha
-is a being which all men can become---something greater than
-himself---if he can overcome all his illusions. You cling to your
-illusions---and call them faith. ---from Martin Scorsese's *Silence*,
-based on the novel of the same name by Shūsaku Endō
+  <dt>[Man is] the only animal that loves his neighbor as himself and cuts
+    his throat if his theology isn't straight.  </dt>
+  <dd>Mark Twain
+  </dd>
 
-Religion is regarded by the common people as true, by the wise as
-false, and by the rulers as useful. ---Seneca the Younger
+  <dt>When one tugs at a single thing in nature, he finds it attached to the
+    rest of the world. </dt>
+  <dd>John Muir
+  </dd>
 
-City life ---------
+  <dt>Only a Christian would think of our Buddha as 'just a man'. Our Buddha
+    is a being which all men can become</dt>
+  <dd>something greater than
+    himself---if he can overcome all his illusions. You cling to your
+    illusions---and call them faith. ---from Martin Scorsese's <em>Silence</em>,
+    based on the novel of the same name by Shūsaku Endō
+  </dd>
 
-A man of education cannot live among farmers in the country. The
-moment you leave the neighborhood of a city you are in the midst of
-barbarism. ---Sidney George Fisher (Philadelphia diarist), 1847
+  <dt>Religion is regarded by the common people as true, by the wise as
+    false, and by the rulers as useful. </dt>
+  <dd>Seneca the Younger
+  </dd>
 
-They talk very loud, very fast, and altogether [sic]. If they ask you
-a question, before you can utter three words of your answer, they will
-break out upon you again, and talk away.   ---John Adams, on his
-dislike for New Yorkers, quoted in *The Address Book: What Street
-Addresses Reveal About Identity, Race, Wealth, and Power, *by Deirdre
-Mask
+</dl>
 
-The kind of beauty that makes Paris charming can only exist where
-private rights and personal liberty are or have been trampled on. Only
-where the mob rules, or where kings rule, so that there is at one time
-absolutely no respect for the property of the rich and at another time
-for the rights of the poor, can the beauties of Paris be realized. 
----Niels Gron, quoted in *ibid.*
+# City Life
+
+<dl class="quote">
+  <dt>A man of education cannot live among farmers in the country. The
+    moment you leave the neighborhood of a city you are in the midst of
+    barbarism. </dt>
+  <dd>Sidney George Fisher (Philadelphia diarist), 1847
+  </dd>
+
+  <dt>They talk very loud, very fast, and altogether [sic]. If they ask you
+    a question, before you can utter three words of your answer, they will
+    break out upon you again, and talk away.   </dt>
+  <dd>John Adams, on his
+    dislike for New Yorkers, quoted in <em>The Address Book: What Street
+    Addresses Reveal About Identity, Race, Wealth, and Power, </em>by Deirdre
+    Mask
+  </dd>
+
+  <dt>The kind of beauty that makes Paris charming can only exist where
+    private rights and personal liberty are or have been trampled on. Only
+    where the mob rules, or where kings rule, so that there is at one time
+    absolutely no respect for the property of the rich and at another time
+    for the rights of the poor, can the beauties of Paris be realized. 
+  </dt>
+  <dd>Niels Gron, quoted in <em>ibid.</em>
+  </dd>
+
+</dl>

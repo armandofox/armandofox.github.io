@@ -11,9 +11,49 @@
 $bodyfont: "Libre Franklin", Helvetica, Arial, sans-serif;
 
 
-body,h1,h2,h3,h4,h5,h6 {
+body,h2,h3,h4,h5,h6 {
     font-size: 14px;
     font-family: $bodyfont;
+}
+
+h1,h2 {
+    color: #1e90ff;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+/* in-page TOC */
+
+nav.toc {
+    font-size: 100%;
+}
+
+/* sections on pages with images */
+.section {
+    clear: both;
+    margin-top: 1ex;
+}
+img.embed-left {
+    width: 120px;
+    margin-right: 1ex;
+    padding-right: 1ex;
+    float: left;
+}
+
+/* quotations list */
+
+dl.quote {
+    dt {
+        font-weight: normal;
+    }
+    dd {
+        font-style: italic;
+        font-weight: bold;
+        font-size: 100%;
+        color: grey;
+    }
 }
 
 .masthead, #site-nav, .greedy-nav a, .greedy-nav ul {
