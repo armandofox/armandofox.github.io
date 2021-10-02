@@ -4,6 +4,7 @@ permalink: /mastergeek-theater
 type: page
 layout: single
 toc: true
+toc_sticky: true
 sidebar:
   nav: "random"
 ---
