@@ -22,7 +22,6 @@ sidebar:
 
 -   I maintain [Audience1st](https://www.audience1st.com/), the open-source ticketing/subscription/donation management/CRM for small theaters. The goal is not to make money off of small theaters but rather support them in the critical mission of building a subscriber/audience base, including subscription sales, ticket sales, donations, etc. **Use of Audience1st is 100% free for nonprofit theaters during the lockdown, including for selling tickets to online events. **Click the link for FAQs, details, and a demo.
 
--   [Theatre Bay Area](http://theatrebayarea.org/) Board of Directors (September 2020--present)
 -   Board of Directors (2004-2012) and Advisory Board (2013-present) of [Altarena Playhouse](http://altarena.org/), the Bay Area's oldest continuously-operating community theater (founded 1938). 
 -   Advisory Board, [The Lorraine Hansberry Theatre](http://lhtsf.org/), 2019-present.
 -   Advisory Board, [Custom Made Theatre Co.,](http://custommade.org/) 2013-present.

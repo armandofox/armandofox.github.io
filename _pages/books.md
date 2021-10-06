@@ -5,6 +5,7 @@ type: page
 layout: single
 sidebar:
   nav: "random"
+  test: "main_sidebar"
 ---
 
 You'll find my name associated with a few books. Most can be downloaded for free as PDF, or you can obtain hardcopy and sometimes Kindle editions from Amazon.

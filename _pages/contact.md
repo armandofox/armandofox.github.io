@@ -1,5 +1,5 @@
 ---
-title:
+title: Contact/Bio
 permalink: /contact/
 type: page
 layout: single

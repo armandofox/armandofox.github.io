@@ -38,7 +38,25 @@ after the first industrial revolution.
 
 Over time, cities replace their imports as they develop the local
 expertise to make them.  This frees up capital that was previously
-spent on imports to create new work inside the city.
+spent on imports to create new work inside the city.  If this capital
+can be put to work to create new products or value that can then be
+*exported* from the city, its economy will grow further.  If not, the
+its economy may stagnate.  Import replacement creates a fixed amount
+of new local value, but its side effects (export creation) can
+initiate a further cycle of import replacement of something else.
+
+By contrast, agricultural expansion tracks the growth of city jobs,
+not of rural jobs, because technology tends to make existing
+agriculture workers more productive, reducing the need for
+agricultural labor even as cities' demand for agricultural products
+increases.  (Denmark in the early 20th century, for example, was
+capable of producing lots of food, but had no market for it, hence its
+economy could not expand by that means.  The explosive growth of
+London provided this market, which fueled the development of
+Copenhagen as a city that then started doing its own import
+replacements and in turn providing a larger *domestic* market for
+Danish agriculture.)  In this sense, every city has ancestry in one or
+more older cities.
 
 ## Creation of new work
 
@@ -157,5 +175,24 @@ opportunities for getting ahead.  (Certainly the current citizens of
 India and China believe this, given the monumental urban migrations
 happening continuously in both countries; Latin America 
 seems [not far behind]({% post_url 2018-12-13-radical-cities %}).)
+
+A corollary of all this is that one cannot place production capacity in somewhere
+that doesn't have access to this economic infrastructure (market,
+suppliers that enable spin-offs and creation of new work, etc.)  China
+tried to populate villages with factories as part of the Great Leap
+Forward, and failed, because there was no economy in village for the
+factories to plug into.
+
+Finally, although the term "disruption" wasn't used at the time of
+this book's writing the way it is used today, Jacobs identifies it as
+the tension between those "whose interests are with already
+well-established economic activities, and those whose interests are
+with the emergence of new economic activities."  She argues that to
+avoid stagnation from the established interests, governments must act
+to protect the naturally-weaker position of the "disruptors".  In the
+case of the Internet, this has been somewhat true in that it has
+largely been maintained as a common utility, even though privately
+operated; the dominance of a few large tech companies in 2020 may be
+working against this.
 
 

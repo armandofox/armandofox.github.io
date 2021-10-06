@@ -18,7 +18,6 @@ I'm working to improve equity, diversity, and inclusion (especially in Computer 
 -   UC Berkeley campus level:  [Equity Advisor](https://campusclimate.berkeley.edu/faculty/our-programs-and-services/faculty-equity-advisors)
 -   CS academia level: UC Berkeley representative to [CMD-IT LEAP Alliance](http://leapalliance.org/) to dramatically improve diversity in the CS professoriate
 
-I'm also involved in improving DEI and social justice in the Bay Area theater community, as a Board member of Theatre Bay Area serving on its DEI committee (among other roles).
 
 ## "I'm a student wishing to be more directly involved in diversity-enhancing activities..."
 

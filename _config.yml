@@ -51,6 +51,12 @@ breadcrumbs: true
 defaults:
   - scope:
       path: ""
-      type: post
+      type: posts
+      sidebar:
+        - title: "Travel"
+          image: /assets/img/piano.jpg
+          text: >
+            **Sep. 25-29:** <br/> personal travel <br>
+            **Oct. 8:** <br> CELL PI meeting</br>
     values:
       layout: single
