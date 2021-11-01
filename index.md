@@ -4,3 +4,11 @@
 
 layout: home
 ---
+
+# News
+
+Theater is back!  I'm music directing a
+[holiday gig](https://ccct.org/home-for-the-holidays/) at Contra Costa
+Civic Theater in December,
+[La Cage aux Folles]() at Altarena Playhouse in spring, and
+[The Pajama Game]() at 42nd Street Moon in early summer!

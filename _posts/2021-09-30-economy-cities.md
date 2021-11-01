@@ -195,4 +195,14 @@ largely been maintained as a common utility, even though privately
 operated; the dominance of a few large tech companies in 2020 may be
 working against this.
 
+# Afterthoughts
+
+I realize I've read a number of books that provide validating examples of
+"creating new work" in action, even though their narratives are not
+specifically situated in cities. A good recent one is
+[From Betamax to Blockbuster]({% post_url 2017-03-11-betamax-blockbuster %}),
+which describes the rise of the VCR: the entire home video distribution
+industry (rental and sales)
+arose out of "new work creation" by people in businesses such as music
+distribution and magnetic media duplication.
 

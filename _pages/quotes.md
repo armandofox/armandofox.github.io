@@ -120,6 +120,13 @@ claim to read more than I do.***
 # Character, Education, & Self-formation
 
 <dl class="quote">
+
+  <dt>
+    Envy is wishing you were in their place; jealousy is wishing they
+    weren't.
+  </dt>
+  <dd>me</dd>
+
   <dt>
     Most people would sooner die than think; in fact, they do so.   
   </dt>

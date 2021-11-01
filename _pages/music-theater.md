@@ -45,39 +45,43 @@ My **vintage 80s synthesizers** (Juno-106, D50, DX7) used in those bands have 
 
 <img class="embed-left" align="right" src="https://images-na.ssl-images-amazon.com/images/I/512Xr2Mb7dL._SX331_BO1,204,203,200_.jpg">
 
-Much of what I've learned doing the productions below is summarized in my book [Piano/Conductor: So They Talked You Into Being Music Director](http://pianoconductor.com/). (The link is to purchase hardcopy on Amazon, but you can [download the PDF](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxhcm1hbmRvZm94fGd4OjIzNjRkNzI4MmJhYjY1YTQ) for free.) Productions are listed in reverse chronological order.
+Much of what I've learned doing the productions below is summarized in my book [Piano/Conductor: So They Talked You Into Being Music Director](http://pianoconductor.com/). (The link is to purchase hardcopy on Amazon, but you can [download the PDF](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxhcm1hbmRvZm94fGd4OjIzNjRkNzI4MmJhYjY1YTQ) for free.)
 
 I also coach actors on musical performance (though not on technical vocal issues).
 
+Productions I've been involved with in reverse chronological order:
 
+
+1. The Pajama Game (42nd Street Moon, dir. Amy Marie Haven), May/June 2022
+1. La Cage aux Folles (Altarena Playhouse, dir. Phil Lowery), Mar/Apr 2022
 1.  ~~Sunday In the Park With George (Gatehouse Theatre,
 dir. Rachel Pospíšil), ~~June/July 2020~~ _Cancelled due to COVID-19_
-2.  ~~Dreamgirls (Altarena Playhouse, dir. ShawnJ West), May/June 2020~~* Cancelled due to COVID-19*
-3.  Bloody Bloody Andrew Jackson (Custom Made Theatre Co., dir. Brian Katz), Sep/Oct 2019
-4.  * Guys and Dolls (Altarena Playhouse, dir. Stewart Lyle), Mar/Apr 2018
-5.  In the Heights (Contra Costa Civic Theatre, dir. Ryan
+1.  ~~Dreamgirls (Altarena Playhouse, dir. ShawnJ West), May/June 2020~~* Cancelled due to COVID-19*
+1.  Bloody Bloody Andrew Jackson (Custom Made Theatre Co., dir. Brian Katz), Sep/Oct 2019
+1.  * Guys and Dolls (Altarena Playhouse, dir. Stewart Lyle), Mar/Apr 2018
+1.  In the Heights (Contra Costa Civic Theatre, dir. Ryan
 Weible), **TBA Finalist **{: .emph} Music Direction, Direction, Best Musical, Best Ensemble, Jul/Aug 2017
-6.  * Chess (Custom Made Theatre Co., dir. Brian Katz), **BATCC Winner**{: .emph} Music Direction, Ensemble, Best Overall (SF), Best Overall (entire Bay Area), Sep/Oct 2016
-7.  Next to Normal (Custom Made Theatre Co., dir. Brian Katz), **BATCC
+1.  * Chess (Custom Made Theatre Co., dir. Brian Katz), **BATCC Winner**{: .emph} Music Direction, Ensemble, Best Overall (SF), Best Overall (entire Bay Area), Sep/Oct 2016
+1.  Next to Normal (Custom Made Theatre Co., dir. Brian Katz), **BATCC
 Finalist **{: .emph} Music Direction, Sep/Oct 2013
-8.  Rent (Altarena Playhouse, dir. Stewart Lyle), Mar/Apr 2013
-9.  The Fantasticks (Altarena Playhouse, dir. Stewart Lyle), Oct/Nov 2012
-10. The 25th Annual Putnam County Spelling Bee (Altarena Playhouse, dir. Stewart Lyle), Mar/Apr 2011
-11. * Man of La Mancha (Altarena Playhouse, dir. Stewart Lyle), Feb-Apr 2010 
-12. * Gypsy  (Altarena Playhouse, dir. Christina Lazo), Mar/Apr 2009
-13. Chicago (Altarena Playhouse, dir. Christina Lazo), Mar/Apr 2008
-14. Sweeney Todd (St. Mary's College, dir. Reid Davis), Apr 2009
-15. * Assassins (Custom Made Theater Co., dir. Brian Katz), **TBA Top Ten**{: .emph}, Jun/Jul 2007
-16. The Last Five Years (Altarena Playhouse, dir. Corrie Lenn Borris), May/Jun 2007
-17. You're a Good Man, Charlie Brown (Altarena Playhouse, dir. Ron Lytle), May/Jun 2006
-18. * Merrily We Roll Along (Altarena Playhouse, dir. Phil Lowery), Oct/Nov 2006
-19. * The Man Who Saved Christmas (Altarena Playhouse, dir. Ron Lytle), Dec 2006
-20. Cabaret (Altarena Playhouse, dir. Phil Lowery), Sep/Oct 2005
-21. * Oh My Godmother! (Altarena Playhouse, dir. Ron Lytle), Jul/Aug 2005
-22. Company (Altarena Playhouse, dir. Phil Lowery), Mar/Apr 2004
-23. Company (Haste Street Players, dir. Phil Lowery), 1998
-24. Bye Bye Birdie (Baker House Productions at MIT, dir. Liz Ambrogi), Apr 1990
-25. Chicago (Baker House Productions at MIT, dir. Ben DeSousa), Apr 1989
-26. Guys and Dolls (Baker House Productions at MIT, dir. Ben DeSousa), Apr 1988
+1.  Rent (Altarena Playhouse, dir. Stewart Lyle), Mar/Apr 2013
+1.  The Fantasticks (Altarena Playhouse, dir. Stewart Lyle), Oct/Nov 2012
+1. The 25th Annual Putnam County Spelling Bee (Altarena Playhouse, dir. Stewart Lyle), Mar/Apr 2011
+1. * Man of La Mancha (Altarena Playhouse, dir. Stewart Lyle), Feb-Apr 2010 
+1. * Gypsy  (Altarena Playhouse, dir. Christina Lazo), Mar/Apr 2009
+1. Chicago (Altarena Playhouse, dir. Christina Lazo), Mar/Apr 2008
+1. Sweeney Todd (St. Mary's College, dir. Reid Davis), Apr 2009
+1. * Assassins (Custom Made Theater Co., dir. Brian Katz), **TBA Top Ten**{: .emph}, Jun/Jul 2007
+1. The Last Five Years (Altarena Playhouse, dir. Corrie Lenn Borris), May/Jun 2007
+1. You're a Good Man, Charlie Brown (Altarena Playhouse, dir. Ron Lytle), May/Jun 2006
+1. * Merrily We Roll Along (Altarena Playhouse, dir. Phil Lowery), Oct/Nov 2006
+1. * The Man Who Saved Christmas (Altarena Playhouse, dir. Ron Lytle), Dec 2006
+1. Cabaret (Altarena Playhouse, dir. Phil Lowery), Sep/Oct 2005
+1. * Oh My Godmother! (Altarena Playhouse, dir. Ron Lytle), Jul/Aug 2005
+1. Company (Altarena Playhouse, dir. Phil Lowery), Mar/Apr 2004
+1. Company (Haste Street Players, dir. Phil Lowery), 1998
+1. Bye Bye Birdie (Baker House Productions at MIT, dir. Liz Ambrogi), Apr 1990
+1. Chicago (Baker House Productions at MIT, dir. Ben DeSousa), Apr 1989
+1. Guys and Dolls (Baker House Productions at MIT, dir. Ben DeSousa), Apr 1988
 
 **Other Original Reductions for Small Theater Pits: **Oklahoma! (Contra Costa Civic Theatre, 1998)

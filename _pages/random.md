@@ -33,6 +33,10 @@ blog](/category/Book+summary)
 partially useful (E-Z BART) to super useless. Knock yourself out.  A
 few of interest:
 
+-  [Bird of the Day](https://birdoftheday.armandofox.com) mimics the
+page-a-day tear-off "Bird of the Day" calendar we have at home.  We
+like to reveal the bird a little at a time to see who can guess its
+name first.
 -   ~~[PogoVision](https://github.com/armandofox/PogoVision-server), a photo-scrolling screensaver/app for Roku meant to imitate AppleTV's screensaver mode~~.  Discontinued because the free Roku app *PhotoView for Google Photos* does this as well as acting as a pretty decent album viewer.
 -   [Alexa BART app](https://github.com/armandofox/alexa-bart-py). "Alexa, ask BART when is the next train to downtown Berkeley." ... "Alexa, ask BART what train will get me to 16th and Mission by 7 pm."
 -   [Latex2ebook](https://github.com/armandofox/latex2ebook), a toolchain for the Unix-savvy to produce both beautiful PDF and functional AZW (Amazon Kindle format) from the same LaTeX sources.
