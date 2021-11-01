@@ -15,8 +15,13 @@ See links at left.
 
 I am a bibliophile.  That is, not only do I love reading, I love books
 and all things associated with them.  I can and do spend hours in used
-bookstores and libraries; finding good ones is often a major goal when I
+book stores and libraries; finding good ones is often a major goal when I
 visit a new city or country.
+
+My all-time favorites in the US are Powell's in Portland and
+Strand Books in New York.  My favorite independents in the Bay Area
+include Bird & Beckett in Glen Park, Moe's in Berkeley, Borderlands in
+the Mission, and City Lights in North Beach.
 
 - You can read my [occasional book reviews on
 Amazon](https://www.amazon.com/gp/profile/amzn1.account.AFVJOUDG4KIYJVQIOKHODUDCCB4Q/ref=cm_cr_dp_d_pdp?ie=UTF8)
