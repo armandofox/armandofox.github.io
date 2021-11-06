@@ -8,12 +8,14 @@ sidebar:
 ---
 
 
-# Upcoming Shows 
+# Upcoming Shows I'm Working On
 
+
+* La Cage aux Folles (Altarena Playhouse, dir. Phil Lowery),
+March/April 2022 (Music Director)
 
 * The Pajama Game (42nd Street Moon, dir. Amy Marie Haven), May/June
 2022 (Music Director)
-
 
 # Ways I support local theater
 
