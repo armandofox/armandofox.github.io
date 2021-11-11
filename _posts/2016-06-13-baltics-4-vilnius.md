@@ -56,10 +56,9 @@ The next day our plan was to spend a half-day in Vilnius, then pick up our renta
 
 <figure><img src='/assets/img/2016-06-13-baltics-4-vilnius/IMG_4235.jpeg' alt=''></figure>
 
-It looked to be about a 4.5 hour drive
+What is surely the world's shortest airport train took us on the 5km,
+5 minute ride from central Vilnius.
+It looks to be about a 4.5 hour unremarkable drive to the Curonian Spit, where we
+will celebrate Jonines (St John's Day), which is observed there much
+as it was in the time of the Druids.
 
-Railway museum
-
-The world's shortest airport train
-
-The boring drive to the Curonian Spit
