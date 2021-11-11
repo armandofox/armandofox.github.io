@@ -35,22 +35,23 @@ We also managed to climb to the top of its belfry, whose interior construction l
 
 <figure><img src='/assets/img/2016-06-13-baltics-4-vilnius/IMG_5522.jpeg' alt=''></figure>
 
-<figure><img src='/assets/img/2016-06-13-baltics-4-vilnius/IMG_5524.jpeg' alt='The "new town" is visible beyond, but we didn't really have time to explore that part.'/><figcaption>The "new town" is visible beyond, but we didn't really have time to explore that part.</figcaption></figure>
+<figure><img src='/assets/img/2016-06-13-baltics-4-vilnius/IMG_5524.jpeg' alt='The "new town" is visible beyond, but we didn&raquo;t really have time to explore that part.'/><figcaption>The "new town" is visible beyond, but we didn't really have time to explore that part.</figcaption></figure>
 
 <figure><img src='/assets/img/2016-06-13-baltics-4-vilnius/IMG_5528.jpeg' alt=''></figure>
 
 That evening we met up with Vita Reinys at [Senoji Trobele](http://www.senojitrobele.lt/), a *very *traditional Lithuanian restaurant. You know it's traditional because every dish is painstakingly explained---they're clearly very into what they do. And it really was a great meal.\
 No one knows if Vita is related to Tonia's family or not; they know no common relatives, but the name is sufficiently uncommon that it seems they must share one if you go back far enough. Vita actually grew up in Chicago in a Lithuanian neighborhood (so grew up speaking the language), and after several years of being burned out from nursing, she decided to reboot her life and thought hey, why not move to Lithuania? So here she is, and several years later she has been adjusting well, but it was amusing the first time we met her to hear straight-ahead American English with a Chicago twang.
 
-[![](https://3.bp.blogspot.com/-f7iqJXtX860/V3P1uDa1joI/AAAAAAAARCQ/NK2bYqCBWpQD-zLdMbOjfNO7L019Y7BZgCLcB/s400/Photo%2Bon%2BJun%2B29-%2B2016-%2B9_20_45%2BAM.jpeg)](https://3.bp.blogspot.com/-f7iqJXtX860/V3P1uDa1joI/AAAAAAAARCQ/NK2bYqCBWpQD-zLdMbOjfNO7L019Y7BZgCLcB/s1600/Photo%2Bon%2BJun%2B29-%2B2016-%2B9_20_45%2BAM.jpeg)
+<figure><img src="/assets/img/card.jpeg"></figure>
 
 <figure><img src='/assets/img/2016-06-13-baltics-4-vilnius/IMG_4229.jpeg' alt='Vita and Penguin enjoying honey mead, a traditional Lithuanian spirit, here served in shot glasses made of ice.'/><figcaption>Vita and Penguin enjoying honey mead, a traditional Lithuanian spirit, here served in shot glasses made of ice.</figcaption></figure>
 
-<figure><img src='/assets/img/2016-06-13-baltics-4-vilnius/IMG_5533.jpeg' alt='At the end of the evening, the restaurant owner treated us to a final shot of '999', a Lithuanian digestive made with 27 herbs (hence the name). We ended up bringing home a bottle.'/><figcaption>At the end of the evening, the restaurant owner treated us to a final shot of '999', a Lithuanian digestive made with 27 herbs (hence the name). We ended up bringing home a bottle.</figcaption></figure>
+<figure><img src='/assets/img/2016-06-13-baltics-4-vilnius/IMG_5533.jpeg' alt='At the end of the evening, the restaurant owner treated us to a final shot of 999, a Lithuanian digestive made with 27 herbs (hence the name). We ended up bringing home a bottle.'/><figcaption>At the end of the evening, the restaurant owner treated us to a final shot of '999', a Lithuanian digestive made with 27 herbs (hence the name). We ended up bringing home a bottle.</figcaption></figure>
 
 The next day our plan was to spend a half-day in Vilnius, then pick up our rental car at the airport and do a leisurely drive to our next and final destination, the town of Nida on the Curonian Spit. Our car pickup was at the airport, and since the timing of trains to the airport was such that we had 45 minutes to spare, we visited the small but interesting Lithuanian Railway Museum, which uses some maintenance tracks alongside the Vilnius train station. We saw vintage (including Soviet-era) Lithuanian Railways rolling stock and locomotives, and even got to hand-operate one of those track-inspection carts you see in cartoons all the time!
 
-[![](https://2.bp.blogspot.com/-FQ1f9PrqSgI/V3A6CpDvxcI/AAAAAAAAQto/eRXLFdXV7Dggbl03oPk7MIOWU7nG2WldgCKgB/s640/IMG_4233.MOV)](https://2.bp.blogspot.com/-FQ1f9PrqSgI/V3A6CpDvxcI/AAAAAAAAQto/eRXLFdXV7Dggbl03oPk7MIOWU7nG2WldgCKgB/s1600/IMG_4233.MOV)
+<figure><img src='/assets/img/IMG_4233.MOV.gif'></figure>
+
 
 <figure><img src='/assets/img/2016-06-13-baltics-4-vilnius/IMG_4230.jpeg' alt=''></figure>
 
