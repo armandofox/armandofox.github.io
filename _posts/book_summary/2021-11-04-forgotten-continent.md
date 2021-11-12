@@ -156,5 +156,15 @@ effectively illiquid.  The only way out was forced deflation, to drive
 nominal prices back down, but that is politically very difficult.
 What was needed was to re-attract outside investment
 
+## Economics
+
+Resource curse: jobs don't pay much and don't result in transerable
+skills; wealth gets concentrated; no national incentive to improve on
+this equilibrium but the people don't get richer.  Also, resources are
+commodities and these economies are highly subject to disruption from
+global market forces; historically, governments respond poorly
+(allowing unchecked inflation, or trying to peg the currency or
+grossly devalue it).
+
 
 
