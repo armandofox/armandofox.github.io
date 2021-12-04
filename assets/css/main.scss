@@ -52,7 +52,14 @@ nav.toc {
 img.thumb {
     width: 120px;
 }
-
+figcaption {
+    font-size: 100%;
+    font-style: italic;
+    background-color: #333;
+    padding: 0 2em;
+    color: white;
+    text-align: center !important;
+}
 /* quotations list */
 
 dl.quote {
