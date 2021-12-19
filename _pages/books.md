@@ -20,10 +20,14 @@ You'll find my name associated with a few books. Most can be downloaded for free
 
 
 Co-authored with Turing Award winner Dave Patterson, this book serves as the foundation of CS 169/169A as well as the edX "Agile Development" Professional Certificate.
+The First Edition, published in 2014, was the 2016 Most Promising New
+Textbook award (the "texty"?) from the Textbook Authors Association.
 
 PDF version [freely downloadable](http://www.saasbook.info/), hardcopy and Kindle versions available for purchase on Amazon. If you buy the hardcopy you get the Kindle version for free!
 
-On the book's home page you'll also find freely downloadable versions of the First Edition in English, Spanish, and Brazilian Portuguese, and purchasable editions in Mandarin Chinese and Greek.
+On the book's home page you'll also find freely downloadable versions
+of the First Edition in English, Spanish, and Brazilian Portuguese,
+and purchasable hardcopy editions in Mandarin and Greek.
 
 # Piano/Conductor: So They Talked You Into Being Music Director
 {: .section}

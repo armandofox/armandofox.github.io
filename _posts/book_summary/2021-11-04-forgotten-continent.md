@@ -170,7 +170,7 @@ Also, resources are non-price-dense commodities highly subject to
 price fluctuation due to global market forces.
 This blueprint  is the exact *opposite* of what an economy needs to establish
 itself through import substitution (as explained in [Jane Jacobs's *The
-Economy of Cities*]({% post_url 2021-09-30-economy-cities %})).
+Economy of Cities*]({% post_url book_summary/2021-09-30-economy-cities %})).
 
 When Southeast Asian governments responded to the oil shocks of the
 1970s by redoubling their attention on exports and globalization, with
@@ -296,7 +296,7 @@ fear of having both kneecaps broken.**
 years back argued that  LatAms need legal title to their land/homes so
 they can collateralize it, but that presupposes a
 system they can trust to enforce that ownership.  Interestingly, 
-in [Radical Cities]({% post_url 2018-12-13-radical-cities  %}#anti-desoto),
+in [Radical Cities]({% post_url book_summary/2018-12-13-radical-cities  %}#anti-desoto),
 Greenfield quotes Brazilian academic Jailson de Souza saying that
 a co-op/rent-control model would be better, since if you
 gave them title to their land, they'd sell it for a quick buck and end

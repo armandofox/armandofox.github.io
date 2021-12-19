@@ -51,10 +51,12 @@ Much of what I've learned doing the productions below is summarized in my book 
 
 I also coach actors on musical performance (though not on technical vocal issues).
 
-Productions I've been involved with in reverse chronological order:
+Productions I've been involved with in reverse chronological order: (*
+marks a production for which I did substantial original arrangements
+or reductions)
 
 
-1. The Pajama Game (42nd Street Moon, dir. Amy Marie Haven), May/June 2022
+1. The Pajama Game (42nd Street Moon, dir. Becky Potter), May/June 2022
 1. La Cage aux Folles (Altarena Playhouse, dir. Phil Lowery), Mar/Apr 2022
 1.  ~~Sunday In the Park With George (Gatehouse Theatre,
 dir. Rachel Pospíšil), ~~June/July 2020~~ _Cancelled due to COVID-19_

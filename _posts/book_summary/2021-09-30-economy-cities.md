@@ -1,5 +1,5 @@
 ---
-title: "America in the Seventies"
+title: "The Economy of Cities"
 categories: ["Book summary","Urbanism"]
 ---
 
@@ -174,7 +174,7 @@ is poverty, and in fact cities are more likely to provide non-stagnant
 opportunities for getting ahead.  (Certainly the current citizens of
 India and China believe this, given the monumental urban migrations
 happening continuously in both countries; Latin America 
-seems [not far behind]({% post_url 2018-12-13-radical-cities %}).)
+seems [not far behind]({% post_url book_summary/2018-12-13-radical-cities %}).)
 
 A corollary of all this is that one cannot place production capacity in somewhere
 that doesn't have access to this economic infrastructure (market,
@@ -200,7 +200,7 @@ working against this.
 I realize I've read a number of books that provide validating examples of
 "creating new work" in action, even though their narratives are not
 specifically situated in cities. A good recent one is
-[From Betamax to Blockbuster]({% post_url 2017-03-11-betamax-blockbuster %}),
+[From Betamax to Blockbuster]({% post_url book_summary/2017-03-11-betamax-blockbuster %}),
 which describes the rise of the VCR: the entire home video distribution
 industry (rental and sales)
 arose out of "new work creation" by people in businesses such as music

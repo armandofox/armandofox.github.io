@@ -2,7 +2,7 @@ main:
   - title: "Contact/Bio"
     url: /contact
   - title: "Research"
-    url: /
+    url: /research
   - title: "Teaching"
     url: /teaching
   - title: "Diversity"
@@ -65,13 +65,13 @@ contact:
 
 research:
   - title: "Alumni"
-    url: /
+    url: /research/alumni
   - title: "RAD Lab"
-    url: /
+    url: /research/radlab
   - title: "ROC"
-    url: /
+    url: /research/roc
   - title: "GloMop/NOW"
-    url: /
+    url: /research/glomop-now
 
 random:
   - title: "Books"
