@@ -12,7 +12,7 @@ sidebar:
 
 **Phone:**  No. Please email to setup a time to talk: my last name at berkeley dot edu.
 
-**Open office hours (Fall 2021)**: TBD
+**Open office hours (Spring 2022)**: TBD
 
 My [somewhat-up-to-date CV](https://docs.google.com/Doc?docid=0ARKnkWLvWBrTZGo4cnpzN18xMTU2c3c3ZGRn&hl=en_US)  •  [Bio and Photos](/bio)
 
@@ -20,7 +20,9 @@ My [somewhat-up-to-date CV](https://docs.google.com/Doc?docid=0ARKnkWLvWBrTZGo4c
 
 * I don't do expert witness work, ever, but if you're specifically interested in my mobile computing work as a PhD student because you're trying to take down a patent troll, I've [put all that stuff on GitHub](https://github.com/armandofox/glomop) and good luck to you.
 
-* Students who need a recommendation letter: please read these [guidelines](http://www.armandofox.com/recommendation-letters) before requesting one. It’s for your own benefit.
+* Students who need a recommendation letter: please read these
+[guidelines](/students/letters)
+before requesting one. It’s for your own benefit.
 
 * I don’t respond to recruiter inquiries of any kind. Sorry.
 
