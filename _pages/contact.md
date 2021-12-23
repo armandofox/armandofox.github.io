@@ -14,7 +14,10 @@ sidebar:
 
 **Open office hours (Spring 2022)**: TBD
 
-My [somewhat-up-to-date CV](https://docs.google.com/Doc?docid=0ARKnkWLvWBrTZGo4cnpzN18xMTU2c3c3ZGRn&hl=en_US)  •  [Bio and Photos](/bio)
+My [somewhat-up-to-date
+CV](https://docs.google.com/Doc?docid=0ARKnkWLvWBrTZGo4cnpzN18xMTU2c3c3ZGRn&hl=en_US)
+
+## See links at left for bios and photos
 
 # Please be aware before contacting me…
 

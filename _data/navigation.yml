@@ -50,7 +50,7 @@ music-theater:
     url: /books
 
 contact:
-  - title: "Bio & Photos"
+  - title: "Bios"
     children:
       - title: "En castellano"
         url: /contact/bio-castellano
@@ -58,6 +58,8 @@ contact:
         url: /contact/bio-failure
       - title: "Older Bios"
         url: /contact/bio-older
+  - title: "Photos"
+    url: "https://photos.app.goo.gl/QfzHW3YoPQJzlL1v1"
   - title: "PGP Public Key"
     url: /contact/pgp/
   - title: Visiting
@@ -82,3 +84,5 @@ random:
     url: /retro
   - title: "Quotes"
     url: /quotes
+  - title: "Blog/Writings"
+    url: /categories
