@@ -31,146 +31,144 @@ I found WMB serendipitously while browsing the bargain cart at [Bird &
 Beckett](https://birdbeckett.com), my neighborhood independent
 bookstore.  
 
-I already believed, from ETR, that government's ability to provide
-basic services for its people and to create an environment in which
-its people can prosper are fundamental to economic growth.  So it
-makes sense to take the two books together.
-
-FC is written as a history, not as a treatise on the political
-economics of LatAm, but I focus on the aspects of that
-history that address my question, and their intersection with the
-ideas in WMB and ETR.
-
 # TL;DR
 
-Free markets work really well at raising overall prosperity--indeed,
-nothing else has been shown to work nearly as well.  But free markets
+* Free markets work really well at raising overall prosperity--indeed,
+nothing else has been shown to work nearly as well.  
+
+* But free markets
 need societal and governmental conditions in which to flourish---weak states
-foster both internal economic inequality and violent crime---and
-where those conditions are absent, they cannot be imposed top-down or
+foster both internal economic inequality and violent crime, which are
+inimical to free markets.  (This is the summary argument of ETR.)
+
+* Where those conditions are absent, they cannot be imposed top-down or
 wholesale, but must be created incrementally from within.  
 
-Therefore,
+* Therefore,
 if you want to help, help the people on the ground who are doing
 incremental but concrete things from within, not the "top down
 planners" who aren't accountable to the people they're trying to help.
 
 ## LatAm in the 20th century and previously
 
-Many outsiders' view of LatAm is both anachronistic and somewhat
-romanticized: poor/oppressed people trying to overcome decades of
-colonialism who are easy prey for drug barons and military populists.
-In fact, notwithstanding episodes of authoritarianism and command
-economies, the evidence is that LatAms want what everyone
-wants--basic freedoms, security, effective government that protects
-their safety and property, and market conditions that create jobs,
-opportunities, and social prosperity.  (That last sentence more or
-less sums up ETR's main premise: free markets work really well, but
-you need a minimal amount of effective government for them to
-function.)  The typical 20th century LatAm citizen has better access
-to both basic services and information about the
-world than their parents and likely lives in a country where mostly-honest
-elections are now the norm, and citizens can aspire to material
-progress.  
+The typical 20th century LatAm citizen is far better off than their
+parents, both politically (voting, democracy) and economically, but
+LatAm's economic growht still lags behind other regions.  (We
+informally define "growth" as "general rise in standard of living for
+everyone.") 
 
-Yet Western liberals are split between vicariously worshiping the Castros
-and Chavezes as worthy solutions to LatAm's problems if only the
-implementation were better, and failing to realize that weak states
+Western liberals who think the Castros
+and Chavezes would be worthy solutions to LatAm's problems if only the
+implementation were better often fail to realize that weak states,
+whether populist dictators or corrupt democracies,
 foster both internal economic inequality and violent crime.
 
 The US colonists came from a British tradition of
-common law (legal principles generalize from case rulings and therefore
-the law can adapt to reality on the ground),
-participatory, decentralized, and parliamentary democracy.
-The French/Spanish colonizers
-brought militarized monarchical feudalism and top-down civil-law
+participatory, decentralized, and parliamentary democracy based on
+common law, in which legal principles generalize from case rulings and therefore
+the law can adapt to reality on the ground.
+In contrast, French/Spanish colonizers
+brought those countries' militarized monarchical feudalism and top-down civil-law
 tradition, in which judges are glorified clerks 
 applying a rigid prescriptive written law.
 That model neither scales nor promotes economic growth: missives from the
 king take months to get to the New World, and are ignored when they do
-get there because the state apparatus of force cannot effectively extend its
-reach, so local strongmen simply rule at their whim and arrogate
+get there because the state apparatus cannot effectively extend its
+reach, so local strongmen simply rule at their whim (might makes
+right) and arrogate
 riches to themselves.
-Even today, postcolonial countries with British legal
-origins have better personal-property protections in practice than
-those with French or Spanish legal origins.
 
 So when the LatAm colonies broke away, LatAm subjects didn't have a
 democratic participatory model to follow; they had
 essentially only been the subjects of empires.
-Two kinds of governments/leaders emerged:
+Even today, postcolonial countries with British legal
+origins have better personal-property protections in practice than
+those with French or Spanish legal origins.
+Two kinds of governments/leaders emerged in LatAm:
 
 * "Modernists" or "reformers" bearing liberal European
 ideas (the Enlightenment, the Age of Reason, John Locke, Adam Smith),
 spurred by the various [Revolutions of 1848 in
-Europe](https://en.wikipedia.org/wiki/Revolutions_of_1848). These were
-often opposed by the people because they tended 
-to oppose things like communal land ownership, which had been part of
-the fabric of pre-Columbian life.  The economic positivists, who believed
-that the best government is one run scientifically by an intellectual
-elite who know what is good for the people, formed a 
-slippery slope from paternalism to corruption and authoritarianism and
-often laid the groundwork for populist revolts.
+Europe](https://en.wikipedia.org/wiki/Revolutions_of_1848). 
+Because these views rely on the concept of protection of private property,
+these leaders were
+often opposed by the people, who preferred (and had a long tradition of)
+communal land ownership.
 
 * Populist strongmen promising to
 advance the will of "the people",
 just not through traditional democratic structures and only inasfar as
-they can stay in power. 
-
-LatAm history since the Spaniards left has been a push and pull
-between these poles.  **But for the purposes of our argument, the
-fundamental problem with populism is its hostilility to property
+they can stay in power.  **Economically, the
+fundamental problem with populism is its hostilility to private property
 rights, which is incompatible with sustaining a free market.**
 
-The common ingredient is not whether a country or colony has been
-primarily "imperialist/colonial" or primarily "populist/socialist",
-but whether it has created conditions that can sustain a free market.
-For example,  after WW2 and the onset of the Cold War, US policy was that  it was more important for
-governments to be anti-communist than to be democratic, and
-the US often failed to distinguish between socialist-leaning
-nationalist reformers and actual communists, as when it crushed
+People in the first category, especially the economic positivists, who believed
+that the best government is one run scientifically by an intellectual
+elite who know what is good for the people, formed a 
+slippery slope to corruption and authoritarianism and
+often laid the groundwork for populist revolts empowering people in
+the second category.
+
+LatAm history since the Spaniards left has been a push and pull
+between these poles.  
+
+US policy in LatAm hasn't helped, because it focused on (e.g.)
+"anti-communism" even at the expense of democracy, and therefore at
+the expense of real economic growth, as when the US crushed
 democracy in Guatemala and effectively reinstated the corporatized
 colonialism of United Fruit.  
-Not surprisingly, this example simply
+Such examples simply
 served to persuade left-wing elements that armed struggle was the only
 way forward, and gave dictators such as Chile's Pinochet license to
-say that extinguishing communism required suspending democracy since
-it had clearly proved unworkable.  An oligarchy was the predictable result.
-In contrast, 
-the combination of *communism* and authoritarianism turned Cuba into an
-economic dependent of the Soviet Union, and later China and Venezuela
-after the Societ collapse;  today Cuba is
-economically worse off than much of LatAm but still less free.
+say that extinguishing communism required suspending democracy, since
+it had clearly proved unworkable.  Yet Cuba demonstrates that this
+approach doesn't work either: after 6 decades 
+combining communism and authoritarianism and being an
+economic dependent of the Soviet Union (and later of China and Venezuela),
+Cuba is still both less free *and* 
+economically worse off than most of LatAm.
 
-## Turning their backs on globalization
+## LatAm countries turned their backs on globalization
 
-Countries whose economies focus on extractive natural resources (oil,
-diamonds, minerals) suffer from the *resource curse:* the jobs pay
+Countries rich in natural resources are easy targets for populists:
+"Our country has so much (oil, diamonds, whatever) that we should all
+be rich! Put me in power and I'll make it happen!"
+But economies that focus on extractive natural resources suffer from
+the *resource curse:* the jobs pay 
 little and don't result in transerable skills, the society increases
 its reliance on imported industrial machinery and expertise to improve
 margins,  
-and since wealth gets concentrated, those in control have no incentive
+and as a result, wealth gets concentrated at the top. Those who
+benefit therefore have no incentive
 to develop new sources of income, even though the rest of the populace
-stays poor.  Indeed (WMB p.122), Caribbean sugar plantations were
-wealthier than the small-family-farm American colonies prior to the
-Industrial Revolution, but New England's democratic government with
-equal rights and protection for most citizens created conditions for
-them to take advantage of the IR when it did happen.
-
-In a self-reinforcing oligarchy, the rich want just enough
-democracy to protect their own standing but not so much that a
-democratic-but-poor majority might choose to redistribute wealth.
-Hence, "resource-curse" countries swing between oligarchy and populism.
-(As Daniel Patrick
-Moynihan has said [p. 144], "The socially concerned
-intellectuals...seemed repeatedly to assume that those who had power
-would let it be taken away.")
-
-Also, resources are non-price-dense commodities highly subject to
-price fluctuation due to global market forces.
-This blueprint  is the exact *opposite* of what an economy needs to establish
+stays poor.  
+This situation  is the exact *opposite* of what an economy needs to establish
 itself through import substitution (as explained in [Jane Jacobs's *The
 Economy of Cities*]({% post_url book_summary/2021-09-30-economy-cities %})).
+And since natural resources are non-price-dense commodities highly subject to
+price fluctuation due to global market forces, a sudden change in
+market conditions can cause a resource-based economy to collapse; now everyone is
+poor and out of a job, and the economy as a whole has not grown, since
+only a few at the top got rich.  Revolt ensues, as it does whenever a
+government abjectly fails to meet the basic economic needs of its
+people, and so resource-curse countries also swing between oligarchy
+and populism.
+Indeed (WMB p.122), Caribbean sugar plantations were
+wealthier than the small-family-farm American colonies prior to the
+Industrial Revolution, but New England's democratic governments, with
+equal rights and property protection for most citizens, created conditions for
+them to take advantage of the IR when it did happen.
+
+Note that there is an important distinction between oligarchy and
+populist dictators.  Oligarchs want *some* laws and democracy, to
+protect their own property interests; just not so much that a
+democratic-but-poor majority might choose to redistribute wealth.  (As
+Daniel Patrick Moynihan has said [p. 144], "The socially concerned
+intellectuals...seemed repeatedly to assume that those who had power
+would let it be taken away.")  Populist dictators want to control
+everything.  So oligarchs are in a sense the lesser of two evils from
+the point of view of at least having the *potential* to lead to
+conditions that support economic growth.
 
 When Southeast Asian governments responded to the oil shocks of the
 1970s by redoubling their attention on exports and globalization, with

@@ -53,9 +53,23 @@ Allow for lots of time in your schedule when  taking the courses that will matt
 # Research
 
 
-Getting involved in research as an undergraduate is a great way to explore whether you might be interested in grad school, to work on leading-edge projects, to get more depth in an area of CS you're interested in beyond anything you'll get in regular course work, and more. Most faculty are happy to work with strong undergrads and most colleagues I know do so. I've put [some info about it here](http://www.armandofox.com/for-students/undergraduate-research).
+Getting involved in research as an undergraduate is a great way to
+explore whether you might be interested in grad school, to work on
+leading-edge projects, to get more depth in an area of CS you're
+interested in beyond anything you'll get in regular course work, and
+more. Most faculty are happy to work with strong undergrads and most
+colleagues I know do so. I've put [some info about it here]({%
+link students/research.md %})
 
-The most important aspect of both getting and keeping a research position is a strong sense of initiative and ownership. I've put together some advice and guidelines you can take a look at as a start before you reach out to faculty. That said, don't be afraid to take the initiative to connect with faculty and engaged in research: just taking the initiative already sets you apart. Use [Beehive](http://beehive.berkeley.edu/) to find listings or email faculty directly.
+The most important aspect of both getting and keeping a research
+position is a strong sense of initiative and ownership. I've put
+together some advice and guidelines you can take a look at as a start
+before you reach out to faculty. That said, don't be afraid to take
+the initiative to connect with faculty and engaged in research: just
+taking the initiative already sets you apart.  Check the EECS web
+pages for various REU (research experiences for undergraduates)
+opportunities---some target particular research areas, student
+demographics, etc., and others are more general.  Apply widely!
 
 # Entrepreneurship
 
