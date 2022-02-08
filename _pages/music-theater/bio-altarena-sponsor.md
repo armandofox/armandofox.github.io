@@ -1,3 +1,9 @@
+---
+permalink: /contact/bio-altarena-sponsor/
+type: page
+sidebar:
+  nav: "contact"
+---
 Armando Fox (he/él/il/lui) has over the years been an Altarena Board member,
 volunteer, technical advisor, supporter, and most fun of all, Music
 Director for many of its shows, including this season's upcoming "La

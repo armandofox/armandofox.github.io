@@ -59,7 +59,7 @@ leading-edge projects, to get more depth in an area of CS you're
 interested in beyond anything you'll get in regular course work, and
 more. Most faculty are happy to work with strong undergrads and most
 colleagues I know do so. I've put [some info about it here]({%
-link students/research.md %})
+link _pages/students/research.md %})
 
 The most important aspect of both getting and keeping a research
 position is a strong sense of initiative and ownership. I've put

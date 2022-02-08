@@ -12,9 +12,9 @@ This page contains various possibly-useful information for current and prospecti
 **Prospective students: **I cannot help you get admitted to Berkeley, but if you are admitted I'd be happy to talk to you about working together.
 
 **Thinking of graduate school?  The best things you can do are to [come to
-undergrad advising]({% link students/advising.md %}), where one of the
+undergrad advising]({% link _pages/students/advising.md %}), where one of the
 things we talk about is [getting involved in undergraduate
-research]({% link students/research.md %}) and why that's important
+research]({% link _pages/students/research.md %}) and why that's important
 if you're considering grad school.  There's also a great collection of
 comments from [MIT faculty on what they're looking for in
 applications.](https://www.eecs.mit.edu/academics/graduate-programs/admission-process/what-faculty-members-are-looking-for-in-a-grad-school-application-essay/)

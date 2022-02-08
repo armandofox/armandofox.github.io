@@ -37,15 +37,15 @@ students:
 
 music-theater:
   - title: "Music/Theater Bio"
-    url: /music-bio
+    url: /music-theater/music-bio
   - title: "1-pager: A Little Night Music"
-    url: /1p-night-music
+    url: /music-theater/1p-night-music
   - title: "1-pager: Follies"
-    url: /1p-follies
+    url: /music-theater/1p-follies
   - title: "1-pager: Sunday In the Park With George"
-    url: /1p-sunday
+    url: /music-theater/1p-sunday
   - title: "1-pager: West Side Story"
-    url: /1p-wss
+    url: /music-theater/1p-wss
   - title: "Book: Piano/Conductor"
     url: /books
 

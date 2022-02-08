@@ -62,7 +62,7 @@ or reductions)
 
 
 1. The Pajama Game (42nd Street Moon, dir. Becky Potter), May/June 2022
-1. La Cage aux Folles (Altarena Playhouse, dir. Phil Lowery), Mar/Apr 2022
+1. La Cage aux Folles (Altarena Playhouse, dir. Noah Haydon), Mar/Apr 2022
 1.  ~~Sunday In the Park With George (Gatehouse Theatre,
 dir. Rachel Pospíšil), ~~June/July 2020~~ _Cancelled due to COVID-19_
 1.  ~~Dreamgirls (Altarena Playhouse, dir. ShawnJ West), May/June 2020~~* Cancelled due to COVID-19*
