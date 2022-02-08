@@ -11,24 +11,31 @@ sidebar:
 # Upcoming Shows I'm Working On
 
 
-* La Cage aux Folles (Altarena Playhouse, dir. Phil Lowery),
+* La Cage aux Folles (Altarena Playhouse, dir. Noah Haydon),
 March/April 2022 (Music Director)
 
-* The Pajama Game (42nd Street Moon, dir. Amy Marie Haven), May/June
+* The Pajama Game (42nd Street Moon, dir. Becky Potter), May/June
 2022 (Music Director)
 
 # Ways I support local theater
 
 
+<img class="embed-left" align="right" src="https://images-na.ssl-images-amazon.com/images/I/512Xr2Mb7dL._SX331_BO1,204,203,200_.jpg">
+
 -   I hope the advice in my book [Piano/Conductor: So They Talked You Into Being Music Director](http://pianoconductor.com/)  will be useful to  both new and experienced Music Directors. The link is to purchase hardcopy on Amazon, but you can [download the PDF](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxhcm1hbmRvZm94fGd4OjIzNjRkNzI4MmJhYjY1YTQ) for free.
 
--   I maintain [Audience1st](https://www.audience1st.com/), the open-source ticketing/subscription/donation management/CRM for small theaters. The goal is not to make money off of small theaters but rather support them in the critical mission of building a subscriber/audience base, including subscription sales, ticket sales, donations, etc. **Use of Audience1st is 100% free for nonprofit theaters during the lockdown, including for selling tickets to online events. **Click the link for FAQs, details, and a demo.
+-   I maintain [Audience1st](https://www.audience1st.com/), the
+open-source ticketing/subscription/donation management/CRM for small
+theaters. The goal is not to make money off of small theaters but
+rather support them in the critical mission of building a
+subscriber/audience base, including subscription sales, ticket sales,
+donations, etc., at the lowest possible price and with no per-ticket fees.
 
 -   Board of Directors (2004-2012) and Advisory Board (2013-present) of [Altarena Playhouse](http://altarena.org/), the Bay Area's oldest continuously-operating community theater (founded 1938). 
 -   Advisory Board, [The Lorraine Hansberry Theatre](http://lhtsf.org/), 2019-present.
 -   Advisory Board, [Custom Made Theatre Co.,](http://custommade.org/) 2013-present.
 -   Much of what I learned working with them and with others is summarized in my open-source [Small Theater Growth & Development Field Manual](https://docs.google.com/document/d/1oh1Z-3zFnCa_uQEoKzkjhGA_kShPf2wY8ZG7FuVJG9g/edit?usp=sharing). 
--   I'm the author and lead maintainer of [Audience1st](https://www.audience1st.com/), the open-source ticketing/CRM/backoffice software designed expressly for the needs of small-to-medium community and semi-pro theaters.
+
 
 # I Play Some Instruments
 
@@ -36,20 +43,18 @@ I play piano and keyboards very well, drums reasonably well, single reeds (clari
 
 I started **classical piano** training at age 5 with private instructors, and later completed the Mannes College of Music (now part of the [New School](http://newschool.edu/)) Certificate Program including piano performance with concert pianist and educator [Michael Boriskin](http://www.dworkincompany.com/html/boriskin/boriskin_artist.html) and others, ensemble, theory, ear training, orchestration, choir, chamber performance, ...the whole enchilada.
 
-My [**graduation recital tracks**](https://soundcloud.com/armando-fox/sets/westrax) are representative of that era, when my technical chops were slightly better than now but my musicality was less developed.  My jazz improvisation is decent. I am a strong sightreader and often accompany soloists and participate in chamber music parties for fun.
+My [**graduation recital
+tracks**](https://soundcloud.com/armando-fox/sets/westrax) are
+representative of that era, when my technical chops were slightly
+better than now but my musicality was less developed.  My jazz
+improvisation is decent. I am a strong sightreader and I love to accompany soloists and participate in chamber music parties for fun.
 
-I've been **keyboardist and drummer** (sometimes simultaneously) for original & cover bands Spoon (MIT Battle of the Bands finalist 1990), More at Eleven (MIT Battle of the Bands finalist 1987), and Reminiscent Jam (MIT Battle of the Bands Finalist 1988).
+I've been **keyboardist and drummer** (sometimes simultaneously) for original & cover bands Spoon (MIT Battle of the Bands finalist 1990), More At Eleven (MIT Battle of the Bands finalist 1987), and Reminiscent Jam (MIT Battle of the Bands Finalist 1988).
 
 My **vintage 80s synthesizers** (Juno-106, D50, DX7) used in those bands have a new lease on life in my 80s cover band [Disposable Pop](http://disposablepop.com/) (currently on COVID hiatus).
 
 # Musical Direction Credits (* = original orchestration or reduction)
 
-
-<img class="embed-left" align="right" src="https://images-na.ssl-images-amazon.com/images/I/512Xr2Mb7dL._SX331_BO1,204,203,200_.jpg">
-
-Much of what I've learned doing the productions below is summarized in my book [Piano/Conductor: So They Talked You Into Being Music Director](http://pianoconductor.com/). (The link is to purchase hardcopy on Amazon, but you can [download the PDF](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxhcm1hbmRvZm94fGd4OjIzNjRkNzI4MmJhYjY1YTQ) for free.)
-
-I also coach actors on musical performance (though not on technical vocal issues).
 
 Productions I've been involved with in reverse chronological order: (*
 marks a production for which I did substantial original arrangements
