@@ -197,13 +197,14 @@ Considered by many (including me) to be the makers of the best pianos
 anywhere, Steinway & Sons was founded by German immigrant Heinrich
 Steinweg (later Henry Steinway) in New York in 1853, and has been
 building pianos at the Astoria factory since 1880.  Free factory tours
-are held two or three times a week but you must . Every Steinway sold
+are held two or three times a week but you must reserve in advance. Every Steinway sold
 in the US is made here, essentially by hand and taking about a year
 per piano, using largely the same techniques and equipment that were
 used in 1880.  (Steinways sold in Europe are made in the Hamburg
-factory, which was established later.)  The Steinway factory is 1 mile
-from the Ditmars Blvd. subway station (N, Q lines); unfortunately
-there isn't a bus that gets you any closer.  Allow 2 hours. 
+factory, which was established later.)  The Steinway factory is about
+a 15-20 minute walk 
+from the Ditmars Blvd. subway station (N, Q lines).  Allow 2 hours for
+tour itself, exclusive of travel time.
 
 # 9.  Greenwich Village
 
@@ -213,12 +214,15 @@ rights movement, home of NYU, it combines the cultural role of SF's
 North Beach with the closest New York ever got to bohemia.  The
 hole-in-the-wall restaurants along Bleecker and especially Macdougal
 are generally good bets.  The West Village is the nucleus of the gay
-community.  Subway: A,C,E to W. 4 St., 6 to Bleecker St., N, Q, R to
-W. 8th St., 1 to Christopher St./Sheridan Square. 
+community.  If you're a jazz fan, there are numerous little clubs
+everywhere, as well as the world famous Village Vanguard (7th Ave
+South and Christopher Street) and the Blue
+Note (W 4th St at 6th Ave; subway: A,C,E to W 4 St, 6 to Bleecker St., N, Q, R to
+W. 8th St., 1 to Christopher St./Sheridan Square).
 
 # 10.  Lower Manhattan including Ground Zero and 9/11 Memorial
 
-Lower Manhattan (basically, below Canal St.) is the original
+Lower Manhattan (basically, below 14th St.) is the original
 New York, and its twisty streets and tucked-away taverns preserve the
 feel of post-New-Amsterdam.  Join the Wall Street crowd for an
 after-work drink at the Stone Street alley near Coenties Slip, or
