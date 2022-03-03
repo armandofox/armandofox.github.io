@@ -66,7 +66,8 @@ which you can walk along the waterfront.
 
 The Staten Island Ferry (subway: South Ferry, 1; Whitehall St, N,R; Bowling Green, 4,5) is still free and runs every 15-30 minutes all day long.  You will get an awesome view of Miss Liberty (secure a place along the starboard railing early) on the way out, and a stunning view of the lower Manhattan skyline (especially at twilight/night) on the way  back.  Allow an hour for the roundtrip, including waiting times.
 
-Combine with a walk around lower Manhattan, including Battery Park and "ground zero" (where you can see the new Freedom Tower going up on the site of the former World Trade Center).
+Combine with a walk around lower Manhattan, including Battery Park and
+the new Freedom Tower and 9/11 Memorial (see below).
 
 # 3. Walk the Brooklyn Bridge
 
@@ -141,14 +142,22 @@ worth stepping inside GCT just to realize that there was a time when
 taking a journey made you feel like you were an important person going
 on an important trip, rather than a potential terrorist to be patted
 down and then stuffed with bland fast food in a sterile waiting
-lounge. Ironically, for logistical reasons, most long-distance trains
-in and out of New York use Penn Station---formerly an even grander
-terminal than GCT, but reprehensibly destroyed in the 1960s to make
-room for the unforgivably ugly Madison Square Garden arena, with the
-station itself relegated to a labyrinthine warren of underground
-tunnels.  The food court on the lower concourse of GCT is quite good;
+lounge.  The food court on the lower concourse of GCT is quite good;
 I've never eaten at the famous Oyster Bar, which is featured in the
 opening credits of Saturday Night Live. 
+
+For logistical reasons, most long-distance trains
+in and out of New York use Penn Station---formerly an even grander
+terminal than GCT, but reprehensibly destroyed in the 1960s to make
+room for the unforgivably ugly Madison Square Garden arena.  Until
+2020, the
+station itself was relegated to a labyrinthine warren of underground
+tunnels.  In 2020 that changed with the opening of Moynihan Train
+Hall, created by repurposing the Farley Post Office across the street
+from MSG, which had been built shortly after Penn in the same style by
+the same architectural firm.  The Post Office courtyard was glassed
+in, creating a triumphant train hall that is once again a much more appropriate
+arrival into the greatest city in the world.
 
 **Bonus feature: **one of the best places to enjoy a classy, leisurely
 cocktail is the [Campbell
