@@ -1,6 +1,6 @@
 ---
 title: "1-pager: La Cage aux Folles"
-permalink: /1p-lacage
+permalink: /music-theater/1p-lacage
 type: page
 layout: single
 sidebar:
