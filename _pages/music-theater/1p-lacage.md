@@ -36,34 +36,7 @@ poignant, bitter, and ultimately uplifting, and is complemented by a
 highly memorable and 
 rousing musical score. 
 
-# Cultural significance and the AIDS crisis
-
-As Harvey Fierstein has said in an interview, when this musical
-appeared in 1984, gay people had long been
-a major force in musical theater, and many musicals and plays had been
-written about them.  But _La Cage_ was among the first to enjoy
-enormous commercial success, putting the stories
-of gay people, _told by gay voices_, in front of a _mainstream_ audience.
-Even its creators were somewhat surprised by its widespread appeal;
-it won Best Musical at that year's Tony Awards (beating out
-Sondheim's _Sunday In the Park With George_).
-
-Nonetheless, its producers believe it would have been even more
-successful had the AIDS crisis not been in full force at that time.
-As Fierstein correctly noted, gay men were a disproportionately large
-slice of the theater community, and the AIDS epidemic decimated that
-group in particular.  At the same time, there was public hysteria and
-misinformation about the contagiousness of AIDS, and inaction to the point
-of denial on the part of the federal government and the Reagan
-administration in particular.  This inaction led to mobilization on
-all sides, including the formation of the
-Broadway Cares/Equity Fights AIDS campaign, which has since raised
-tens of millions of dollars to support both AIDS research and
-treatment for persons living with AIDS, 
-and to vociferous demand from the gay community and others to take AIDS seriously and embark on
-the necessary research and clinical work to tackle it head on.
-
-# Theme: I Am What I Am
+# "I Am What I Am"
 
 A major theme that runs through the show is asserting one's
 own identity and independence in the face of exclusion or oppression.
@@ -112,6 +85,33 @@ in whose skin Albin feels much more comfortable.
 Here, Albin's own persona "takes over" the song
 from Zaza as he asserts ownership of not only his alter ego, but his
 pride in living his life in exactly that way.
+
+# Cultural significance and the AIDS crisis
+
+As Harvey Fierstein has said in an interview, when this musical
+appeared in 1984, gay people had long been
+a major force in musical theater, and many musicals and plays had been
+written about them.  But _La Cage_ was among the first to enjoy
+enormous commercial success, putting the stories
+of gay people, _told by gay voices_, in front of a _mainstream_ audience.
+Even its creators were somewhat surprised by its widespread appeal;
+it won Best Musical at that year's Tony Awards (beating out
+Sondheim's _Sunday In the Park With George_).
+
+Nonetheless, its producers believe it would have been even more
+successful had the AIDS crisis not been in full force at that time.
+As Fierstein correctly noted, gay men were a disproportionately large
+slice of the theater community, and the AIDS epidemic decimated that
+group in particular.  At the same time, there was public hysteria and
+misinformation about the contagiousness of AIDS, and inaction to the point
+of denial on the part of the federal government and the Reagan
+administration in particular.  This inaction led to mobilization on
+all sides, including the formation of the
+Broadway Cares/Equity Fights AIDS campaign, which has since raised
+tens of millions of dollars to support both AIDS research and
+treatment for persons living with AIDS, 
+and to vociferous demand from the gay community and others to take AIDS seriously and embark on
+the necessary research and clinical work to tackle it head on.
 
 All in all, _La Cage_ is a great story, full of heart, and an
 important milestone in LGBTQ+ history not only in the theatrical
