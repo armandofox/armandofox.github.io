@@ -39,15 +39,15 @@ music-theater:
   - title: "Music/Theater Bio"
     url: /music-theater/music-bio
   - title: "1-pager: La Cage aux Folles"
-    url: /music-theater/1p-lacage
+    url: /1p-lacage
   - title: "1-pager: A Little Night Music"
-    url: /music-theater/1p-night-music
+    url: /1p-night-music
   - title: "1-pager: Follies"
-    url: /music-theater/1p-follies
+    url: /1p-follies
   - title: "1-pager: Sunday In the Park With George"
-    url: /music-theater/1p-sunday
+    url: /1p-sunday
   - title: "1-pager: West Side Story"
-    url: /music-theater/1p-wss
+    url: /1p-wss
   - title: "Book: Piano/Conductor"
     url: /books
 
