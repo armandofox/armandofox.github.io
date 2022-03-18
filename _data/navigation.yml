@@ -38,6 +38,8 @@ students:
 music-theater:
   - title: "Music/Theater Bio"
     url: /music-theater/music-bio
+  - title: "1-pager: La Cage aux Folles"
+    url: /music-theater/1p-lacage
   - title: "1-pager: A Little Night Music"
     url: /music-theater/1p-night-music
   - title: "1-pager: Follies"

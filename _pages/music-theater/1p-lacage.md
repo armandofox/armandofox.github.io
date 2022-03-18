@@ -15,6 +15,8 @@ Song Trilogy_, _Kinky Boots_, others; featured actor in _Torch Song Trilogy_,
 _Independence Day_, _Mulan_, _Hairspray_, others) and a score by Jerry Herman
 (_Hello, Dolly!_, _Mame_, many others).
 
+# Premise
+
 Albin, a drag performer in Saint Tropez in the 1970s, and Georges,
 club owner and Albin's husband
 of 20 years, have raised a son, Jean-Michel, born of a long-ago heterosexual
@@ -25,8 +27,8 @@ vowed to shut down all drag clubs.
 Anne's family now wants to meet Jean-Michel's
 parents before giving her permission to marry Jean-Michel.  The story
 of how this
-conflict unwinds and gets resolved is my turns hilariously funny,
-poignant, bitter, but ultimately uplifting, and is complemented by a
+conflict unwinds and gets resolved is by turns hilariously funny,
+poignant, bitter, and ultimately uplifting, and is complemented by a
 highly memorable and 
 rousing musical score. 
 
