@@ -45,7 +45,7 @@ number when the drag club dancers ("Cagelles"),
 a mixed group of drag queens and women, tell us:
 
 <blockquote>
-We are what we are, and what we are is an illusion.
+We are what we are, and what we are is an illusion.<br/>
 We love how it feels putting on heels, causing confusion.
 </blockquote>
 
@@ -53,8 +53,8 @@ But they're just as quick to remind us that it is not always easy to
 assert who you are:
 
 <blockquote>
-We face life, though it's sometimes sweet and sometimes bitter
-Face life, with a little guts and lots of glitter.
+We face life, though it's sometimes sweet and sometimes bitter<br/>
+Face life, with a little guts and lots of glitter.<br/>
 Look under our frocks: girdles and jocks, proving we are what we are.
 </blockquote>
 
@@ -64,10 +64,10 @@ Albin) takes over the song and changes the lyrics, resulting in one of
 the most emotionally charged Act 1 finales in the literature:
 
 <blockquote>
-I am what I am, I don't want praise, I don't want pity...
-I bang my own drum...Some think it's noise...I think it's pretty!
-It's my world, that I want to have a little pride in.
-My world---and it's not a place I have to hide in!
+I am what I am, I don't want praise, I don't want pity...<br/>
+I bang my own drum...Some think it's noise...I think it's pretty!<br/>
+It's my world, that I want to have a little pride in.<br/>
+My world---and it's not a place I have to hide in!<br/>
 </blockquote>
 
 Zaza moves from self-pity to anger and ultimately to pride and
@@ -76,8 +76,6 @@ defiance, _demanding_ that the world accept her for who she is:
 <blockquote>
 Life's not worth a damn till you can say, "Hey world, I am what I am!"
 </blockquote>
-"Your
-life is a sham till you can shout out loud: I am what I am!"
 
 _I Am What I Am_ is significant because most of Albin's solo numbers
 to this point have been sung _as his alter-ego Zaza_, 
@@ -88,12 +86,12 @@ pride in living his life in exactly that way.
 
 # Cultural significance and the AIDS crisis
 
-As Harvey Fierstein has said in an interview, when this musical
-appeared in 1984, gay people had long been
+As bookwriter Harvey Fierstein has said in various interviews, when this musical
+appeared in 1984, queer people had long been
 a major force in musical theater, and many musicals and plays had been
 written about them.  But _La Cage_ was among the first to enjoy
 enormous commercial success, putting the stories
-of gay people, _told by gay voices_, in front of a _mainstream_ audience.
+of queer people, _told by queer voices_, in front of a _mainstream_ audience.
 Even its creators were somewhat surprised by its widespread appeal;
 it won Best Musical at that year's Tony Awards (beating out
 Sondheim's _Sunday In the Park With George_).
@@ -116,10 +114,10 @@ the necessary research and clinical work to tackle it head on.
 All in all, _La Cage_ is a great story, full of heart, and an
 important milestone in LGBTQ+ history not only in the theatrical
 sense, but as a megaphone announcing an era in which LGBTQ+ people
-would not only "come out of the closet" but demand the dignity
+would not simply "come out of the closet" but demand the dignity
 and respect to announce "I Am What I Am."
 
-I'm honored working alongside many members of that community,
-including actors who are also professional drag performers in the Bay
-Area, to help tell this story.
+I'm honored to be working alongside many members of that community,
+including actors who are also Bay Area drag performers,
+to help tell this story.
 
