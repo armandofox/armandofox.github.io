@@ -11,6 +11,10 @@ sidebar:
 
 Various movies, some documentary and some fictional, chronicle the history and social impact of our field. I thought it would be fun to watch some of these as a group and then talk about them. All are pre-screened by me, so you know they're good. 
 
+This list is also available as a [public list on IMDb](https://m.imdb.com/list/ls560519623).
+
+# 1941-1945: Code-Breakers: Bletchley Park's Lost Heroes
+
 # 1941-1945: Codebreakers---The Secret Genius of World War Two
 {: .section}
 
@@ -36,7 +40,6 @@ Looking back on a little-known part of the war effort that recruited female math
 **If you're interested in learning more:**
 
 -   [When Computers Were Human](http://www.worldcat.org/title/when-computers-were-human/oclc/56729686), by David Alan Grier, is a nice treatment of this topic and era.
--   [Grace Hopper and the Invention of the Information Age](http://www.worldcat.org/title/grace-hopper-and-the-invention-of-the-information-age/oclc/263065377), by Kurt Beyer, is a fascinating and humanizing look at a nearly-mythologically-prominent figure in this story.
 
 
 # 1941-1957: The Queen of Code
@@ -46,6 +49,10 @@ Looking back on a little-known part of the war effort that recruited female math
 
 
 This is a well-done (albeit all too brief!) 16-minute mini-documentary about Admiral Grace Murray Hopper's pivotal role in the development of high level languages, and a mini-portrait of this remarkable character. Available on [Vimeo](https://vimeo.com/118556349).
+
+**If you're interested in learning more:**
+
+-   [Grace Hopper and the Invention of the Information Age](http://www.worldcat.org/title/grace-hopper-and-the-invention-of-the-information-age/oclc/263065377), by Kurt Beyer, is a fascinating and humanizing look at a nearly-mythologically-prominent figure in this story.
 
 
 # 1955-1975: The Real Revolutionaries
@@ -65,9 +72,25 @@ The quintessential---and original---Silicon Valley story of the "traitorous eigh
 
 ![](https://images-na.ssl-images-amazon.com/images/I/51h8is0WKNL._SY445_.jpg){: .align-left .thumb}
 
-During Project Apollo, the US managed to land men on the moon, not just once but ***six ***times.  How did we do that with a guidance computer based on 1960's technology, whose most innovative hardware feature was the solid-state NOR gate in 4-to-a-package quad flat packs?  How did people program a machine whose ROM consisted of long "ropes" of magnetic cores strung onto braids of thin filaments?  What kind of UI can you get when the input consists of a 19-key keypad (big enough for astronauts wearing spacesuits) and the output consists of five LED 7-segment displays and a handful of "idiot light" indicators? Most intriguingly, this was the project that made NASA realize that software wasn't an afterthought to be dealt with following the hardware design, but the "pacing item" on the critical path for a complex embedded system.  Dr. Margaret Hamilton, the Director of Software for Project Apollo, is credited with inventing the term "software engineering." In 2016 President Obama awarded her the Presidential Medal of Freedom, the US's highest civilian honor.
+During Project Apollo, the US managed to land astronauts on the moon
+and return them safely to Earth, not just once but ***six ***times.  How did we do that with a guidance computer based on 1960's technology, whose most innovative hardware feature was the solid-state NOR gate?  How did people program a machine whose ROM consisted of long "ropes" of magnetic cores strung onto braids of thin filaments?  What kind of UI can you get when the input consists of a 19-key keypad (big enough for astronauts wearing spacesuits) and the output consists of five LED 7-segment displays and a handful of "idiot light" indicators? Most intriguingly, this was the project that made NASA realize that software wasn't an afterthought to be dealt with following the hardware design, but the "pacing item" on the critical path for a complex embedded system.  Dr. Margaret Hamilton, the Director of Software for Project Apollo, is credited with inventing the term "software engineering." In 2016 President Obama awarded her the Presidential Medal of Freedom, the US's highest civilian honor.
 
 **As a bonus**, you can not only check out the [Virtual Apollo Guidance Computer](http://www.ibiblio.org/apollo/), an app that does hardware-level emulation of this computer, but also view the [actual source code on GitHub.](https://github.com/chrislgarry/Apollo-11) (It's a little known fact that all the source code for every Apollo mission is in the public domain, having been developed by a civilian agency at taxpayer expense. NASA intern Chris Garry has begun uploading it to GitHub.) Virtual AGC can be used to run the same bits the astronauts ran on each Apollo mission.
+
+# 1960-1980: [Digital\_Man/Digital\_World](https://www.imdb.com/title/tt2015355/)
+{: .section}
+
+![](https://m.media-amazon.com/images/M/MV5BMTc2ODI2NjE4N15BMl5BanBnXkFtZTcwODIzNTM4Ng@@._V1_.jpg)
+
+Digital Equipment Corporation (DEC), an engineering-driven startup
+spun out of MIT in the late 1950s, made computers affordable for
+purchase by "the masses" at a time when most computers were rented
+from giants like IBM.  The company essentially invented the
+minicomputer product category and carved out an entire new market
+segment for itself; ironically, it would  be on the receiving end of
+this same realignment when PCs arrived in the late 1970s.  This film
+is a profile of both the company's founder and their revolutionary
+products. 
 
 # 1975-1991: Triumph of the Nerds: The Rise of Accidental Empires (released 1995)
 {: .section}
@@ -77,9 +100,9 @@ During Project Apollo, the US managed to land men on the moon, not just once but
 
 Travel back to the 80's with snarky Silicon Valley pundit and gossip columnist---er, podcaster---[Robert X. Cringely](http://cringely.com/ "http://cringely.com"), to learn about the roots of the PC revolution, the early days of the microprocessor, and how we ended up with a computer on every desktop.  One of the best accessible treatments of the story of the rise of the PC, though on a couple of occasions the narrative wanders into stereotypes of gender and personality that (thankfully) raise more eyebrows today than they did in 1995.
 
--   Part 1: Impressing Their Friends
--   Part 2: Riding the Bear
--   Part 3: Great Artists Steal
+-   Part 1: Impressing Their Friends (the Altair 8800, the birth of Microsoft, the first PCs)
+-   Part 2: Riding the Bear (the PC takes over, IBM vs. Microsoft)
+-   Part 3: Great Artists Steal (the story of the Mac and Windows)
 
 **If you're interested in learning more:**
 
@@ -95,11 +118,21 @@ Travel back to the 80's with snarky Silicon Valley pundit and gossip columnist--
 ![](https://m.media-amazon.com/images/I/710pLJsBLXL._AC_UY218_.jpg){: .align-left .thumb}
 
 
-"A game should be easy to learn and hard to master"---some have attributed this as Bushnell's Law, for Atari co-founder Nolan Bushnell. This documentary focuses on Atari's arguably breakthrough contributions to both arcade and (more significantly) home video gaming, from its hubristic beginning to its demise at the hands of management who didn't understand technology or their market. It's hard to watch this without thinking of Apple and the Sculley years. A bit long (1:50) but worthwhile for Atari completists, including interview footage with Al Alcorn, Eugene Jarvis, Manny Gerard, Ray Kassar, Howard Warshaw, and other names well known to those familiar with the Atari saga.
+"A game should be easy to learn and hard to master"---some have
+attributed this as Bushnell's Law, for Atari cofounder Nolan
+Bushnell. This documentary focuses on Atari's breakthrough
+contributions to both arcade and (more significantly) home video
+gaming, from its hubristic beginning to its demise at the hands of
+management who didn't understand technology or their market. It's hard
+to watch this without thinking of Apple and the Sculley years. A bit
+long (1:50) but worthwhile for Atari completists, including interview
+footage with Al Alcorn (UCB EECS '71), Eugene Jarvis (UCB EECS '76), Manny Gerard, Ray Kassar,
+Howard Warshaw, and other names well known to those familiar with the
+Atari saga. 
 
 
 
-# 1977-1983: 8-bit Generation: The Commodore Wars (released 2016)
+# 1977-1983: 8 Bit Generation: The Commodore Wars (released 2016)
 {: .section}
 
 ![](https://m.media-amazon.com/images/I/910DwgyXPmL._SY445_.jpg){: .align-left .thumb}
@@ -133,9 +166,24 @@ The turbulent and fascinating story of Commodore, whose ruthless chairman, Holoc
 ![](https://m.media-amazon.com/images/I/41diz9+N3FL.jpg){: .align-left .thumb}
 
 
-Imagine a virtual public space where anyone with a (free) account can post or reply to messages using PCs connected to the public telecommunications infrastructure.  Some of these sites are free and operated by hobbyists; others are commercial, and the site managers ranged from smart hobbyists to clueless get-rich-quick schemers who figured if they put some lame pr0n pictures on the site, people might pay a monthly fee for access.
+Imagine a virtual, free-to-use public forum on the Internet where
+anyone can post or reply to messages using connected PCs.  Some of
+these sites are free and operated by hobbyists; others are commercial,
+and the site managers ranged from smart hobbyists to clueless
+get-rich-quick schemers who figured if they put some lame pr0n
+pictures on the site, people might pay a monthly fee for access.
 
-I'm referring, of course, to the Bulletin Board Systems (BBSes) of the 1980s. The PCs were, of course, TRS-80s and Apple IIs and IBM clones, connected to the communication network using analog landline modems running at 300, 1200, 2400, and ultimately 56K baud.  It's easy to forget that as late as the 1990s, local phone service was metered, long-distance was unaffordable for most people, and having hundreds of simultaneously active users on a site meant maintaining racks of hundreds of modems. All the mini-dramas of the Internet---n00bs, pr0n, warez, flame wars, stupid handles, FLOSS vs. Micro$oft, trolls, clueless inve$tor$, foreign sites circumventing local rules---happened here first.
+I'm referring, of course, to the Bulletin Board Systems (BBSes) of the
+1980s. The PCs were, of course, TRS-80s and Apple IIs and IBM clones,
+connected to the communication network using analog landline modems
+running at 300, 1200, 2400, and ultimately 56K baud.  It's easy to
+forget that as late as the 1990s, local phone service was metered,
+long-distance was unaffordable for most people, and having hundreds of
+simultaneously active users on a site meant maintaining racks of
+hundreds of modems. All the mini-dramas of the Internet---n00bs, pr0n,
+warez, flame wars, stupid handles, FLOSS vs. Micro$oft, trolls,
+clueless inve$tor$, foreign sites circumventing local rules---happened
+here first. 
 
 
 # 1993-2000: Download: The True Story of the Internet
@@ -156,7 +204,12 @@ Until 1990, the Internet was for academics and researchers.  The invention of t
 ![](https://m.media-amazon.com/images/I/51cwv56ptoL._SY445_.jpg){: .align-left .thumb}
 
 
-Microsoft Windows may have kicked the living daylights out of the Mac, but the war is far from over. Through interviews with Linus Torvalds, Richard Stallman, Eric Raymond and others, we learn about the origins of the open-source movement, the Free Software Foundation, and how Linux became the first serious server OS to challenge Microsoft Windows NT.
+Microsoft Windows may have kicked the living daylights out of the Mac,
+but the war is far from over. Through interviews with Linus Torvalds,
+Richard Stallman, Eric Raymond and others, we learn about the origins
+of the open-source movement, the Free Software Foundation, and how
+Linux became the first serious server OS to challenge Microsoft
+Windows NT. 
 
 
 # 1980-1995: Video Game Invasion: The History of a Global Obsession
@@ -165,7 +218,18 @@ Microsoft Windows may have kicked the living daylights out of the Mac, but the w
 ![](https://images-na.ssl-images-amazon.com/images/I/71T6iO5WfCL._SL1261_.jpg){: .align-left .thumb}
 
 
-While all those people were earnestly trying to use computers to "improve productivity," some slackers thought computers might be fun for just playing games. The first video games predate PCs by several years, and could only be played on equipment costing tens of thousands of dollars. But video games took off when the microprocessor became mass-market---the same technology that drove the PC revolution (and was driven by it). And as PCs got more powerful, games went hand in hand. Before long, a multibillion dollar industry that dwarfs that movie business had become the dominant form of consumer entertainment. From *Space Invaders* and *Pac-Man* to movies inspired by video games, video games have been both a cultural force and a shaper of the IT industry.
+While all those people were earnestly trying to use computers to
+"improve productivity," some slackers thought computers might be fun
+for just playing games. The first video games predate PCs by several
+years, and could only be played on equipment costing tens of thousands
+of dollars. But video games took off with the invention of the microprocessor,
+the same technology that drove the PC revolution.
+As PCs became more powerful, games went hand in
+hand. Before long, a multibillion dollar industry that dwarfs the
+movie business had become the dominant form of consumer
+entertainment. From *Space Invaders* and *Pac-Man* to movies inspired
+by video games, video games have been both a cultural force and a
+shaper of the IT industry. 
 
 **If you're interested in learning more:**
 
