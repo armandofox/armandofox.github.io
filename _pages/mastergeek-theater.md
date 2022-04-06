@@ -89,7 +89,7 @@ from giants like IBM.  The company essentially invented the
 minicomputer product category and carved out an entire new market
 segment for itself; ironically, it would  be on the receiving end of
 this same realignment when PCs arrived in the late 1970s.  This film
-is a profile of both the company's founder and their revolutionary
+is a profile of both the company's founder, Ken Olsen, and its revolutionary
 products. 
 
 # 1975-1991: Triumph of the Nerds: The Rise of Accidental Empires (released 1995)
