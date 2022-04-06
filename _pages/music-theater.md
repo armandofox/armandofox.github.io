@@ -8,14 +8,11 @@ sidebar:
 ---
 
 
-# Upcoming Shows I'm Working On
+# Shows I'm Working On Now or Soon
 
+**Now playing:**  La Cage aux Folles at [Altarena Playhouse](https://altarena.org)
 
-* La Cage aux Folles (Altarena Playhouse, dir. Noah Haydon),
-March/April 2022 (Music Director)
-
-* The Pajama Game (42nd Street Moon, dir. Becky Potter), May/June
-2022 (Music Director)
+**Coming soon:** The Pajama Game at [42nd Street Moon](https://42ndstmoon.org)
 
 # Ways I support local theater
 
