@@ -80,7 +80,7 @@ and return them safely to Earth, not just once but ***six ***times.  How did 
 # 1960-1980: [Digital\_Man/Digital\_World](https://www.imdb.com/title/tt2015355/)
 {: .section}
 
-![](https://m.media-amazon.com/images/M/MV5BMTc2ODI2NjE4N15BMl5BanBnXkFtZTcwODIzNTM4Ng@@._V1_.jpg)
+![](/assets/img/mastergeek-theater/digitalman.jpg){: .align-left .thumb}
 
 Digital Equipment Corporation (DEC), an engineering-driven startup
 spun out of MIT in the late 1950s, made computers affordable for
