@@ -5,6 +5,16 @@ type: page
 layout: single
 ---
 
+**Spring 2022:**
+
+- [CS 169L](https://cs169L.cs169.org): Software Engineering Team
+Project.  Student teams work with real customers (nonprofits & campus
+units) to build SaaS.  Requires [CS169A](https://cs169a.cs169.org) or
+equivalent experience, as characterized by its textbook [Engineering
+Software as a Service](http://saasbook.info).
+
+- [CS 375](https://cs375.org): Teaching Techniques for CS.  Pedagogy,
+classroom climate, DEIBJ, and in general being a successful student teacher.
 
 **Fall 2021:**
 
