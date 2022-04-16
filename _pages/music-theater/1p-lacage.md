@@ -11,7 +11,8 @@ _NOTE: This 1-pager was originally prepared in conjunction with the
 [2022 Altarena Playhouse production](https://altarena.org) of this
 musical, for which I served as Music Director._
 
-_La Cage_ is a musicalized adaptation of the 1978
+_La Cage Aux Folles_ ("The Crazy Cage" or "The Cage of Crazies")
+is a musicalized adaptation of the 1978
 French comedy film of the same name,
 with a book by actor/playwright/bookwriter Harvey Fierstein (author of
 _Torch
