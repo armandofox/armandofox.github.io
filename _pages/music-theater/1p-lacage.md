@@ -21,7 +21,7 @@ _Independence Day_, _Mulan_, _Hairspray_, others) and a score by Jerry Herman
 
 # Premise
 
-Albin, a drag performer in Saint Tropez in the 1970s, and Georges,
+Albin, a drag performer in Saint Tropez in the 1980s, and Georges,
 club owner and Albin's husband
 of 20 years, have raised a son, Jean-Michel, born of a long-ago heterosexual
 dalliance by Georges.
@@ -32,7 +32,7 @@ Anne's family now wants to meet Jean-Michel's
 parents before giving her permission to marry Jean-Michel.  The story
 of how this
 conflict unwinds and gets resolved is by turns hilariously funny,
-poignant, bitter, and ultimately uplifting, and is complemented by a
+poignant, and ultimately uplifting, and is complemented by a
 highly memorable and 
 rousing musical score. 
 
@@ -40,20 +40,21 @@ rousing musical score.
 
 A major theme that runs through the show is asserting one's
 own identity and independence in the face of exclusion or oppression.
-This motif is treated both lightly/comedically, as in the opening
-number when the drag club dancers ("Cagelles"), 
+This theme is treated both lightly/comedically, as in the opening
+number when the club dancers ("Les Cagelles"), 
 a mixed group of drag queens and women, tell us:
 
 <blockquote>
 We are what we are, and what we are is an illusion.<br/>
-We love how it feels putting on heels, causing confusion.
+We love how it feels, putting on heels, causing confusion.
 </blockquote>
 
-But they're just as quick to remind us that it is not always easy to
-assert who you are:
+But they're just as quick to remind us that sometimes it can be really
+hard to stand up and assert who you are, but you have to stand proud
+and not let yourself be labelled by others:
 
 <blockquote>
-We face life, though it's sometimes sweet and sometimes bitter<br/>
+We face life, though it's sometimes sweet and sometimes bitter.<br/>
 Face life, with a little guts and lots of glitter.<br/>
 Look under our frocks: girdles and jocks, proving we are what we are.
 </blockquote>
@@ -64,17 +65,18 @@ Albin) takes over the song and changes the lyrics, resulting in one of
 the most emotionally charged Act 1 finales in the literature:
 
 <blockquote>
-I am what I am, I don't want praise, I don't want pity...<br/>
+I am what I am, I don't want praise, I don't want pity.<br/>
 I bang my own drum...Some think it's noise...I think it's pretty!<br/>
 It's my world, that I want to have a little pride in.<br/>
-My world---and it's not a place I have to hide in!<br/>
+My world&#8212;and it's not a place I have to hide in!<br/>
 </blockquote>
 
-Zaza moves from self-pity to anger and ultimately to pride and
-defiance, _demanding_ that the world accept her for who she is: 
+Zaza/Albin moves from self-pity to anger and ultimately to pride and
+defiance, _demanding_ that the world accept her just as she is: 
 
 <blockquote>
-Life's not worth a damn till you can say, "Hey world, I am what I am!"
+Life's not worth a damn till you can say:<br/>
+"Hey world, I am what I am!"
 </blockquote>
 
 _I Am What I Am_ is significant because most of Albin's solo numbers
@@ -86,38 +88,41 @@ pride in living his life in exactly that way.
 
 # Cultural significance and the AIDS crisis
 
-As bookwriter Harvey Fierstein has said in various interviews, when this musical
-appeared in 1984, queer people had long been
-a major force in musical theater, and many musicals and plays had been
-written about them.  But _La Cage_ was among the first to enjoy
-enormous commercial success, putting the stories
-of queer people, _told by queer voices_, in front of a _mainstream_ audience.
-Even its creators were somewhat surprised by its widespread appeal;
-it won Best Musical at that year's Tony Awards (beating out
-Sondheim's _Sunday In the Park With George_).
+As I write this in 2022, the idea that you should be proud to claim
+your own identity and speak in your own voice is part of the cultural
+zeitgeist in the US, so the show's affirmation of that theme may not
+seem particularly surprising to today's audiences.
 
-Nonetheless, its producers believe it would have been even more
-successful had the AIDS crisis not been in full force at that time.
+But it's easy to overlook how brave this was when the musical first
+appeared, in 1984.  As bookwriter Harvey Fierstein has said in various
+interviews, queer people had long been a major force in musical
+theater, and many musicals and plays had been written about them.  But
+_La Cage_ was among the first to enjoy enormous commercial success,
+putting the stories of queer people, _told by queer voices_, in front
+of a _mainstream_ audience.  Even its creators were somewhat surprised
+by its widespread appeal; it won Best Musical at that year's Tony
+Awards (beating out Sondheim's _Sunday In the Park With George_).
+
+Furthermore, at that time the AIDS crisis was in full force.
 As Fierstein correctly noted, gay men were a disproportionately large
 slice of the theater community, and the AIDS epidemic decimated that
 group in particular.  At the same time, there was public hysteria and
-misinformation about the contagiousness of AIDS, and inaction to the point
-of denial on the part of the federal government and the Reagan
-administration in particular.  This inaction led to mobilization on
+misinformation about the contagiousness of AIDS, inaction to the point
+of denial on the part of the Reagan
+administration, and widespread anti-gay sentiment, just as we saw with
+the irrational anti-Asian sentiment stoked by the
+COVID-19 pandemic.  Ultimately, the federal government's inaction led to mobilization on
 all sides, including the formation of the
 Broadway Cares/Equity Fights AIDS campaign, which has since raised
 tens of millions of dollars to support both AIDS research and
-treatment for persons living with AIDS, 
-and to vociferous demand from the gay community and others to take AIDS seriously and embark on
+treatment for persons living with AIDS.
+The situation also led to vociferous demand from the gay community and
+others to take AIDS seriously and embark on 
 the necessary research and clinical work to tackle it head on.
 
-All in all, _La Cage_ is a great story, full of heart, and an
-important milestone in LGBTQ+ history not only in the theatrical
-sense, but as a megaphone announcing an era in which LGBTQ+ people
-would not simply "come out of the closet" but demand the dignity
+All in all, _La Cage_ is not just a great story full of heart, not just
+an important milestone in LGBTQ+ theater history, 
+but also a megaphone announcing an era in which LGBTQ+ people
+would no longer simply "come out of the closet," but would instead demand the dignity
 and respect to announce "I Am What I Am."
-
-I'm honored to be working alongside many members of that community,
-including actors who are also Bay Area drag performers,
-to help tell this story.
 
