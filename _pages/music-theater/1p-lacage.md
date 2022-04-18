@@ -18,7 +18,10 @@ with a book by actor/playwright/bookwriter Harvey Fierstein (author of
 _Torch
 Song Trilogy_, _Kinky Boots_, others; featured actor in _Torch Song Trilogy_,
 _Independence Day_, _Mulan_, _Hairspray_, others) and a score by Jerry Herman
-(_Hello, Dolly!_, _Mame_, many others).
+(_Hello, Dolly!_, _Mame_, many others).  There was also an American
+film remake titled _The Birdcage_ with an all-star cast, in which the
+story was moved from 1980s French Riviera to 1990s Miami Beach, but
+the musical closely follows the original French film (which was not a musical).
 
 # Premise
 
