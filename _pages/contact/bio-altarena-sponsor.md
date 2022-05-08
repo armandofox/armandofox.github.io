@@ -1,6 +1,7 @@
 ---
 permalink: /music-theater/bio-altarena-sponsor/
 type: page
+layout: single
 sidebar:
   nav: "contact"
 ---

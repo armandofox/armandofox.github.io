@@ -59,15 +59,15 @@ or reductions)
 
 
 1. The Pajama Game (42nd Street Moon, dir. Becky Potter), May/June 2022
-1. La Cage aux Folles (Altarena Playhouse, dir. Noah Haydon), Mar/Apr 2022
+1. La Cage Aux Folles (Altarena Playhouse, dir. Noah Haydon), Mar/Apr 2022
 1.  ~~Sunday In the Park With George (Gatehouse Theatre,
 dir. Rachel Pospíšil), ~~June/July 2020~~ _Cancelled due to COVID-19_
 1.  ~~Dreamgirls (Altarena Playhouse, dir. ShawnJ West), May/June 2020~~* Cancelled due to COVID-19*
 1.  Bloody Bloody Andrew Jackson (Custom Made Theatre Co., dir. Brian Katz), Sep/Oct 2019
-1.  * Guys and Dolls (Altarena Playhouse, dir. Stewart Lyle), Mar/Apr 2018
+1.  * Guys and Dolls (Altarena Playhouse, dir. Stewart Lyle), Mar/Apr 2018
 1.  In the Heights (Contra Costa Civic Theatre, dir. Ryan
 Weible), **TBA Finalist **{: .emph} Music Direction, Direction, Best Musical, Best Ensemble, Jul/Aug 2017
-1.  * Chess (Custom Made Theatre Co., dir. Brian Katz), **BATCC Winner**{: .emph} Music Direction, Ensemble, Best Overall (SF), Best Overall (entire Bay Area), Sep/Oct 2016
+1.  * Chess (Custom Made Theatre Co., dir. Brian Katz), **BATCC Winner**{: .emph} Music Direction, Ensemble, Best Overall (SF), Best Overall (entire Bay Area), Sep/Oct 2016
 1.  Next to Normal (Custom Made Theatre Co., dir. Brian Katz), **BATCC
 Finalist **{: .emph} Music Direction, Sep/Oct 2013
 1.  Rent (Altarena Playhouse, dir. Stewart Lyle), Mar/Apr 2013
