@@ -6,7 +6,7 @@ sidebar:
 ---
 
 
-### Short Bio (from Altarena *Guys & Dolls* program)
+### Short Bio
 
 Armando Fox (Music Director) is excited to be part of this great
 creative team in his first Moon production.  He's served as Music
