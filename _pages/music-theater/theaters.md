@@ -13,6 +13,28 @@ frequent, with a few words about what they produce.
 
 This list is incomplete and haphazard but will get better over time.
 
+**Aside: Why should you subscribe?**  Most theaters offer a season
+subscription that represents a modest discount over buying every show
+separately, and often comes with other perks like no-fee
+exchanges/cancellations or free wine/concessions at each show and so
+on.  But there are 2 real reasons you should subscribe.
+
+**1. For yourself:**  Having a built-in incentive to see other shows
+than the ones you've heard of will make you a more sophisticated
+theatergoer and you'll often be surprised by something you
+unexpectedly like that you wouldn't otherwise have heard of.
+
+**2. For the theater:** The cash infusion at the beginning of the
+season from selling subscriptions is _really important_ to small
+nonprofits: they have a lot of expenses that have to be paid up front
+for each production before a single dollar is earned from its ticket
+sales, and your donations later in the season won't come soon enough
+to help.  A good subscriber base means financial sustainability.  
+If you are choosing between subscribing or donating a comparable
+amount, subscribe; it's good for you _and_ the theater. Better yet, do both.
+
+OK, here's the current list.
+
 # In San Francisco
 
 **[SF Playhouse](sfplayhouse.org)**, near Union Square. They punch a bit
