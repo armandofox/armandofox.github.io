@@ -10,12 +10,13 @@ sidebar:
 
 # Shows I'm Working On Now or Soon
 
-**Now playing:**  La Cage aux Folles at [Altarena Playhouse](https://altarena.org)
-
 **Coming soon:** The Pajama Game at [42nd Street Moon](https://42ndstmoon.org)
 
 # Ways I support local theater
 
+I go to the theater a lot.  [Here's a list]({% post_url
+music-theater/theaters-i-like %}) of theaters I frequent
+and/or subscribe to.
 
 <img class="embed-left" align="right" src="https://images-na.ssl-images-amazon.com/images/I/512Xr2Mb7dL._SX331_BO1,204,203,200_.jpg">
 
