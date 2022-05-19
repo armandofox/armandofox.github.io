@@ -10,12 +10,14 @@ sidebar:
 
 # Shows I'm Working On Now or Soon
 
-**Coming soon:** The Pajama Game at [42nd Street Moon](https://42ndstmoon.org)
+**Opening June 2:** The Pajama Game at [42nd Street Moon](42ndstmoon.org)
+
+**Opening September 9:** Camelot at [Contra Costa Civic Theatre](ccct.org)
 
 # Ways I support local theater
 
-I go to the theater a lot.  [Here's a list]({% post_url
-music-theater/theaters-i-like %}) of theaters I frequent
+I go to the theater a lot.  [Here's a list]({% link
+_pages/music-theater/theaters.md %}) of theaters I frequent
 and/or subscribe to.
 
 <img class="embed-left" align="right" src="https://images-na.ssl-images-amazon.com/images/I/512Xr2Mb7dL._SX331_BO1,204,203,200_.jpg">
@@ -30,7 +32,6 @@ subscriber/audience base, including subscription sales, ticket sales,
 donations, etc., at the lowest possible price and with no per-ticket fees.
 
 -   Board of Directors (2004-2012) and Advisory Board (2013-present) of [Altarena Playhouse](http://altarena.org/), the Bay Area's oldest continuously-operating community theater (founded 1938). 
--   Advisory Board, [The Lorraine Hansberry Theatre](http://lhtsf.org/), 2019-present.
 -   Advisory Board, [Custom Made Theatre Co.,](http://custommade.org/) 2013-present.
 -   Much of what I learned working with them and with others is summarized in my open-source [Small Theater Growth & Development Field Manual](https://docs.google.com/document/d/1oh1Z-3zFnCa_uQEoKzkjhGA_kShPf2wY8ZG7FuVJG9g/edit?usp=sharing). 
 
