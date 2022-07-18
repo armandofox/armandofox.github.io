@@ -54,11 +54,11 @@ Obviously it depends on the project, but ***it's good to be comfortable with a 
 
 **DO** focus on your interests, work, and planned contributions, in 1-2 (max) pages:
 
-* What is your main research interset, and in particular, what aspect of it do you see as a concrete topic for {REU|MS thesis} work?
+* What is your main research interest, and in particular, what aspect of it do you see as a concrete topic for {REU|MS-thesis|etc.} work?
 
 * Why are you interestd in that topic/problem?  (this is the part where you can bring in relevant elements of your back story, the things that differentiate you from other applicants, even if those other applicants had similar research interest and overall similar background) 
 
-* How do you think your work could change berkeley/CS/education/etc if it succeeds?  (or: what would "success" look like, thinking beyond the boundaries of the project itself and even of berkeley?)
+* How do you think your work could change Berkeley/CS/education/etc if it succeeds?  (or: what would "success" look like, thinking beyond the boundaries of the project itself and even of berkeley?)
 
 
 **DON'T** tell your life story.  I hate to be blunt but nobody has the
@@ -96,13 +96,14 @@ learned those lessons) in the following ways...
 
 **Tedious to read:**
 
+Institution X has always been my dream school.  (Or: It has always
+been my dream to work with researchers Y and Z at your institution.)
+
+**Much more interesting:**
+
+
 I think the work of Researchers Y and Z is
 {groundbreaking|relevant|etc.} because [...].  In fact I believe I
 could contribute to and further their agendas by [...], and I hope to
 learn from their students and them so I can pursue this promising
 avenue of work.
-
-**Much more interesting:**
-
-Institution X has always been my dream school.  (Or: It has always
-been my dream to work with researchers Y and Z at your institution.)
