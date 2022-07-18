@@ -10,9 +10,9 @@ sidebar:
 
 # Shows I'm Working On Now or Soon
 
-**Opening June 2:** The Pajama Game at [42nd Street Moon](42ndstmoon.org)
-
 **Opening September 9:** Camelot at [Contra Costa Civic Theatre](ccct.org)
+
+See below for shows I've worked on recently.
 
 # Ways I support local theater
 
