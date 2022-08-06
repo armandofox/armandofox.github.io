@@ -115,6 +115,8 @@ claim to read more than I do.***
   <dd><em>James Baldwin</em>
   </dd>
 
+  
+
 </dl>
 
 # Character, Education, & Self-formation
@@ -232,6 +234,28 @@ claim to read more than I do.***
     Park burned to the ground
   </dd>
 
+<dt>
+   We were speaking of the first steps along a path to which one could
+affix the sign: <span style="font-size: 90%;">REASON IN THE SERVICE OF THE URGES.</span>
+This because the overwhelming majority of the material products of the
+mind were channeled into sybaritic pursuits. An ingeniously
+constructed television set dispersed intellectual garbage;
+sophisticated transportation technologies made it possible for a
+degenerate, instead of getting soused in his own backyard, to dress up
+a tourist and do the same in the vicinity of Saint Peter's
+basicila. If this tendency were to lead to the invasion of the human
+body by technological contrivances, undoubtedly the idea woudl eb to
+expand the gamut of pleasurable sensations to the maximum, and perhaps
+even to bring into being&emdash;besides sex, narcotics, culinary
+happiness&emdash;other, as yet unknown, kinds of sensual stimulation
+and gratification.
+    </dt>
+    <dd>Stanis\0142aw Lem, <i>His Master's Voice</i>, translated by
+Michael Kandel
+    </dd>
+
+
+
 </dl>
 
 # Religion & Philosophy
@@ -284,6 +308,7 @@ claim to read more than I do.***
     false, and by the rulers as useful. </dt>
   <dd>Seneca the Younger
   </dd>
+
 
 </dl>
 

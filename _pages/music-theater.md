@@ -8,17 +8,17 @@ sidebar:
 ---
 
 
-# Upcoming Shows I'm Working On
+# Shows I'm Working On Now or Soon
 
+**Opening September 9:** Camelot at [Contra Costa Civic Theatre](ccct.org)
 
-* La Cage aux Folles (Altarena Playhouse, dir. Noah Haydon),
-March/April 2022 (Music Director)
-
-* The Pajama Game (42nd Street Moon, dir. Becky Potter), May/June
-2022 (Music Director)
+See below for shows I've worked on recently.
 
 # Ways I support local theater
 
+I go to the theater a lot.  [Here's a list]({% link
+_pages/music-theater/theaters.md %}) of theaters I frequent
+and/or subscribe to.
 
 <img class="embed-left" align="right" src="https://images-na.ssl-images-amazon.com/images/I/512Xr2Mb7dL._SX331_BO1,204,203,200_.jpg">
 
@@ -32,7 +32,6 @@ subscriber/audience base, including subscription sales, ticket sales,
 donations, etc., at the lowest possible price and with no per-ticket fees.
 
 -   Board of Directors (2004-2012) and Advisory Board (2013-present) of [Altarena Playhouse](http://altarena.org/), the Bay Area's oldest continuously-operating community theater (founded 1938). 
--   Advisory Board, [The Lorraine Hansberry Theatre](http://lhtsf.org/), 2019-present.
 -   Advisory Board, [Custom Made Theatre Co.,](http://custommade.org/) 2013-present.
 -   Much of what I learned working with them and with others is summarized in my open-source [Small Theater Growth & Development Field Manual](https://docs.google.com/document/d/1oh1Z-3zFnCa_uQEoKzkjhGA_kShPf2wY8ZG7FuVJG9g/edit?usp=sharing). 
 
@@ -62,15 +61,15 @@ or reductions)
 
 
 1. The Pajama Game (42nd Street Moon, dir. Becky Potter), May/June 2022
-1. La Cage aux Folles (Altarena Playhouse, dir. Noah Haydon), Mar/Apr 2022
+1. La Cage Aux Folles (Altarena Playhouse, dir. Noah Haydon), Mar/Apr 2022
 1.  ~~Sunday In the Park With George (Gatehouse Theatre,
 dir. Rachel Pospíšil), ~~June/July 2020~~ _Cancelled due to COVID-19_
 1.  ~~Dreamgirls (Altarena Playhouse, dir. ShawnJ West), May/June 2020~~* Cancelled due to COVID-19*
 1.  Bloody Bloody Andrew Jackson (Custom Made Theatre Co., dir. Brian Katz), Sep/Oct 2019
-1.  * Guys and Dolls (Altarena Playhouse, dir. Stewart Lyle), Mar/Apr 2018
+1.  * Guys and Dolls (Altarena Playhouse, dir. Stewart Lyle), Mar/Apr 2018
 1.  In the Heights (Contra Costa Civic Theatre, dir. Ryan
 Weible), **TBA Finalist **{: .emph} Music Direction, Direction, Best Musical, Best Ensemble, Jul/Aug 2017
-1.  * Chess (Custom Made Theatre Co., dir. Brian Katz), **BATCC Winner**{: .emph} Music Direction, Ensemble, Best Overall (SF), Best Overall (entire Bay Area), Sep/Oct 2016
+1.  * Chess (Custom Made Theatre Co., dir. Brian Katz), **BATCC Winner**{: .emph} Music Direction, Ensemble, Best Overall (SF), Best Overall (entire Bay Area), Sep/Oct 2016
 1.  Next to Normal (Custom Made Theatre Co., dir. Brian Katz), **BATCC
 Finalist **{: .emph} Music Direction, Sep/Oct 2013
 1.  Rent (Altarena Playhouse, dir. Stewart Lyle), Mar/Apr 2013

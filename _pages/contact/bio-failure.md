@@ -1,9 +1,11 @@
 ---
 permalink: /contact/bio-failure/
 type: page
+layout: single
 sidebar:
   nav: "contact"
 ---
+
 Armando Fox was denied tenure from Stanford's highly-ranked Computer
 Science department in 2006. Prior to holding that position, he was
 rejected from several top-10 Ph.D. programs, after having been

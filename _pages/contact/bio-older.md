@@ -1,9 +1,11 @@
 ---
 permalink: /contact/bio-older/
 type: page
+layout: single
 sidebar:
   nav: "contact"
 ---
+
 ## ESaaS
 
 Armando Fox (fox@berkeley.edu) is a Professor in the Electrical

@@ -23,9 +23,9 @@ Co-authored with Turing Award winner Dave Patterson, this book serves as the fou
 The First Edition, published in 2014, was the 2016 Most Promising New
 Textbook award (the "texty"?) from the Textbook Authors Association.
 
-PDF version [freely downloadable](http://www.saasbook.info/), hardcopy and Kindle versions available for purchase on Amazon. If you buy the hardcopy you get the Kindle version for free!
+PDF version [freely downloadable](http://www.saasbook.info/), hardcopy and Kindle versions available [for purchase](https://www.amazon.com/Engineering-Software-As-Service-Computing/dp/1735233803) on Amazon. If you buy the hardcopy you get the Kindle version for free!
 
-On the book's home page you'll also find freely downloadable versions
+On the book's [home page](http://www.saasbook.info) you'll also find freely downloadable versions
 of the First Edition in English, Spanish, and Brazilian Portuguese,
 and purchasable hardcopy editions in Mandarin and Greek.
 

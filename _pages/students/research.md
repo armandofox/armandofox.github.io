@@ -49,3 +49,61 @@ Spending 3 or 4 hours every other week on a project is essentially wasted time--
 
 
 Obviously it depends on the project, but ***it's good to be comfortable with a variety of languages and frameworks to maximize your appeal to software-intensive projects***. Working on extracurricular projects (hackathons, Blueprint, DeCal courses, etc.) or taking high-quality online courses from sites like [edX](http://edx.org/) or [Coursera](http://coursera.org/) is a great way to do this.
+
+# I need to write a research statement/statement of purpose (SOP) for an REU or grad application.  Any advice?
+
+**DO** focus on your interests, work, and planned contributions, in 1-2 (max) pages:
+
+* What is your main research interest, and in particular, what aspect of it do you see as a concrete topic for {REU|MS-thesis|etc.} work?
+
+* Why are you interestd in that topic/problem?  (this is the part where you can bring in relevant elements of your back story, the things that differentiate you from other applicants, even if those other applicants had similar research interest and overall similar background) 
+
+* How do you think your work could change Berkeley/CS/education/etc if it succeeds?  (or: what would "success" look like, thinking beyond the boundaries of the project itself and even of berkeley?)
+
+
+**DON'T** tell your life story.  I hate to be blunt but nobody has the
+time to read it, and its importance really is in how it relates to
+your research interests/goals/etc.
+
+**DO** include elements of your life story that specifically relate to
+the research, but remember the overall statement is _about the
+research, not you_.  
+
+# What if there's a separate personal statement?
+
+Your personal statement should focus on what it is about your life
+experience that you can bring to the
+institution, to your fellow students, co-workers, etc.
+
+**Tedious to read:**
+
+I did X and Y.  I experienced hardship Z.  I was
+enlightened/appalled/whatever by experience W.
+
+
+**Much more interesting:**
+
+My experience doing X and Y will help me succeed in my intended work
+because...
+
+Hardship Z taught me that [...], and the way this will inform my
+interactions with colleagues, ability to deal with challenges in my
+future research, etc. is [...]
+
+Experience W was life-changing, and I can bring to bear the lessons
+learned from it (or help others benefit from my experience of having
+learned those lessons) in the following ways...
+
+**Tedious to read:**
+
+Institution X has always been my dream school.  (Or: It has always
+been my dream to work with researchers Y and Z at your institution.)
+
+**Much more interesting:**
+
+
+I think the work of Researchers Y and Z is
+{groundbreaking|relevant|etc.} because [...].  In fact I believe I
+could contribute to and further their agendas by [...], and I hope to
+learn from their students and them so I can pursue this promising
+avenue of work.

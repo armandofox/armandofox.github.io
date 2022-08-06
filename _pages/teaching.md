@@ -5,6 +5,30 @@ type: page
 layout: single
 ---
 
+**Fall 2022:**
+
+- [CS 169A](https://cs169a.cs169.org): Fast-paced introduction to the
+fundamentals of Agile software engineering, including cloud computing
+& SaaS, behavior-driven design with lo-fi mockups and user stories,
+test-driven development, working 
+with and refactoring legacy code, design patterns, dev/ops,
+cloud+client app frameworks, working in Agile teams, and using the
+tools professionals use to craft beautiful, maintainable software.
+
+- [CS 375](https://cs375.org): Teaching Techniques for CS.  Pedagogy,
+classroom climate, DEIBJ, and in general being a successful student teacher.
+
+
+**Spring 2022:**
+
+- [CS 169L](https://cs169L.cs169.org): Software Engineering Team
+Project.  Student teams work with real customers (nonprofits & campus
+units) to build SaaS.  Requires [CS169A](https://cs169a.cs169.org) or
+equivalent experience, as characterized by its textbook [Engineering
+Software as a Service](http://saasbook.info).
+
+- [CS 375](https://cs375.org): Teaching Techniques for CS.  Pedagogy,
+classroom climate, DEIBJ, and in general being a successful student teacher.
 
 **Fall 2021:**
 
