@@ -148,11 +148,19 @@ Trivia
 * The iconic _I'm Still Here_ was written during the Boston
 out-of-town tryout.  Yvonne DeCarlo's original turn was _Can That Boy
 Foxtrot_, a "one-joke" song about a dim young hunk who only does one
-thing well, featuring Sondheim's usual brilliant
-rhymes ("sometimes in a clerk you find a Hercules", "what makes him
-look reptilian is the brilliantine").  (The song is included on the
-Papaer Mill Playhouse album, below.) But the song just wasn't
-landing, 
+thing well, featuring Sondheim's usual brilliant rhymes ("sometimes in
+a clerk you find a Hercules", "what makes him look reptilian is the
+brilliantine").  (The song is included on the Paper Mill Playhouse
+album, below.) But the song just wasn't landing, and Yvonne DeCarlo
+(whose character sings it) was something of a celebrity in the cast so
+the creative team felt her song should be more substantive.
+Bookwriter James Goldman suggested a song about survival, since this
+was in fact hardly DeCarlo's first rodeo (and she was perhaps already
+on the way to being a bit of a has-been), with a theme that suggests
+"I'm still here."  Sondheim immediately seized on the phrase and came
+back with the song a couple of days later.  It was orchestrated in
+less than three days, to try in front of an audience on the last day
+of Boston tryouts. 
 
 * The last lyric of *Waiting For the Girls Upstairs* was originally:
 
