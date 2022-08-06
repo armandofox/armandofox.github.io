@@ -164,15 +164,17 @@ of Boston tryouts.
 
 * The last lyric of *Waiting For the Girls Upstairs* was originally:
 
->> Though we know now life is immense,
->> Full of wars and marriages and things that make sense
->> Time was when one of the major events
->> Was waiting for the girls upstairs.
+> Though we know now life is immense,<br>
+> Full of wars and marriages and things that make sense<br>
+> Time was when one of the major events<br>
+> Was waiting for the girls upstairs.
 
-During tryouts, the first couplet was changed to:
+During tryouts, this was changed to:
 
->> Life was fun but oh so intense,
->> Everything was possible and nothing made sense.
+> Life was fun but oh so intense,<br>
+> Everything was possible and nothing made sense.
+> Back there when one of the major events<br>
+> Was waiting for the girls upstairs.
 
 It's a subtle change, but it moves the focus of the whole song
 to the past rather than the present.  The first version suggests the
