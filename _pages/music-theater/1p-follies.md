@@ -217,3 +217,15 @@ Also quite beautiful is the song ***All Things Bright and
 Beautiful***, originally a duet between Young Ben and Young Sally,
 which was cut as a vocal number but is used as the opening music (prologue) in the
 current version. 
+
+Filmography
+-----------
+
+The only available filmed version of the show I know of that is worth
+watching is the outstanding production from the [UK National
+Theatre](nationaltheatre.org.uk) in 2019.  Because of COVID they made
+the 
+video available via streaming for a limited time.  You might have to
+ask an enterprising theater [sic] fan who has a bit of tech-fu whether
+they thought to, um, archive a copy of that video for safekeeping and
+posterity.
