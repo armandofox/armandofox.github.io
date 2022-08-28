@@ -54,8 +54,12 @@ music-theater:
 contact:
   - title: "Bios"
     children:
+      - title: "General Bio"
+        url: /contact/bio
       - title: "En castellano"
         url: /contact/bio-castellano
+      - title: "Music/Theater Bio"
+        url: /music-theater/bio-music
       - title: "Failure Bio"
         url: /contact/bio-failure
       - title: "Older Bios"

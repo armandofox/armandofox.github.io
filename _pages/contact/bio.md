@@ -12,8 +12,7 @@ sidebar:
 
 Armando Fox is a Professor of Computer Science, Faculty Advisor for
 Digital Learning Strategy, Campus Equity Advisor, and Computer Science
-Diversity Officer, and Associate Dean for Online Learning in the
-Division of Computing, Data Science, and Society. 
+Diversity Officer at UC Berkeley.
 With his colleague David Patterson,
 he co-designed and co-taught Berkeley's first Massive Open Online
 Course on "Engineering Software as a Service", offered through edX,
