@@ -10,7 +10,7 @@ sidebar:
 
 # Shows I'm Working On Now or Soon
 
-**Now playing through Oct 7:** Camelot at [Contra Costa Civic Theatre](ccct.org)
+**Now playing through Oct 9:** Camelot at [Contra Costa Civic Theatre](ccct.org)
 
 See below for shows I've worked on recently.
 
