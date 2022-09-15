@@ -10,7 +10,7 @@ sidebar:
 
 # Shows I'm Working On Now or Soon
 
-**Opening September 9:** Camelot at [Contra Costa Civic Theatre](ccct.org)
+**Now playing through Oct 7:** Camelot at [Contra Costa Civic Theatre](ccct.org)
 
 See below for shows I've worked on recently.
 
@@ -38,7 +38,9 @@ donations, etc., at the lowest possible price and with no per-ticket fees.
 
 # I Play Some Instruments
 
-I play piano and keyboards very well, drums reasonably well, single reeds (clarinet and tenor/alto sax) not very well at all, and I'm slowly getting better on accordion and harmonica.
+I play piano and keyboards very well, drums reasonably well, single
+reeds (clarinet and tenor/alto sax) not very well at all, and I'm
+slowly getting better on accordion, harmonica, and tin whistle.
 
 I started **classical piano** training at age 5 with private instructors, and later completed the Mannes College of Music (now part of the [New School](http://newschool.edu/)) Certificate Program including piano performance with concert pianist and educator [Michael Boriskin](http://www.dworkincompany.com/html/boriskin/boriskin_artist.html) and others, ensemble, theory, ear training, orchestration, choir, chamber performance, ...the whole enchilada.
 

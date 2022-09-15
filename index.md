@@ -16,7 +16,7 @@ The menu above leads to more detail about my various activities, but in a nutshe
 
 * I regularly teach [CS169A Intro to Software Engineering](cs169a.cs169.org) (and the accompanying [CS169L project course](cs169l.cs169.org)), CS375 [Teaching Techniques for CS](cs375.org), and sometimes the freshman seminar [Our Digital Quandary](digitalquandary.org), exploring issues at the intersection of computer science and society.
 
-* Office hours Fall 2023: TBD, but you can always email to request an appointment: my last name at berkeley dot edu.
+* Office hours Fall 2023: Tuesdays 16:00-17:00 in 569 Soda Hall, or you can email to request an appointment: my last name at berkeley dot edu.
 
 # News
 
