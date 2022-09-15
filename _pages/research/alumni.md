@@ -14,6 +14,7 @@ co-advisor, not students on whose committees I served as non-advisor.)
 PhD and Postdoc Alumni (* = co-advisor but not primary)
 ----------------------
 
+1.  Nate (Weinman) Gainsboro, PhD 2021, now at Figma.  *Improving Instruction of Programming Patterns with Faded Parsons Problems.*
 1.  Michael Driscoll, PhD 2018, now at Tesla, with Prof. Kathy Yelick. *[Domain-specific Optimization Techniques for Fast, Portable Image Reconstruction](https://docs.google.com/presentation/d/1arbQhfpIRjmv-B5Y6Fhom1pon9bY6FcemPz9xvkxcac/edit#slide=id.p).*
 2.  Kristin Stephens-Martinez, PhD 2017, now faculty at Duke University. *Serving CS Formative Feedback on Assessments Using Simple and Practical Teacher-Bootstrapped Error Models.*
 3.  Kristal Curtis, PhD 2015, with Prof. Dave Patterson. *Leveraging similar regions to improve genome data processing*

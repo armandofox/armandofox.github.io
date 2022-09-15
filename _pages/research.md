@@ -29,6 +29,7 @@ Current Graduate Students and Committees (see also [Alumni](http://www.armandof
 -------------------------------------------------------------------------------------------------------
 
 -   [Aslı Akalin](https://github.com/asliakalin) (MS, CS)
+-   [Tim Aveni](https://timothyaveni.com) (PhD, CS)
 -   [Logan Caraco](http://people.eecs.berkeley.edu/~logan_caraco/) (PhD, CS)
--   [Nate Weinman](http://people.eecs.berkeley.edu/~nathaniel_weinman/) (PhD, CS)
--   [HeZheng Yin](https://people.eecs.berkeley.edu/~hezheng.yin/) (on industrial leave from PhD, CS)
+-   [Fuzail
+Shakir](https://www.linkedin.com/in/fuzail-shakir-b050a416b/) (MS, CS)
