@@ -1,5 +1,5 @@
 ---
-title: "The Inequality Machine: How College Divides Us"
+title: "The Hacking of the American Mind"
 categories: ["Book summary","Education"]
 ---
 Five years ago, UCSF pediatric endocrinologist Dr. Robert H. Lustig came out swinging with *Fat Chance, *a well-argued if polemical exposé of how the processed sugar industry has come to dominate food production (and consumption) with disastrous effects---not simply obesity, but *metabolic syndrome, *which affects circulatory health, mental health, sleep patterns, anxiety levels, overall longevity, various risk levels for cancer, and much more. (I only recently learned that while preparing the book, this career physician in his 60s obtained a law degree in order to better understand both the regulatory framework around the food industry and the kinds of fights he'd be up against by publishing such a muckraking book.)

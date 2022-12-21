@@ -10,7 +10,7 @@ sidebar:
 
 # Shows I'm Working On Now or Soon
 
-**Now playing through Oct 9:** Camelot at [Contra Costa Civic Theatre](ccct.org)
+**Coming in March 2023:** _Ruthless! The Musical_ at [Altarena Playhouse](altarena.org)
 
 See below for shows I've worked on recently.
 
@@ -62,6 +62,7 @@ marks a production for which I did substantial original arrangements
 or reductions)
 
 
+1. Camelot (Contra Costa Civic Theatre, dir. Diana Trotter),Sep/Oct 2022
 1. The Pajama Game (42nd Street Moon, dir. Becky Potter), May/June 2022
 1. La Cage Aux Folles (Altarena Playhouse, dir. Noah Haydon), Mar/Apr 2022
 1.  ~~Sunday In the Park With George (Gatehouse Theatre,

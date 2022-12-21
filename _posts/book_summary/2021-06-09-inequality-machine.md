@@ -3,7 +3,7 @@ title: "The Inequality Machine: How College Divides Us"
 categories: ["Book summary","Education"]
 ---
 
-# Book summary: The Inequality MachineHow College Divides Us, by Paul Tough
+# The Inequality Machine: How College Divides Us, by Paul Tough
 
 Paul Tough writes about how college in the US has gone from being a
 _tool for upward mobility_ to a _shield against downward mobility_, and at
