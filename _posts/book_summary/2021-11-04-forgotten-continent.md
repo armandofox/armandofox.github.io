@@ -132,16 +132,14 @@ economically worse off than most of LatAm.
 
 Countries rich in natural resources are easy targets for populists:
 "Our country has so much (oil, diamonds, whatever) that we should all
-be rich! Put me in power and I'll make it happen!"
-But economies that focus on extractive natural resources suffer from
-the *resource curse:* the jobs pay 
-little and don't result in transerable skills, the society increases
-its reliance on imported industrial machinery and expertise to improve
-margins,  
-and as a result, wealth gets concentrated at the top. Those who
-benefit therefore have no incentive
+be rich! Put me in power and I'll make it happen!"  But economies that
+focus on extractive natural resources suffer from the *resource
+curse:* the jobs pay little and don't result in transferable skills,
+the society increases its reliance on imported industrial machinery
+and expertise to improve margins, and as a result, wealth gets
+concentrated at the top. Those who benefit therefore have no incentive
 to develop new sources of income, even though the rest of the populace
-stays poor.  
+stays poor.
 This situation  is the exact *opposite* of what an economy needs to establish
 itself through import substitution (as explained in [Jane Jacobs's *The
 Economy of Cities*]({% post_url book_summary/2021-09-30-economy-cities %})).
@@ -323,10 +321,10 @@ Low-income societies (which tend to be badly governed) don't trust
 their government to create these conditions; guilds and ethnic/expat
 networks help somewhat, though at the risk of ethnic hostility.
 
-Yet if you try to "reform" by running <a name="twosystems">two systems</a> side-by-side
+Yet if you try to "reform" by running <span id="twosystems">two systems</span> side-by-side
 within a society,  bad actors can
 asymetrically exploit one against the other, or exit one system on bad
-terms only to enter the other system "clean".  
+terms only to enter the other system "clean".
 When the Soviet Union fell, the network
 of "pushers" or Tolkachi (O'Rourke talks about them in ETR) that had
 learned to "cheat" and build fiefdoms within the ineffective command
@@ -339,19 +337,19 @@ trying to replace, how existing networks have evolved.
 ### But aid agencies keep giving, because even though the game is rigged, it's the only game in town.
 
 Aid agencies are rewarded (by new infusions of donor cash)
-for observable outputs, such reports, meetings, and shiny buildings, and for setting
+for observable outputs, such as reports, meetings, and shiny buildings, and for setting
 *goals*, which are observable where results are not.
-Buildings are more observable by donors than, say, textbooks or mosquito
-nets.  Money spent on treatment for AIDS patients
+Buildings are easier for donors to see than, say, textbooks or mosquito
+nets are.  For example, money spent on treatment for AIDS patients
 (which in the 1990s was extremely expensive and would prolong each
 life by a few months or years) is more observable than money spent on
 prevention and education programs, which could save many more lives
 for much less money.  And even without that obstacle, some such
-programs are ideologically hamstrung, such as  
+programs are ideologically hamstrung, such as
 forbidding the use of birth control or
 condoms (p. 244, 251-252, 254-255).
 (Bill Gates is a notable exception in his foundation's rational
-approach to philanthropy.)  
+approach to philanthropy.)
 
 Hence, even in countries that aren't so bad, a distortedly large sector of
 the economy consists of bureaucrats tied up in the aid
@@ -383,7 +381,7 @@ stability it's trying to create.
 In trying to create that stability, the IMF may basically
 try to tell the government how to spend the money,
 including taking fiscal-policy actions that  may be unpopular, for
-which the government then gets blamed or overthrown.  
+which the government then gets blamed or overthrown.
 Or it may make deals with governments run by gangsters, which will
 never be honored and will leave the population of the country as a
 whole liable for loans that will never reach them and which they can

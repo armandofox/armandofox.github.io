@@ -1,5 +1,5 @@
 ---
-title: "Five slim books about teaching"
+title: "Armando's Summer Reading 2010"
 categories: ["Book summary"]
 ---
 

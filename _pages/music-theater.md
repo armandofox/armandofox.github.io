@@ -55,7 +55,7 @@ I've been **keyboardist and drummer** (sometimes simultaneously) for original 
 
 My **vintage 80s synthesizers** (Juno-106, D50, DX7) used in those bands have a new lease on life in my 80s cover band [Disposable Pop](http://disposablepop.com/) (currently on COVID hiatus).
 
-# Musical Direction Credits (+ = original orchestration or reduction)
+# Musical Direction Credits (* = original orchestration or reduction)
 
 1. Camelot (Contra Costa Civic Theatre, dir. Diana Trotter),Sep/Oct 2022
 1. The Pajama Game (42nd Street Moon, dir. Becky Potter), May/June 2022
@@ -64,26 +64,26 @@ My **vintage 80s synthesizers** (Juno-106, D50, DX7) used in those bands have 
 dir. Rachel Pospíšil), ~~June/July 2020~~ _Cancelled due to COVID-19_
 1.  ~~Dreamgirls (Altarena Playhouse, dir. ShawnJ West), May/June 2020~~* Cancelled due to COVID-19*
 1.  Bloody Bloody Andrew Jackson (Custom Made Theatre Co., dir. Brian Katz), Sep/Oct 2019
-1.  + Guys and Dolls (Altarena Playhouse, dir. Stewart Lyle), Mar/Apr 2018
+1.  \* Guys and Dolls (Altarena Playhouse, dir. Stewart Lyle), Mar/Apr 2018
 1.  In the Heights (Contra Costa Civic Theatre, dir. Ryan
 Weible), **TBA Finalist **{: .emph} Music Direction, Direction, Best Musical, Best Ensemble, Jul/Aug 2017
-1.  + Chess (Custom Made Theatre Co., dir. Brian Katz), **BATCC Winner**{: .emph} Music Direction, Ensemble, Best Overall (SF), Best Overall (entire Bay Area), Sep/Oct 2016
+1.  \* Chess (Custom Made Theatre Co., dir. Brian Katz), **BATCC Winner**{: .emph} Music Direction, Ensemble, Best Overall (SF), Best Overall (entire Bay Area), Sep/Oct 2016
 1.  Next to Normal (Custom Made Theatre Co., dir. Brian Katz), **BATCC
 Finalist **{: .emph} Music Direction, Sep/Oct 2013
 1.  Rent (Altarena Playhouse, dir. Stewart Lyle), Mar/Apr 2013
 1.  The Fantasticks (Altarena Playhouse, dir. Stewart Lyle), Oct/Nov 2012
 1. The 25th Annual Putnam County Spelling Bee (Altarena Playhouse, dir. Stewart Lyle), Mar/Apr 2011
-1. + Man of La Mancha (Altarena Playhouse, dir. Stewart Lyle), Feb-Apr 2010 
-1. + Gypsy  (Altarena Playhouse, dir. Christina Lazo), Mar/Apr 2009
+1. \* Man of La Mancha (Altarena Playhouse, dir. Stewart Lyle), Feb-Apr 2010 
+1. \* Gypsy  (Altarena Playhouse, dir. Christina Lazo), Mar/Apr 2009
 1. Chicago (Altarena Playhouse, dir. Christina Lazo), Mar/Apr 2008
 1. Sweeney Todd (St. Mary's College, dir. Reid Davis), Apr 2009
-1. + Assassins (Custom Made Theater Co., dir. Brian Katz), **TBA Top Ten**{: .emph}, Jun/Jul 2007
+1. \* Assassins (Custom Made Theater Co., dir. Brian Katz), **TBA Top Ten**{: .emph}, Jun/Jul 2007
 1. The Last Five Years (Altarena Playhouse, dir. Corrie Lenn Borris), May/Jun 2007
 1. You're a Good Man, Charlie Brown (Altarena Playhouse, dir. Ron Lytle), May/Jun 2006
 1. Merrily We Roll Along (Altarena Playhouse, dir. Phil Lowery), Oct/Nov 2006
-1. + The Man Who Saved Christmas (Altarena Playhouse, dir. Ron Lytle), Dec 2006
+1. \* The Man Who Saved Christmas (Altarena Playhouse, dir. Ron Lytle), Dec 2006
 1. Cabaret (Altarena Playhouse, dir. Phil Lowery), Sep/Oct 2005
-1. + Oh My Godmother! (Altarena Playhouse, dir. Ron Lytle), Jul/Aug 2005
+1. \* Oh My Godmother! (Altarena Playhouse, dir. Ron Lytle), Jul/Aug 2005
 1. Company (Altarena Playhouse, dir. Phil Lowery), Mar/Apr 2004
 1. Company (Haste Street Players, dir. Phil Lowery), 1998
 1. Bye Bye Birdie (Baker House Productions at MIT, dir. Liz Ambrogi), Apr 1990
