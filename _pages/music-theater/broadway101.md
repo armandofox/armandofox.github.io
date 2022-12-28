@@ -1,6 +1,13 @@
-# Resources for Armando Fox's "Intro to the Broadway Musical" Presentation
+---
+title: "Introduction to the Broadway Musical"
+permalink: /broadway101
+type: page
+layout: single
+sidebar:
+  nav: "music-theater"
+---
 
-This presentation, featuring plenty of video and sound clips, gives a
+My one-hour presentation, featuring plenty of video and sound clips, gives a
 brief introduction to the "Broadway musical":  What makes it different
 from other art forms like a play or an opera?  Where, when, and how
 did it originate?  What makes it a uniquely American invention?  What
@@ -13,11 +20,14 @@ During the talk, I mention a number of musicals, and I've been asked
 to put together a list of filmed or recorded performances of those for
 which such recordings are available.
 
-In general, I <i>do not</i> recommend seeing movie adaptations of
-musicals: most of them are not very good and/or don't closely follow
-the stage musical.  The ones below are exceptions.
+The links to movies are to IMDb, but I recommend using
+[JustWatch](https://justwatch.com) to check which streaming service(s)
+carry each title.
 
 ### Show Boat (1927), Oklahoma! (1943), South Pacific (1949)
+
+_Book and lyrics by Oscar Hammerstein; music by Jerome Kern (Show Boat)
+and Richard Rodgers (Oklahoma!, South Pacific)_
 
 There are movie adaptations of these musicals, but I don't recommend
 them.  They are nowhere near as compelling as the stage musicals.
@@ -30,6 +40,9 @@ sets or scenery and there is minimal dialogue---it's really just about
 the songs.
 
 ### West Side Story (1957)
+
+_Music by Leonard Bernstein, lyrics by Stephen Sondheim, book by Arthur
+Laurents, choreography by Jerome Robbins._
 
 The original [1961 film](https://www.imdb.com/title/tt0055614)
 starring Natalie Wood and Chita Rivera is still a classic and
@@ -45,6 +58,8 @@ a great film to watch.
 album is probably the one to get.
 
 ### Company (1970)
+
+_Music and lyrics by Stephen Sondheim, book by George Furth._
 
 In shortened versions of the presentation, I don't mention this
 landmark musical, which experimented with nonlinear storytelling.
@@ -65,6 +80,8 @@ cast, but the original 1970 recording is excellent too.
 
 ### Ragtime (1997)
 
+_Music by Stephen Flaherty, lyrics by Lynn Ahrens, book by Terrence McNally._
+
 Unfortunately there's no filmed version of this monumental musical.
 There is a movie based on the same E.L. Doctorow novel, but the movie
 has very little in common with the musical (despite being more true to
@@ -75,14 +92,20 @@ Stokes Mitchell and Audra McDonald, is outstanding.
 
 ### In the Heights (2008)
 
-The 2021 movie _In the Heights_ is not a filmed performance of the
-show, but it is a very good movie and just as true to the material,
-and featuring amazing choreography---really a modern version of the
+_Music and lyrics by Lin-Manuel Miranda, book by Quiara Alegria Hudes._
+
+The 2021 movie [In the Heights](https://www.imdb.com/title/tt1321510) is not a filmed performance of the
+show, but an outstanding movie that is true to the material 
+and features spectacular choreography---really a modern incarnation of the
 "classic big-screen musical" from earlier times.
 
 ### Hamilton (2015)
 
-A filmed live performance of Hamilton, excellently produced, is
+_Book, music, and lyrics by Lin-Manuel Miranda._
+
+A [filmed live performance of
+Hamilton](https://www.imdb.com/title/tt8503618), excellently produced
+and featuring the original Broadway cast, is
 available on the Disney Plus channel and other streaming sources.
 
 # Other musicals...
@@ -91,10 +114,6 @@ These musicals aren't mentioned in my presentation (except maybe in
 passing) but are available as either high-qulaity filmed performances
 or (in my opinion) excellent movie adaptations of their live
 counterparts.
-
-The links are to IMDb, but I recommend using
-[JustWatch](https://justwatch.com) to check which streaming service(s)
-carry each title.
 
 * [Gypsy](https://www.imdb.com/title/tt5375206) (1959), music by Jule
 Styne, lyrics by Stephen Sondheim, book by Arthur Laurents.  A filmed
