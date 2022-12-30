@@ -38,6 +38,13 @@ Winner, Karl V. Karlstrom Outstanding Educator Award<br>
 ACM Fellow
 
 
+**UPDATE 2022-12-06::** Heroku is primarily trying to deal with the threat of bad
+actors, bots, etc., and are very willing to find an educational
+arrangement.  I will be meeting with them early in 2023 to figure
+something out.  Thank you to Bob Wise, Deb Robbins, and the team at
+Salesforce/Heroku for being responsive, quick, and understanding of
+the need!
+
 **And the undersigned colleagues who use our free materials to teach the course:**
 
 Iván Alfonso, PhD Student, Universidad de los Andes, Colombia, id.alfonso@uniandes.edu.co<br>

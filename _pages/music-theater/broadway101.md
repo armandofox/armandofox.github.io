@@ -14,9 +14,9 @@ did it originate?  What makes it a uniquely American invention?  What
 were some of the milestones in its development?
 
 (If you'd like me to give the talk at your organization, [contact
-me.](mailto:theater@armandofox.com)
+me.](mailto:theater@armandofox.com))
 
-During the talk, I mention a number of musicals, and I've been asked
+During the talk, I play excerpts from a number of musicals, and I've been asked
 to put together a list of filmed or recorded performances of those for
 which such recordings are available.
 
