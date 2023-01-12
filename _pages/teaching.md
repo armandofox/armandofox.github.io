@@ -13,6 +13,11 @@ units) to build SaaS.  Requires [CS169A](https://cs169a.cs169.org) or
 equivalent experience, as characterized by its textbook [Engineering
 Software as a Service](http://saasbook.info).
 
+- [CS 194-244/CS 294-244](): STAR Assessments for Mastery Learning.
+Student teams will develop competency-specific, rich, interactive,
+randomizable assessments that address EECS curriculum, and learn to
+rigorously evaluate them using the methods of HCI and the learning sciences.
+
 - [CS 375](https://cs375.org): Teaching Techniques for CS.  Pedagogy,
 classroom climate, DEIBJ, and in general being a successful student teacher.
 

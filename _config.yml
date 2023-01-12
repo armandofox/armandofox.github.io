@@ -56,7 +56,9 @@ defaults:
         - title: "Travel"
           image: /assets/img/piano.jpg
           text: >
-            **Jan. 23-26, 2022:** <br/> FISEE 2023, Villebrumier, France <br>
-            **Mar. 15-17, 2023:** <br> SIGCSE 2023, Toronto, Canada</br>
+            **Jan. 23-27, 2022:** <br> FISEE 2023, Villebrumier, France <br>
+            **Mar. 15-17, 2023:** <br> SIGCSE 2023, Toronto, Canada<br>
+            **May 8-12, 2023:** <br>Academic visit to University of Almeria, Spain<br>
+            
     values:
       layout: single

@@ -157,9 +157,9 @@ not like.”  As Ryan Grim writes:
 > smuggle through standard grievances cloaked in the language of social
 > justice.
 
-I wonder what that's like.
+`<snark>`I wonder what that's like.`</snark>`
 
-The recent strike by teaching assistants and researchers echoes
+The recent (Nov-Dec 2022) strike by teaching assistants and researchers echoes
 some of these same points.  Some of the grievances and concerns of the strikers are
 certainly legitimate.  But once those grievances are cast in the frame
 of an adversarial and mutually mistrustful employer/employee
