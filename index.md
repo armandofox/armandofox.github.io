@@ -18,6 +18,14 @@ The menu above leads to more detail about my various activities, but in a nutshe
 
 # News
 
+* January 23, 2023: It's great to be back at in-person 
+events again, having great discussions about software engineering education at [FISEE
+2023](https://www.laser-foundation.org/fisee/2023/), where I gave an
+[invited keynote](https://drive.google.com/drive/u/1/folders/10clYQn9ka0Q2NZIWY0eqAXqpA7P1UAoe) bringing together many of our research efforts over
+the past few years in
+teaching both technical and team skills in upper-division
+project-based software engineering.
+
 * July 1, 2022: Great [article](https://www.insidehighered.com/news/2022/06/30/how-berkeley-engineering-launched-three-black-aau-presidents) from Inside Higher Ed on how Berkeley Engineering launched three Black college presidents...but also a separate sobering article from Chronicle of Higher Ed profiling five professors of color who [left academia because of the poor climate at their institutions](https://www.chronicle.com/article/why-they-left).
 
 * May 24, 2022: The NSF-funded LEAP Alliance is

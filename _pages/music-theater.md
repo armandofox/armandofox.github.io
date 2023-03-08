@@ -10,7 +10,7 @@ sidebar:
 
 # Shows I'm Working On Now or Soon
 
-**Coming in March 2023:** _Ruthless! The Musical_ at [Altarena Playhouse](altarena.org)
+**Coming in March 2023:** _Ruthless! The Musical_ at [Altarena Playhouse](https://www.altarena.org/2023-season-announcement/ruthless)
 
 See below for shows I've worked on recently.
 

@@ -309,6 +309,9 @@ Michael Kandel
   <dd>Seneca the Younger
   </dd>
 
+  <dt>Le soleil ni la mort ne se peuvent regarder fixement.</dt>
+  <dd>Francois de la Rochefoucauld</dd>
+        
 
 </dl>
 
