@@ -9,8 +9,6 @@ sidebar:
 
 ### Book: Piano/Conductor
 
-|
-
 Although I've had a good deal of formal training in piano performance, musicianship, theory, etc., like most Music Directors working in a nonprofessional setting I never received any formal training on how to do that.
 
 It turns out there's a lot of non-obvious tasks in that job, and I wrote this book to pull them all together.
@@ -33,8 +31,9 @@ on. Substantially all of the techniques are illustrated with examples
 from the musical theater literature.
 
 
+Below is the current Table of Contents. The book is [available on Amazon](https://www.amazon.com/Piano-Conductor-Talked-Being-Director/dp/0984881298) in paperback (and soon Kindle) format, and it's sprinkled with whimsical illustrations by drummer and talented graphic artist Joanne Romeo. If you prefer you can [download the PDF for free](assets/pdf/pianoconductor.pdf).
 
-Below is the current Table of Contents. The book is [available on Amazon](https://www.amazon.com/Piano-Conductor-Talked-Being-Director/dp/0984881298) in paperback (and soon Kindle) format, and it's sprinkled with whimsical illustrations by drummer and talented graphic artist Joanne Romeo. If you prefer you can [download the PDF for free](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxhcm1hbmRvZm94fGd4OjQ1YTU1M2VhYjgzNDg5ZDE).
+A revised edition is expected Summer 2023 so please check back then!
 
 [![https://www.amazon.com/Piano-Conductor-Talked-Being-Director/dp/0984881298](https://images-na.ssl-images-amazon.com/images/I/512Xr2Mb7dL._SX331_BO1,204,203,200_.jpg)](https://www.amazon.com/Piano-Conductor-Talked-Being-Director/dp/0984881298)
 

@@ -78,9 +78,10 @@ performed there, as has Brian Copeland) in an intimate venue.
 
 **[Awesome Theatre](awesometheatre.org)** Young, edgy, weird, funny,
 creepy.  I more or less love everything they do. They do theater old
-school on a shoestring and are super imaginative. They usually (but
-not always) perform at [Pianofight](pianofight.com), one of my
-favorite intimate venues in the city.  For a ridiculously low
+school on a shoestring and are super imaginative. They used to perform
+at [Pianofight](pianofight.com), one of my
+favorite intimate venues in the city which has now (2023) permanently
+shut down; I'm not sure where they're performing these days.  For a ridiculously low
 $10/month you can have unlimited access to everything they do; they've
 also produced films, short videos, a "Your New Favorite Musical"
 contest where audiences vote on which musicals they'd like to see
@@ -110,6 +111,17 @@ here.  It'll be good, just go.  Half a block from the Berkeley BART station.
 house doing a mix of plays and musicals; the same "come see a show
 with your friends and neighbors" ambience as Altarena Playhouse.
 Disclaimer: I've worked there on a couple of shows.  And I will again.
+
+**[Shotgun Players](shotgunplayers.org)**, performing at the Ashby
+Stage, right next to Ashby BART.  Reliably good plays and musicals;
+their 2022-2023 production of _Natasha and Pierre and the Great Comet of
+1812_ was deservedly highly praised (I can't say I love the material, but
+their production was top notch).
+
+**[Stage 1 Theater](stage1theatre.org)**, Newark.  They don't have a
+fixed venue, and their programming and production values have been hit
+or miss, but their recent (2022) production of _Joseph_ ("a bilingual
+production in English and ASL", featuring a Deaf lead actor) was excellent.
 
 # On the Peninsula
 

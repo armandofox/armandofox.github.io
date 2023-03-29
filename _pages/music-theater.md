@@ -57,8 +57,9 @@ My **vintage 80s synthesizers** (Juno-106, D50, DX7) used in those bands have 
 
 # Musical Direction Credits (* = original orchestration or reduction)
 
-1. Camelot (Contra Costa Civic Theatre, dir. Diana Trotter),Sep/Oct 2022
-1. The Pajama Game (42nd Street Moon, dir. Becky Potter), May/June 2022
+1. Ruthless! The Musical (Altarena Playhouse, dir. Dana Anderson), Mar/Apr 2023
+1. Camelot (Contra Costa Civic Theatre, dir. Diana Trotter), Sep/Oct 2022
+1. The Pajama Game (42nd Street Moon, dir. Becky Potter), **BATCC Finalist**{: .emph} Music Direction, May/June 2022
 1. La Cage Aux Folles (Altarena Playhouse, dir. Noah Haydon), Mar/Apr 2022
 1.  ~~Sunday In the Park With George (Gatehouse Theatre,
 dir. Rachel Pospíšil), ~~June/July 2020~~ _Cancelled due to COVID-19_

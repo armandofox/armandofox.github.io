@@ -78,10 +78,10 @@ claim to read more than I do.***
 
   <dt>Where a great proportion of the people are suffered to languish in
     helpless misery, that country must be ill-policed and wretchedly
-    governed. </dt>
-  <dd> Gentlemen of education, he observed, were pretty much
+    governed. Gentlemen of education, he observed, were pretty much
     the same in all countries; the condition of the lower orders, the poor
-    especially, was the true mark of national discrimination. ---Boswell,
+    especially, was the true mark of national discrimination.</dt>
+  <dd>Boswell,
     Life of Johnson, quoted in Paul Theroux, <em>The Old Patagonian Express</em>
   </dd>
 
@@ -93,8 +93,7 @@ claim to read more than I do.***
     into battlefields; our dreams, however rarely they may be
     accomplished? The miracle of man is not how far he has sunk but how
     magnificently he has risen. </dt>
-  <dd>Robert Ardrey, <em>African Genesis</em>, after
-    the work of Raymond Dart, quoted in Michael Benson's <em>Space Odyssey:
+  <dd>Robert Ardrey, <em>African Genesis</em>, quoted in Michael Benson's <em>Space Odyssey:
     Stanley Kubrick, Arthur C. Clarke, and the Making of a
     Masterpiece</em>. [While "risen apes" is discredited, the essence of the
     quote rings true to me.]
@@ -314,6 +313,15 @@ Michael Kandel
         
 
 </dl>
+
+# Art
+
+<dl class="quote">
+  <dt>As an artist, you do not rake in a million marks without
+    performing some sacrifice on the altar of Art.</dt>
+  <dd>Franz Liszt, to his biographer</dd>
+</dl>
+
 
 # City Life
 

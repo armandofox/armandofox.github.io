@@ -34,7 +34,28 @@ Jerome Robbins's choreography makes the show unique (and indeed, it's one of the
 # Music
 
 
-The action of WSS is accompanied by a symphonic, Latin/jazz flavored score that is itself a character in the show, and is still unique in the history of musical theater. Most Broadway scores start out as simple, straightforward songs delivered by the composer, which are then "embellished" via [orchestration](http://en.wikipedia.org/wiki/Orchestration). In contrast, not only are the songs in WSS constructed from unusual motivic elements, but the orchestration is itself a central and sophisticated element of the songs, such that you can't "de-orchestrate" the songs without destroying their character. Bernstein had taken this approach---letting the orchestra function as a character in the show---in the earlier musical ***On The Town*** (1944), which captured a 24-hour shore-leave period of soldiers involved in WW2 and gave us the wistful ballad ***Some Other Time*** and the jaunty ***New York, New York, A Helluva Town***. Bernstein himself did much of the orchestration---he is one of the very few composers of a musical who is capable of doing so---and orchestrated in a symphonic style, where timbral and textural properties of the instruments contribute important elements to the score, as opposed to a "show style", where a simple obvious melody line is accompanied by orchestration. He was assisted by talented orchestrator Sid Ramin, who went on to orchestrate numerous other Broadway shows including ***Gypsy***, whose overture is considered among the finest in the literature. (The overture is usually the sole responsibility of the orchestrator, though that is not the case for WSS.)
+The action of WSS is accompanied by a symphonic, Latin/jazz flavored
+score that is itself a character in the show, and is still unique in
+the history of musical theater. Most Broadway scores start out as
+simple, straightforward songs delivered by the composer, which are
+then "embellished"
+via [orchestration](http://en.wikipedia.org/wiki/Orchestration). In
+contrast, not only are the songs in WSS constructed from unusual
+motivic elements, but the orchestration is itself a central and
+sophisticated element of the songs, such that you can't
+"de-orchestrate" the songs without destroying their
+character. Bernstein had taken this approach---letting the orchestra
+function as a character in the show---in the earlier musical ***On The
+Town*** (1944), which captured a 24-hour shore-leave period of
+soldiers involved in WW2 and gave us the wistful ballad ***Some Other
+Time*** and the jaunty ***New York, New York, A Helluva
+Town***. Bernstein himself closely supervised the orchestration, which
+was mostly executed by Sid Ramin and Phil Lang; Bernstein is one
+of the very few composers of a musical who is capable of doing
+so at a level of fine detail and in a symphonic style, where timbral and textural
+properties of the instruments contribute important elements to the
+score, as opposed to a "show style", where a simple obvious melody
+line is accompanied by orchestration. 
 
 Thematically, the key structural element in the whole WSS score is a musical interval called a [tritone](http://en.wikipedia.org/wiki/Tritone), so called because it is the interval you get if you start on one note, and take three whole-steps up; for example, it's the interval between the notes C and F#, or between F and B. The tritone recurs throughout the score, both melodically (the opening fanfare, the "***Jet Song***", "***Cool***", and "***Maria***") and harmonically (e.g. in the closing chord of the show).
 
