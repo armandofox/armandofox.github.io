@@ -31,7 +31,7 @@ on. Substantially all of the techniques are illustrated with examples
 from the musical theater literature.
 
 
-Below is the current Table of Contents. The book is [available on Amazon](https://www.amazon.com/Piano-Conductor-Talked-Being-Director/dp/0984881298) in paperback (and soon Kindle) format, and it's sprinkled with whimsical illustrations by drummer and talented graphic artist Joanne Romeo. If you prefer you can [download the PDF for free](assets/pdf/pianoconductor.pdf).
+Below is the current Table of Contents. The book is [available on Amazon](https://www.amazon.com/Piano-Conductor-Talked-Being-Director/dp/0984881298) in paperback (and soon Kindle) format, and it's sprinkled with whimsical illustrations by drummer and talented graphic artist Joanne Romeo. If you prefer you can [download the PDF for free](/assets/pdf/pianoconductor.pdf).
 
 A revised edition is expected Summer 2023 so please check back then!
 
