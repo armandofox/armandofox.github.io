@@ -100,3 +100,16 @@ has given numerous keynotes in Spanish on computer science education
 throughout Spain and Latin America. He is a classically-trained
 musician and musical theater performer, and bilingual/bicultural
 (Cuban-American) New Yorker living in San Francisco. 
+
+Short bio for education-related activities
+------------------------------------------
+
+Armando Fox is Professor of Computer Science, Faculty Advisor for
+Digital Learning Strategy, and Equity and Diversity Advisor UC
+Berkeley.  He and colleague David Patterson co-created Berkeley's
+first Massive Open Online Course, "Engineering Software as a Service",
+offered through edX, and the award-winning accompanying textbook of
+the same name, for which he received the ACM Karl V. Karlstrom
+Outstanding Educator Award in 2015.  His CS education research focuses
+on creating novel technologies to help students learn advanced
+programming concepts at scale.
