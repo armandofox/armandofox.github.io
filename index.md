@@ -18,6 +18,17 @@ The menu above leads to more detail about my various activities, but in a nutshe
 
 # News
 
+* April 1, 2023: Victor Huang and I presented a [paper](https://dl.acm.org/doi/10.1145/3545945.3569826) at SIGCSE
+2023 on our changes to [CS 375](cs375.org), the CS pedagogy course required of all
+first-time EECS GSIs.  From the abstract: "Our view is that there is no
+meaningful separation between pedagogical and climate skills: rather
+than `compartmentalizing' climate into specific workshops or modules
+of a course, our semester-long required TA preparation course treats
+classroom climate as a lens through which traditional pedagogical
+skills are viewed, such as giving presentations that encourage
+participation, creating equitable assessments, and creating successful
+student groups by fostering belonging."
+
 * January 23, 2023: It's great to be back at in-person 
 events again, having great discussions about software engineering education at [FISEE
 2023](https://www.laser-foundation.org/fisee/2023/), where I gave an
