@@ -34,10 +34,11 @@ In no particular order, and inspired by the book *[Going, Going, Gone: Vanishin
 
 **Things that are on the way out but haven't made the list yet **(younger readers might at least recognize these as "things their parents are familiar with"):
 
-1.  Navigation using maps 
+1.  Navigation using hardcopy maps
 2.  TV Guide
 3.  Passing (paper) notes in class
 4.  Fast-food restaurant birthday parties
 5.  Clocks you have to set periodically
+6.  The [Boeing 747](https://youtu.be/pu55yLeo02E)
 
 Send me a note if you have other suggestions...
