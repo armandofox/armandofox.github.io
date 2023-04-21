@@ -27,6 +27,8 @@ students:
     children:
     - title: "Making Good Slides"
       url: /students/slides
+    - title: "Making Good Posters"
+      url: /students/posters
     - title: "Giving Good Talks"
       url: /students/talks
     - title: "Writing Good Papers"
