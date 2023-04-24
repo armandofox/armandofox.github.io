@@ -10,12 +10,6 @@ toc_sticky: true
 toc_label: "Quote categories"
 ---
 
-
-***Disclaimer: In some cases I found the quote not in the book in
-which it originally appears, but in another book that quotes the
-original source. I've noted where that occurs, so you don't think I
-claim to read more than I do.***
-
 # History & Governance
 
 <dl class="quote">
@@ -114,8 +108,12 @@ claim to read more than I do.***
   <dd><em>James Baldwin</em>
   </dd>
 
-  
-
+  <dt>
+    You can always count on Americans to do the right thing, after
+    they've tried everything else.
+ </dt>
+ <dd><em>apocryphally attributed to Winston Churchill</em></dd>
+ 
 </dl>
 
 # Character, Education, & Self-formation
@@ -169,7 +167,7 @@ claim to read more than I do.***
   <dd>[UC Berkeley CS
     prof Manuel Blum, to Dick
     Karp](http://www.eecs.berkeley.edu/BEARS/CS_Anniversary/karp-talk.html) (both
-    winners of the Turing Award)
+    are winners of the Turing Award)
   </dd>
 
   <dt>Always remember, others may hate you, but those who hate you don't win
@@ -207,7 +205,7 @@ claim to read more than I do.***
 
   <dt>When it feels like life is fucking you, keep changing positions until
     it feels good. </dt>
-  <dd>John Leguizamo, <em>Latin History for Morons</em>
+  <dd>John Leguizamo, from <em>Latin History for Morons</em>
   </dd>
 
   <dt>Success is not final, failure is not fatal. It is the courage to
@@ -221,9 +219,7 @@ claim to read more than I do.***
   </dd>
 
   <dt>Everybody has a plan until they get punched in the mouth. </dt>
-  <dd>Mike
-    Tyson
-  </dd>
+  <dd>Mike Tyson</dd>
 
   <dt>
     I have problems today that I did not have yesterday. I had problems
@@ -242,8 +238,8 @@ constructed television set dispersed intellectual garbage;
 sophisticated transportation technologies made it possible for a
 degenerate, instead of getting soused in his own backyard, to dress up
 a tourist and do the same in the vicinity of Saint Peter's
-basicila. If this tendency were to lead to the invasion of the human
-body by technological contrivances, undoubtedly the idea woudl eb to
+basilica. If this tendency were to lead to the invasion of the human
+body by technological contrivances, undoubtedly the idea would be to
 expand the gamut of pleasurable sensations to the maximum, and perhaps
 even to bring into being&emdash;besides sex, narcotics, culinary
 happiness&emdash;other, as yet unknown, kinds of sensual stimulation
@@ -296,10 +292,11 @@ Michael Kandel
   </dd>
 
   <dt>Only a Christian would think of our Buddha as 'just a man'. Our Buddha
-    is a being which all men can become</dt>
-  <dd>something greater than
+    is a being which all men can become---something greater than
     himself---if he can overcome all his illusions. You cling to your
-    illusions---and call them faith. ---from Martin Scorsese's <em>Silence</em>,
+    illusions---and call them faith. 
+    </dt>
+    <dd>from Martin Scorsese's film <em>Silence</em>,
     based on the novel of the same name by Shūsaku Endō
   </dd>
 
@@ -309,7 +306,7 @@ Michael Kandel
   </dd>
 
   <dt>Le soleil ni la mort ne se peuvent regarder fixement.</dt>
-  <dd>Francois de la Rochefoucauld</dd>
+  <dd>François de la Rochefoucauld</dd>
         
 
 </dl>
@@ -334,7 +331,7 @@ Michael Kandel
 
   <dt>They talk very loud, very fast, and altogether [sic]. If they ask you
     a question, before you can utter three words of your answer, they will
-    break out upon you again, and talk away.   </dt>
+    break out upon you again, and talk away.</dt>
   <dd>John Adams, on his
     dislike for New Yorkers, quoted in <em>The Address Book: What Street
     Addresses Reveal About Identity, Race, Wealth, and Power, </em>by Deirdre
@@ -347,7 +344,7 @@ Michael Kandel
     absolutely no respect for the property of the rich and at another time
     for the rights of the poor, can the beauties of Paris be realized. 
   </dt>
-  <dd>Niels Gron, quoted in <em>ibid.</em>
+  <dd>Niels Gron, <em>ibid.</em>
   </dd>
 
 </dl>

@@ -42,7 +42,19 @@ I play piano and keyboards very well, drums reasonably well, single
 reeds (clarinet and tenor/alto sax) not very well at all, and I'm
 slowly getting better on accordion, harmonica, and tin whistle.
 
-I started **classical piano** training at age 5 with private instructors, and later completed the Mannes College of Music (now part of the [New School](http://newschool.edu/)) Certificate Program including piano performance with concert pianist and educator [Michael Boriskin](http://www.dworkincompany.com/html/boriskin/boriskin_artist.html) and others, ensemble, theory, ear training, orchestration, choir, chamber performance, ...the whole enchilada.
+As a really young kid, I tried to self-teach playing by ear on those cheap
+air-powered 70s home organs; we started with one of 
+[these Magnus
+mini-organs](https://reverb.com/item/67949163-magnus-model-7000-chord-organ)
+(2 octaves, 6 major chords),
+then upgraded to a
+[GTR organ](https://youtube.com/watch?v=LlApSIJ8dQ8) (3 octaves, 7
+sets of major/minor/dominant-7th chords), and finally
+a [Baldwin 2-manual FunMachine](https://www.youtube.com/watch?v=MeTcMAyOjTY).
+
+I started **classical piano** training at age 5 with private
+instructors 
+and later completed the Mannes College of Music (now part of the [New School](http://newschool.edu/)) Certificate Program including piano performance with concert pianist and educator [Michael Boriskin](http://www.dworkincompany.com/html/boriskin/boriskin_artist.html) and others, ensemble, theory, ear training, orchestration, choir, chamber performance, ...the whole enchilada.
 
 My [**graduation recital
 tracks**](https://soundcloud.com/armando-fox/sets/westrax) are
