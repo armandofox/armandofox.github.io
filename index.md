@@ -16,7 +16,25 @@ The menu above leads to more detail about my various activities, but in a nutshe
 
 * I regularly teach [CS169A Intro to Software Engineering](cs169a.cs169.org) (and the accompanying [CS169L project course](cs169l.cs169.org)), CS375 [Teaching Techniques for CS](cs375.org), and sometimes the freshman seminar [Our Digital Quandary](digitalquandary.org), exploring issues at the intersection of computer science and society.
 
-# Relevant media appearances, podcasts, etc.
+# Media appearances, podcasts, etc.
+
+* [Mediums, Media, and more: How storage plays a role in defining the
+tech that made
+us](https://www.techcentral.ie/mediums-media-and-more-with-prof-armando-fox/).
+Podcast hosted by Niall Kitson on TechCentral.ie, 2023.
+
+* [Reinventing education for the
+masses](https://www.techcentral.ie/prof-armando-fox-reinventing-education-masses/) [sic]:
+Podcast hosted by Niall Kitson on TechCentral.ie.
+
+* [MOOCs: their history, uses, and long-term
+legacy](https://csedpodcast.org/blog/season1_episode5/).  CS Education
+Podcast hosted by Prof. Kristin Stephens-Martinez at Duke University.
+
+* [Healthcare.gov's rocky
+rollout](https://training.npr.org/sources/armando-fox/). NPR _On
+Point_ radio talk show, 2014.
+
 
 # News
 
