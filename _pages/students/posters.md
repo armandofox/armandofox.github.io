@@ -84,6 +84,28 @@ consistent version of it.  Don't read off a script; have a small
 number of talking points and get good at "telling a story" by fleshing
 out each of the points.
 
+## Practicing the "spiel"
+
+Target a particular talk length--say, 5 minutes--and break down a
+blueprint of how long you want to spend on each topic, with most of
+the time spent on your new approach/idea and the results.  Example:
+
+1. Motivation and problem statement, status quo: 1 minute
+2. Our new idea/approach and examples: 2 minutes
+3. Key results and findings: 2 minutes
+4. Limitations, caveats, future work: 1 minute
+
+Actually time yourself/yourselves on each part of the spiel; you'd be
+amazed how easy it is to run on longer than you planned, and how easy
+it is to stumble and get off track if you haven't rehearsed.
+Rehearsing will also force you to make choices about keeping the spiel
+length down.  Remember that most people visiting your poster will also
+be visiting many other posters, so in practice, getting even 5 minutes
+of their attention would be great.  (Of course, a few people will be
+specifically interested in talking to you  more, which you can do once
+you finish the spiel.)  Indeed, a prepared presenter will also have a
+3 minute version of the spiel ready!
+
 
 # Examples and Templates
 
