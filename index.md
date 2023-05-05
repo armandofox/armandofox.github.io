@@ -16,27 +16,16 @@ The menu above leads to more detail about my various activities, but in a nutshe
 
 * I regularly teach [CS169A Intro to Software Engineering](cs169a.cs169.org) (and the accompanying [CS169L project course](cs169l.cs169.org)), CS375 [Teaching Techniques for CS](cs375.org), and sometimes the freshman seminar [Our Digital Quandary](digitalquandary.org), exploring issues at the intersection of computer science and society.
 
-# Media appearances, podcasts, etc.
-
-* [Mediums, Media, and more: How storage plays a role in defining the
-tech that made
-us](https://www.techcentral.ie/mediums-media-and-more-with-prof-armando-fox/).
-Podcast hosted by Niall Kitson on TechCentral.ie, 2023.
-
-* [Reinventing education for the
-masses](https://www.techcentral.ie/prof-armando-fox-reinventing-education-masses/) [sic]:
-Podcast hosted by Niall Kitson on TechCentral.ie.
-
-* [MOOCs: their history, uses, and long-term
-legacy](https://csedpodcast.org/blog/season1_episode5/).  CS Education
-Podcast hosted by Prof. Kristin Stephens-Martinez at Duke University.
-
-* [Healthcare.gov's rocky
-rollout](https://training.npr.org/sources/armando-fox/). NPR _On
-Point_ radio talk show, 2014.
 
 
 # News
+
+* May 5, 2023: I was a panelist on the topic of "networked learning" (basically,
+[SPOCs](https://slate.com/technology/2013/09/spocs-small-private-online-classes-may-be-better-than-moocs.html))
+at the [Leveling the Learning Curve](https://leveling.college) event
+at Columbia University.  Lots of great conversations with academic and
+industry leaders about higher ed, and a chance to articulate our
+vision of how digital learning technology can [foster mastery learning](https://ace-lab.berkeley.edu/projects/cbt).
 
 * April 1, 2023: Victor Huang and I presented a [paper](https://dl.acm.org/doi/10.1145/3545945.3569826) at SIGCSE
 2023 on our changes to [CS 375](cs375.org), the CS pedagogy course required of all
@@ -71,3 +60,22 @@ Lab](calearninglab.org) for our project **A's for All**, promoting
 proficiency-based/mastery-based learning.  It's a collaboration with
 Cal State Long Beach and El Camino College.  Read more about it on the [LEARNER
 Center](learner.berkeley.edu) website.
+
+# Media appearances, podcasts, etc.
+
+* [Mediums, Media, and more: How storage plays a role in defining the
+tech that made
+us](https://www.techcentral.ie/mediums-media-and-more-with-prof-armando-fox/).
+Podcast hosted by Niall Kitson on TechCentral.ie, 2023.
+
+* [Reinventing education for the
+masses](https://www.techcentral.ie/prof-armando-fox-reinventing-education-masses/) [sic]:
+Podcast hosted by Niall Kitson on TechCentral.ie.
+
+* [MOOCs: their history, uses, and long-term
+legacy](https://csedpodcast.org/blog/season1_episode5/).  CS Education
+Podcast hosted by Prof. Kristin Stephens-Martinez at Duke University.
+
+* [Healthcare.gov's rocky
+rollout](https://training.npr.org/sources/armando-fox/). NPR _On
+Point_ radio talk show, 2014.
