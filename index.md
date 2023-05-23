@@ -20,12 +20,22 @@ The menu above leads to more detail about my various activities, but in a nutshe
 
 # News
 
-* May 5, 2023: I was a panelist on the topic of "networked learning" (basically,
+* May 5, 2023: I was a [panelist]() on the topic of "networked learning" (basically,
 [SPOCs](https://slate.com/technology/2013/09/spocs-small-private-online-classes-may-be-better-than-moocs.html))
 at the [Leveling the Learning Curve](https://leveling.college) event
 at Columbia University.  Lots of great conversations with academic and
 industry leaders about higher ed, and a chance to articulate our
 vision of how digital learning technology can [foster mastery learning](https://ace-lab.berkeley.edu/projects/cbt).
+
+* May 1, 2023: The [final report](https://drive.google.com/file/d/1Z3Whcf5-JgF9wcmuj9jVWVLcZjR5zuOq/view?usp=sharing) from our pilot project on mastery
+learning is available.  Our approach combines parameterized randomized
+question generators (using UIUC's excellent
+[PrairieLearn](prairielearn.org) authoring system) and a radical
+approach to flexible deadlines (which we're developing further in our
+[Flextensions](https://acelab.berkeley.edu/projects/flextensions/) project).  A key finding is that **while mastery
+learning benefited all students in CS10, women and minoritized
+students benefited relatively  more**, with the performance gap for
+those students shrinking significantly since adopting our approach.
 
 * April 1, 2023: Victor Huang and I presented a [paper](https://dl.acm.org/doi/10.1145/3545945.3569826) at SIGCSE
 2023 on our changes to [CS 375](cs375.org), the CS pedagogy course required of all
@@ -53,13 +63,6 @@ project-based software engineering.
 for its efforts to improve diversity & equity in the computing
 professoriate!  Audrey Sillers and I represent Berkeley in this
 important effort.
-
-* May 13, 2022: [Prof. Dan Garcia](https://www.cs.berkeley.edu/~ddgarcia) and I were
-awarded a grant from the [California Education Learning
-Lab](calearninglab.org) for our project **A's for All**, promoting
-proficiency-based/mastery-based learning.  It's a collaboration with
-Cal State Long Beach and El Camino College.  Read more about it on the [LEARNER
-Center](learner.berkeley.edu) website.
 
 # Media appearances, podcasts, etc.
 
