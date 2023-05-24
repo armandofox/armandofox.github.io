@@ -10,7 +10,8 @@ sidebar:
 
 # Shows I'm Working On Now or Soon
 
-**Coming in March 2023:** _Ruthless! The Musical_ at [Altarena Playhouse](https://www.altarena.org/2023-season-announcement/ruthless)
+**Coming in August 2023:** _Sondheim On Sondheim_ at [Contra Costa
+Civic Theatre](https://ccct.org)
 
 See below for shows I've worked on recently.
 
@@ -69,6 +70,7 @@ My **vintage 80s synthesizers** (Juno-106, D50, DX7) used in those bands have 
 
 # Musical Direction Credits (* = original orchestration or reduction)
 
+1. Sondheim On Sondheim (Contra Costa Civic Theatre, dir. Marilyn Langbehn), Aug/Sep 2023
 1. Ruthless! The Musical (Altarena Playhouse, dir. Dana Anderson), Mar/Apr 2023
 1. Camelot (Contra Costa Civic Theatre, dir. Diana Trotter), Sep/Oct 2022
 1. The Pajama Game (42nd Street Moon, dir. Becky Potter), **BATCC Finalist**{: .emph} Music Direction, May/June 2022
