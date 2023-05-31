@@ -20,19 +20,18 @@ based on roughly when I read it.
 # Fiction and science fiction
 
 
-| Title                        | Author            |    ISBN-10 | finished | rating | links                                                                                   |
-|------------------------------+-------------------+------------+----------+--------+-----------------------------------------------------------------------------------------|
-| Project Hail Mary            | Andy Weir         | 0593135229 | 05/2023  |      8 |                                                                                         |
-| Supernova Era                | Cixin Liu         | 1250306051 |          |        |                                                                                         |
+| Title                        | Author            |    ISBN-10 | finished | links                                                                                   |
+|------------------------------+-------------------+------------+----------+-----------------------------------------------------------------------------------------|
+| Project Hail Mary            | Andy Weir         | 0593135229 | 05/2023  |                                                                                         |
+| Supernova Era                | Cixin Liu         | 1250306051 |          |                                                                                         |
 
 # Music, theater, performing arts, fine arts
 
 
-| Title                        | Author            |    ISBN-10 | finished | rating | links                                                                                   |
-|------------------------------+-------------------+------------+----------+--------+-----------------------------------------------------------------------------------------|
-| Cinema Speculation           | Quentin Tarantino | 0063112582 |          |        |                                                                                         |
-| A Swim In a Pond In the Rain | George Saunders   | 1984856022 | 02/2021  |      8 | [r](https://www.amazon.com/gp/customer-reviews/R2AQHCKLNEXB0I?ref=pf_vv_at_pdctrvw_srp) |
-|                                                 |            |          |        |                                                                                         |
+| Title                        | Author            |    ISBN-10 | finished | links                                                                                   |
+|------------------------------+-------------------+------------+----------+----------------------------------------------------------------------------------------- |
+| Cinema Speculation           | Quentin Tarantino | 0063112582 |          |                                                                                         |
+| A Swim In a Pond In the Rain | George Saunders   | 1984856022 | 02/2021  | [r](https://www.amazon.com/gp/customer-reviews/R2AQHCKLNEXB0I?ref=pf_vv_at_pdctrvw_srp) |
 
 
 # Sciences, social sciences
@@ -40,7 +39,7 @@ based on roughly when I read it.
 | Title                                                                | Author         |    ISBN-10 | finished | links                                        |
 |----------------------------------------------------------------------+----------------+------------+----------+----------------------------------------------|
 | Radical Cities: Across Latin America In Search Of a New Architecture | Justin McGuirk | 1781688680 | 12/2018  | [s](/book-summary/2018-12-13-radical-cities) |
-|                                                                      |                |            |          |                                              |
+
 
 # Technology, engineering, history of science and technology
 
@@ -49,4 +48,4 @@ based on roughly when I read it.
 | Track Changes: A Literary History of Word Processing                           | Matthew Kirschenbaum |            | 08/2016  | [s](/book-summary/2016-08-13-track-changes)       |
 | From Betamax to Blockbuster: Video Stores and the Invention of Movies on Video | Joshua M. Greenberg  |            | 03/2017  | [s](/book-summary/2017-03-11-betamax-blockbuster) |
 | A Thread Across the Ocean: The Story of the First Transatlantic Cable          | John Steele Gordon   | 0060524464 | 05/2019  | [s](/book-summary/2019-10-05-thread-across-ocean) |
-|                                                                                |                      |            |          |                                                   |
+
