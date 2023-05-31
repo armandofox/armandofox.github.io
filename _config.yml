@@ -56,10 +56,7 @@ defaults:
         - title: "Travel"
           image: /assets/img/piano.jpg
           text: >
-            **Mar. 15-17, 2023:** <br> SIGCSE 2023, Toronto, Canada<br>
-            **May 4-5, 2023:** <br>_Leveling the Learning Curve_, Columbia University, New York<br>
-            **May 8-12, 2023:** <br>Academic visit to University of Almeria, Spain<br>
-            **May 15-19, 2023:** Vacation
-            **July 10-13, 2023:** <br>ITiCSE 2023, Turku, Finland<br>
+            **Oct. 2-3, 2023:** <br>edX Global Forum, Washington DC<br>
+            **Oct. 11-13, 2023:** <br>Learning With MOOCs, Cambridge, MA<br>
     values:
       layout: single

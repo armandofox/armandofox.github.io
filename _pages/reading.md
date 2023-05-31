@@ -20,11 +20,11 @@ based on roughly when I read it.
 # Fiction and science fiction
 
 
-| Title                        | Author            |    ISBN-10 | finished | links                                                                                   |
-|------------------------------+-------------------+------------+----------+-----------------------------------------------------------------------------------------|
-| Project Hail Mary            | Andy Weir         | 0593135229 | 05/2023  |                                                                                         |
-| Supernova Era                | Cixin Liu         | 1250306051 |          |                                                                                         |
-
+| Title                        | Author                     |    ISBN-10 | finished | links |
+|------------------------------+----------------------------+------------+----------+-------|
+| Project Hail Mary            | Andy Weir                  | 0593135229 | 05/2023  |       |
+| Supernova Era                | Cixin Liu                  | 1250306051 |          |       |
+| Worlds Long Lost (anthology) | Christopher Ruocchio (ed.) | 1982192305 |          |       |
 # Music, theater, performing arts, fine arts
 
 

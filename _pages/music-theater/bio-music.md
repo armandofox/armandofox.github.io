@@ -7,7 +7,7 @@ sidebar:
 
 ### Short Bio
 
-Armando Fox (Music Director) is excited to return to CCCT, where he
+Armando Fox (Music Director; armandofox.com) is excited to return to CCCT, where he
 had the joy of working on _In The Heights_ (TBA
 Finalist, Music Direction) in the recent Before Times.
 He's served as Music
