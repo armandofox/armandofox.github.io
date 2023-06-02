@@ -23,7 +23,7 @@ and/or subscribe to.
 
 <img class="embed-left" align="right" src="https://images-na.ssl-images-amazon.com/images/I/512Xr2Mb7dL._SX331_BO1,204,203,200_.jpg">
 
--   I hope the advice in my book [Piano/Conductor: So They Talked You Into Being Music Director](http://pianoconductor.com/)  will be useful to  both new and experienced Music Directors. The link is to purchase hardcopy on Amazon, but you can [download the PDF](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxhcm1hbmRvZm94fGd4OjIzNjRkNzI4MmJhYjY1YTQ) for free.
+-   I hope the advice in my book [Piano/Conductor: So They Talked You Into Being Music Director](http://pianoconductor.com/)  will be useful to  both new and experienced Music Directors. The link is to purchase hardcopy on Amazon, but you can [download the PDF](/assets/pdf/pianoconductor.pdf) for free.
 
 -   I maintain [Audience1st](https://www.audience1st.com/), the
 open-source ticketing/subscription/donation management/CRM for small
