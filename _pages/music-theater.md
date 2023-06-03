@@ -44,36 +44,46 @@ reeds (clarinet and tenor/alto sax) not very well at all, and I'm
 slowly getting better on accordion, harmonica, and tin whistle.
 
 As a really young kid, I tried to self-teach playing by ear on those cheap
-air-powered 70s home organs; we started with one of 
+air-powered 70s home organs.  We started with one of 
 [these Magnus
 mini-organs](https://reverb.com/item/67949163-magnus-model-7000-chord-organ)
 (2 octaves, 6 major chords),
 then upgraded to a
 [GTR organ](https://youtube.com/watch?v=LlApSIJ8dQ8) (3 octaves, 7
 sets of major/minor/dominant-7th chords), and finally
-a [Baldwin 2-manual FunMachine](https://www.youtube.com/watch?v=MeTcMAyOjTY).
+a [Baldwin 2-manual "Interlude with FunMachine"](https://www.youtube.com/watch?v=MeTcMAyOjTY).
 
-I started **classical piano** training at age 5 with private
-instructors 
-and later completed the Mannes College of Music (now part of the [New School](http://newschool.edu/)) Certificate Program including piano performance with concert pianist and educator [Michael Boriskin](http://www.dworkincompany.com/html/boriskin/boriskin_artist.html) and others, ensemble, theory, ear training, orchestration, choir, chamber performance, ...the whole enchilada.
+I started **classical piano** training at age 5 with private instructors 
+and later completed the Mannes College of Music (now part of the [New
+School](http://newschool.edu/)) Certificate Program including piano
+performance with concert pianist and educator [Michael
+Boriskin](http://www.dworkincompany.com/html/boriskin/boriskin_artist.html) and
+others, ensemble, theory, ear training, orchestration, choir, chamber
+performance, ...the whole enchilada. 
 
 My [**graduation recital
 tracks**](https://soundcloud.com/armando-fox/sets/westrax) are
 representative of that era, when my technical chops were slightly
-better than now but my musicality was less developed.  My jazz
-improvisation is decent; I aspire to do better soloing over the
+more in shape than now but my musicality was less developed.  My jazz
+improvisation is decent; I still aspire to solo effectively over the
 Coltrane changes. I am a strong sightreader and I love to accompany soloists and participate in chamber music parties for fun.
 
-I've been **keyboardist and drummer** (sometimes simultaneously) for original & cover bands Spoon (MIT Battle of the Bands finalist 1990), More At Eleven (MIT Battle of the Bands finalist 1987), and Reminiscent Jam (MIT Battle of the Bands Finalist 1988).
+I've been **keyboardist and drummer** (sometimes simultaneously) for
+original & cover bands Spoon, Reminiscent Jam, and More At Eleven, all MIT Battle of the Bands
+Finalists in 1990, 1987, and 1988 respectively.
 
-My **vintage 80s synthesizers** (Juno-106, D50, DX7) used in those bands have a new lease on life in my 80s cover band [Disposable Pop](http://disposablepop.com/) (currently on COVID hiatus).
+My **vintage 80s synthesizers** (Roland Juno-106, Roland D-50, Yamaha
+DX7) used in those bands have a new lease on life in my 80s cover
+band [Disposable Pop](http://disposablepop.com/) (currently on 
+hiatus).  Sure, I know those sounds are all available in software now,
+but where's the charm in that?
 
 # Musical Direction Credits (* = original orchestration or reduction)
 
 1. Sondheim On Sondheim (Contra Costa Civic Theatre, dir. Marilyn Langbehn), Aug/Sep 2023
 1. Ruthless! The Musical (Altarena Playhouse, dir. Dana Anderson), Mar/Apr 2023
 1. Camelot (Contra Costa Civic Theatre, dir. Diana Trotter), Sep/Oct 2022
-1. The Pajama Game (42nd Street Moon, dir. Becky Potter), **BATCC Finalist**{: .emph} Music Direction, May/June 2022
+1. \* The Pajama Game (42nd Street Moon, dir. Becky Potter), **BATCC Finalist**{: .emph} Music Direction, May/June 2022
 1. La Cage Aux Folles (Altarena Playhouse, dir. Noah Haydon), Mar/Apr 2022
 1.  ~~Sunday In the Park With George (Gatehouse Theatre,
 dir. Rachel Pospíšil), ~~June/July 2020~~ _Cancelled due to COVID-19_
