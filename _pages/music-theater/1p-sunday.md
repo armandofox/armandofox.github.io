@@ -43,7 +43,28 @@ In the rest of this discussion, words "in quotes" are lines of dialogue, and wor
 *Sunday *is best thought of as a pair of related one-act musicals. The
 main characters in **Act I**  are Georges Seurat, the impressionist painter best known for his invention of *pointillism;* his fictional lover Dot (I'm sure Lapine couldn't resist the name); and various characters who spend time in the park on Sundays, including Seurat's mother. (In pointillist painting, specks of solid primary colors are placed next to each other on the canvas. Up close, any part of the painting looks like a random mess of different colored dots; the truecolors and shapes only become apparent when you step back and let your eye do the color mixing.) The main characters in **Act II** are a young-to-middle-aged modern conceptual artist, George; his elderly grandmother Marie, who is the daughter of Dot; and George's coterie of collaborators, colleagues, and promoters. Marie claims that Dot was once Seurat's lover (and therefore George is Seurat's biological great-grandson) and that Dot was one of the models in the famous painting, a story young George has always been skeptical of. *In the rest of this discussion, I will use "Seurat" to refer to Georges Seurat in Act I and "George" to refer to the younger contemporary artist of Act II.*
 
-**Act I **takes place in 1884, with Seurat spending a series of Sunday afternoons sketching people in a small park on the Parisian island of La Grande Jatte, where the lower classes often came to relax and the upper classes sometimes came to slum with them. The play opens with George sketching Dot in the park, early in the morning to get just the right light. Dot, though highly attracted to Seurat's creativity and intensity, also wonders why he can't be more "normal" like the other men she's dated (*Sunday In the Park With George*). We learn that Seurat has been struggling to get his painter colleagues to appreciate his work, but whether they are envious of his talent or truly unable to see what Seurat sees, they are dismissive of his new method of painting (*No Life*). Back in the studio, obsessed with re-creating the park's color and light on his canvas (*Color and Light)*, he is so immersed in his work that he forgets he had promised to take Dot on a date that night: "I have to finish the hat." She storms out in anger. Seurat loathes himself for letting this happen, but can't tear himself away from his work. Dot, even in her anger, realizes that there has always been a part of him that she can't reach: "George is very special. Maybe I am just not special enough for him." *[Theater aficionados: I've always thought that the song *"I'm a Part of That" *from *The Last Five Years* is the emotional direct descendant of this song.]
+**Act I **takes place in 1884, with Seurat spending a series of Sunday
+afternoons sketching people in a small park on the Parisian island of
+La Grande Jatte, where the lower classes often came to relax and the
+upper classes sometimes came to slum with them. The play opens with
+George sketching Dot in the park, early in the morning to get just the
+right light. Dot, though highly attracted to Seurat's creativity and
+intensity, also wonders why he can't be more "normal" like the other
+men she's dated (*Sunday In the Park With George*). We learn that
+Seurat has been struggling to get his painter colleagues to appreciate
+his work, but whether they are envious of his talent or truly unable
+to see what Seurat sees, they are dismissive of his new method of
+painting (*No Life*). Back in the studio, obsessed with re-creating
+the park's color and light on his canvas (*Color and Light)*, he is so
+immersed in his work that he forgets he had promised to take Dot on a
+date that night: "I have to finish the hat." She storms out in
+anger. Seurat loathes himself for letting this happen, but can't tear
+himself away from his work. Dot, even in her anger, realizes that
+there has always been a part of him that she can't reach: "George is
+very special. Maybe I am just not special enough for him." [Theater
+aficionados: I've always thought that the song "I'm a Part of
+That" from *The Last Five Years* is the emotional direct descendant
+of this song.] 
 
 
 

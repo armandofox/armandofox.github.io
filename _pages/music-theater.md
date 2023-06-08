@@ -23,7 +23,17 @@ and/or subscribe to.
 
 <img class="embed-left" align="right" src="https://images-na.ssl-images-amazon.com/images/I/512Xr2Mb7dL._SX331_BO1,204,203,200_.jpg">
 
--   I hope the advice in my book [Piano/Conductor: So They Talked You Into Being Music Director](http://pianoconductor.com/)  will be useful to  both new and experienced Music Directors. The link is to purchase hardcopy on Amazon, but you can [download the PDF](/assets/pdf/pianoconductor.pdf) for free.
+-   I hope the advice in my book [Piano/Conductor: So They Talked You
+Into Being Music Director](http://pianoconductor.com/)  will be useful
+to  both new and experienced Music Directors. The link is to purchase
+hardcopy on Amazon, but you can [download the
+PDF](/assets/pdf/pianoconductor.pdf) for free.
+
+-   If you're a musical theater actor but not a pianist/MD, you may
+find helpful this
+[subset of chapters](/assets/pdf/pianoconductor-actor-chapters.pdf)
+focusing on how the MD works with performers on both the technical and
+dramatic aspects of performing theater music.
 
 -   I maintain [Audience1st](https://www.audience1st.com/), the
 open-source ticketing/subscription/donation management/CRM for small
