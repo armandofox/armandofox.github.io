@@ -13,6 +13,9 @@ frequent, with a few words about what they produce.
 
 This list is incomplete and haphazard but will get better over time.
 
+For the non-SF theaters, I include a bit of info about how to get
+there without a car, since I don't have a car...
+
 **Aside: Why should you subscribe?**  Most theaters offer a season
 subscription that represents a modest discount over buying every show
 separately, and often comes with other perks like no-fee
@@ -99,7 +102,8 @@ in thrust or in the round--one of the few remaining stages in the Bay
 Area that cna do so) means every seat is a good seat.  Each season is
 a mix of classic and modern plays, and smaller/boutique plus
 larger/marquee musicals.  Disclaimer: I've done a bunch of shows there
-and love working in that space.
+and love working in that space.  10 minute bus ride (line O, but
+warning, runs infrequently) or cab ride from Fruitvale BART.
 
 **[Berkeley Rep](berkeleyrep.org)** -- you should just subscribe,
 otherwise you'll end up flying to New York and paying double to see a
@@ -110,7 +114,17 @@ here.  It'll be good, just go.  Half a block from the Berkeley BART station.
 **[Contra Costa Civic Theatre](ccct.org)**, El Cerrito.  A ~200 seat
 house doing a mix of plays and musicals; the same "come see a show
 with your friends and neighbors" ambience as Altarena Playhouse.
-Disclaimer: I've worked there on a couple of shows.  And I will again.
+Disclaimer: I've worked there on a couple of shows.  And I will
+again.  20-25 minute walk or 5 minute cab ride from El Cerrito BART, but
+no bus connection.
+
+**[Masquers Playhouse](masquers.org)**, performing in their
+newly-renovated space in Point Richmond, a super cute and intimate
+venue (proscenium style, <100 seats) in a super cute neighborhood that
+you can sort-of get to by AC Transit bus 72M from the Richmond BART.
+They do a mix of plays and musicals, but the way they choose their
+productions is weird, so they don't tend to have "themed" seasons and
+the quality is sometimes inconsistent.  The best productions are really good though.
 
 **[Shotgun Players](shotgunplayers.org)**, performing at the Ashby
 Stage, right next to Ashby BART.  Reliably good plays and musicals;
@@ -121,7 +135,8 @@ their production was top notch).
 **[Stage 1 Theater](stage1theatre.org)**, Newark.  They don't have a
 fixed venue, and their programming and production values have been hit
 or miss, but their recent (2022) production of _Joseph_ ("a bilingual
-production in English and ASL", featuring a Deaf lead actor) was excellent.
+production in English and ASL", featuring a Deaf lead actor) was
+excellent.
 
 # On the Peninsula
 

@@ -7,6 +7,10 @@ sidebar:
   nav: "music-theater"
 ---
 
+I'm a pianist/conductor, music director, accompanist, and generally
+can do whatever is needed musically.  My main instrument is
+piano/keyboards (40+ years of mileage, including classical training,
+jazz improv, etc.) but I play others too.
 
 # Shows I'm Working On Now or Soon
 
