@@ -5,8 +5,6 @@
 layout: home
 ---
 
-# Home
-
 ![Armando at Machu Picchu, 2014](/assets/img/machupicchu.jpg){:align="right"}
 Greetings!  I'm a Professor of Computer Science, Diversity & Equity Officer/Adviser at multiple levels (EECS Department, College of Engineering, University), and Faculty Adviser for Digital Learning Strategy.  I'm also a musical theater fanatic and performer, and an aficionado of computing history and retro technology.
 
@@ -16,7 +14,7 @@ The menu above leads to more detail about my various activities, but in a nutshe
 
 * I regularly teach [CS169A Intro to Software Engineering](cs169a.cs169.org) (and the accompanying [CS169L project course](cs169l.cs169.org)), CS375 [Teaching Techniques for CS](cs375.org), and sometimes the freshman seminar [Our Digital Quandary](digitalquandary.org), exploring issues at the intersection of computer science and society.
 
-
+### Note: I will be out of town Sep 25-Oct 3 at Northwestern, UIUC, and the edX Global Forum.
 
 # News
 

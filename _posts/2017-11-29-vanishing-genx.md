@@ -26,17 +26,18 @@ In no particular order, and inspired by the book *[Going, Going, Gone: Vanishin
 3.  Wall telephones...with a real bell...and a long cord that had to be untangled regularly...and a rotary dialer
 4.  Dial-up modems. The only place you hear the sound now (well, it's close) is a fax machine
 5.  Fax spam.
-6.  Mix tapes. Besides cassettes heading for obsolescence, it took just as long to make a mix tape as to listen to it, so when you received one, you knew the other person had invested a lot of time in making it for you.
+6.  Mix tapes. Since it took just as long to make a mix tape as to listen to it,  when you received one, you knew the other person had invested a lot of time in making it for you.
 7.  Film. My 15-year-old twins stared blankly at me recently when I described it.
 8.  VCR programming.
 9.  Dot matrix printers and the sound they make.
 10. 8-track tapes. They were already on the way out when we were kids.
+11. Printed airline tickets with that weird red carbon paper.
 
 **Things that are on the way out but haven't made the list yet **(younger readers might at least recognize these as "things their parents are familiar with"):
 
-1.  Navigation using hardcopy maps
+1.  Printed maps
 2.  TV Guide
-3.  Passing (paper) notes in class
+3.  Passing notes in class
 4.  Fast-food restaurant birthday parties
 5.  Clocks you have to set periodically
 6.  The [Boeing 747](https://youtu.be/pu55yLeo02E)

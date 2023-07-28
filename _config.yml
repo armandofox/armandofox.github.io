@@ -56,7 +56,10 @@ defaults:
         - title: "Travel"
           image: /assets/img/piano.jpg
           text: >
-            **Oct. 2-3, 2023:** <br>edX Global Forum, Washington DC<br>
-            **Oct. 11-13, 2023:** <br>Learning With MOOCs, Cambridge, MA<br>
+            **Sep. 25-27:** <br>visiting Northwestern & UIUC<br>
+            **Sep. 28-29:** Out of town (personal)
+            **Oct. 2-3:** <br>edX Global Forum, Washington DC<br>
+            **Oct. 11-13:** <br>Learning With MOOCs, Cambridge, MA<br>
+            **Oct. 26-27:** Out of town (personal)
     values:
       layout: single
