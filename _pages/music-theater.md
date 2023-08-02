@@ -17,12 +17,15 @@ jazz improv, etc.) but I play others too.
 **Coming in August 2023:** _Sondheim On Sondheim_ at [Contra Costa
 Civic Theatre](https://ccct.org)
 
+**Coming in October 2023:** _Cantos de Mi Tierra: Cabaret Latino_ at
+Martuni's
+
 See below for shows I've worked on recently.
 
 # Ways I support local theater
 
 I go to the theater a lot.  [Here's a list]({% link
-_pages/music-theater/theaters.md %}) of theaters I frequent
+_pages/music-theater/theaters.md %}) of theaters in the Bay Area I frequent
 and/or subscribe to.
 
 <img class="embed-left" align="right" src="https://images-na.ssl-images-amazon.com/images/I/512Xr2Mb7dL._SX331_BO1,204,203,200_.jpg">

@@ -13,7 +13,7 @@ In no particular order, and inspired by the book *[Going, Going, Gone: Vanishin
 5.  Going to the video store. Video rental stores weren't just about renting the video---the act of going to the store became a cultural fixture itself. (The intriguing book *[From Betamax to Blockbuster](http://amzn.to/2jwqDMW) *chronicles this social history and its effect on the moviegoing consumer, and the documentary *[Rewind This!](http://buy.rewindthismovie.com/) *chronicles its effects on the entertainment industry, both of which are more profound than most of us realize.)
 6.  Phone books. It's hard to explain this concept given that voice calls are barely a thing anymore and that phone numbers are exchanged via SMS. It's particularly hard to explain the Yellow Pages.
 7.  Dialing 411. Ditto. (I wonder how many of my students have heard but not understood the expression "Here's the 4-1-1...")
-8.  Physical special effects and "trick photography". Movies like *2001: A Space Odyssey *and *Star Wars *featured groundbreaking special effects long before digital video was possible; they had to do it the hard way. 
+8.  Physical special effects. Movies like *2001: A Space Odyssey *and *Star Wars *featured groundbreaking special effects long before digital video was possible; they had to do it the hard way. 
 9.  Fotomat and other 1-hour photo booths. Time was when a 1-hour turnaround before you could actually see a photo was considered miraculous. And *of course *you'd pay the incremental extra fee to get two copies of each photo---how else could you share them?
 10. Metered long distance and outside-exchange calls. Imagine always being in voice roaming mode. If you had an SO who lived outside your telephone exchange (itself a complicated concept to explain, in an age of mobile phones)---or if you were a geek like me who liked to spend time on [BBSs](http://www.bbsdocumentary.com/)---it mattered whether the phone number was inside or outside your exchange, otherwise the calls could be metered and quite expensive. Now that area codes are roughly irrelevant and unlimited long distance calls are features of most plans (assuming you still use the phone system and not Skype or WhatsApp for voice calls...), metering is basically a thing of the past---except when you're roaming.
 11. Typing your term papers, using carbon paper and Wite-Out. (Thanks to Steve Hand.) I was an early adopter of word processors, but up until 1981 I was still typing. In fact I wish I'd saved the typewriter, I have kind of a nostalgia for one now.
@@ -23,11 +23,10 @@ In no particular order, and inspired by the book *[Going, Going, Gone: Vanishin
 
 1.  Actual card catalogs at the library
 2.  Encyclopedias
-3.  Wall telephones...with a real bell...and a long cord that had to be untangled regularly...and a rotary dialer
+3.  Landline telephones [sic: retronym] with a real bell and a long cord that had to be untangled regularly, and a dial (whence "dialup")
 4.  Dial-up modems. The only place you hear the sound now (well, it's close) is a fax machine
-5.  Fax spam.
 6.  Mix tapes. Since it took just as long to make a mix tape as to listen to it,  when you received one, you knew the other person had invested a lot of time in making it for you.
-7.  Film. My 15-year-old twins stared blankly at me recently when I described it.
+7.  Film cameras. My 15-year-old twins stared blankly at me recently when I described it.
 8.  VCR programming.
 9.  Dot matrix printers and the sound they make.
 10. 8-track tapes. They were already on the way out when we were kids.
@@ -37,9 +36,9 @@ In no particular order, and inspired by the book *[Going, Going, Gone: Vanishin
 
 1.  Printed maps
 2.  TV Guide
-3.  Passing notes in class
-4.  Fast-food restaurant birthday parties
-5.  Clocks you have to set periodically
-6.  The [Boeing 747](https://youtu.be/pu55yLeo02E)
+4.  Passing notes in class
+5.  Fast-food restaurant birthday parties
+6.  Clocks you have to set manually
+7.  The [Boeing 747](https://youtu.be/pu55yLeo02E)
 
 Send me a note if you have other suggestions...
