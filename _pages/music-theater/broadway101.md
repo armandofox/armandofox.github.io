@@ -11,14 +11,17 @@ My one-hour presentation, featuring plenty of video and sound clips, gives a
 brief introduction to the "Broadway musical":  What makes it different
 from other art forms like a play or an opera?  Where, when, and how
 did it originate?  What makes it a uniquely American invention?  What
-were some of the milestones in its development?
+were some of the milestones in its development and who were the
+creative people responsible for them?
 
-(If you'd like me to give the talk at your organization, [contact
-me.](mailto:theater@armandofox.com))
+If you'd like me to give the talk at your organization, please [contact
+me,](mailto:theater@armandofox.com) I'm always happy to put this in
+front of interested audiences and I can provide references from prior
+presentations if needed!
 
-During the talk, I play excerpts from a number of musicals, and I've been asked
-to put together a list of filmed or recorded performances of those for
-which such recordings are available.
+During the talk, I play excerpts from a number of musicals, and I've 
+put together a list of filmed or recorded performances of those for
+which they are available.
 
 The links to movies are to IMDb, but I recommend using
 [JustWatch](https://justwatch.com) to check which streaming service(s)
@@ -50,18 +53,20 @@ overall very good, and is closest to the stage musical (though still
 with a few important differences).  (See my [1-page
 discussion](/1p-wss) of _West Side Story_.)
 
-The new [2021 Spielberg-direct remake](https://www.imdb.com/title/tt3581652) takes a few liberties with the story and
+The new [2021 Spielberg-directed remake](https://www.imdb.com/title/tt3581652) takes a few liberties with the story and
 casting, but in my view remains generally true to the material and is
 a great film to watch.
 
 **Audio Recordings:** There are many, but the 1957 original Broadway cast
-album is probably the one to get.
+album is probably the one to get.  Avoid the Kiri Te Kanawa operatic
+recording---it's not an authentic performance style for this material,
+with all due respect to Ms. Te Kanawa.
 
 ### Company (1970)
 
 _Music and lyrics by Stephen Sondheim, book by George Furth._
 
-In shortened versions of the presentation, I don't mention this
+In the shortened versions of the presentation, I don't mention this
 landmark musical, which experimented with nonlinear storytelling.
 There is a [filmed version of the 2001 Broadway production](https://www.imdb.com/title/tt1160997/) starring
 Raul Esparza (dir. John Doyle) that is pretty good, although in
