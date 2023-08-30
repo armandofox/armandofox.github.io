@@ -14,10 +14,12 @@ jazz improv, etc.) but I play others too.
 
 # Shows I'm Working On Now or Soon
 
-**Coming in August 2023:** _Sondheim On Sondheim_ at [Contra Costa
+**Now through September 17:** _Sondheim On Sondheim_ at [Contra Costa
 Civic Theatre](https://ccct.org)
 
-**Coming in October 2023:** _Cantos de Mi Tierra: Cabaret Latino_ at
+**Coming in October 2023:** [Cantos de Mi
+Tierra](https://www.tickettailor.com/events/livemusic/983823):
+Spanish-language cabaret at
 Martuni's
 
 See below for shows I've worked on recently.
