@@ -80,4 +80,4 @@ The Act I finale includes parts of Ever After _(Into the Woods_ Act I finale), A
 
 The Act II finale references **Company** (from _Company_), **Old Friends** (from _Merrily_), and **Anyone Can Whistle** (from _Anyone Can Whistle)._
 
-The curtain call music reprises _That Old Piano Roll, Opening Doors, Broadway Baby,_ the _Merrily_ overture, and _Take Me To the World._
+The curtain call music reprises **That Old Piano Roll, Opening Doors, Broadway Baby,** the _Merrily_ overture, and **Take Me To the World.**
