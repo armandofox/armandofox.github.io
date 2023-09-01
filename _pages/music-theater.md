@@ -15,7 +15,9 @@ jazz improv, etc.) but I play others too.
 # Shows I'm Working On Now or Soon
 
 **Now through September 17:** _Sondheim On Sondheim_ at [Contra Costa
-Civic Theatre](https://ccct.org).  Here's my [annotated list of all
+Civic Theatre](https://ccct.org).  (Here's a [teaser clip from one of our
+rehearsals](https://www.youtube.com/watch?v=LNE445nwAC8), and
+[another](https://www.youtube.com/watch?v=XpwXdbMNkSk).) And here's my [annotated list of all
 the songs]({% link _pages/music-theater/1p-sos.md %}).
 
 **Coming in October 2023:** [Cantos de Mi
