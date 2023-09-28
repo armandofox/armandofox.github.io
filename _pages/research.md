@@ -11,6 +11,15 @@ layout: single
 
 My research focuses on online and technology-enriched education, especially at large scale, and especially in computer science.
 
+Students: I'm happy to talk about getting you involved in our
+research, but in the thick of the semester I don't usually have cycles
+to onboard new folks.  I suggest coming to our open group meetings,
+Fridays 12-1pm in the BiD Lab (360 Hearst Mining), and seeing what
+opportunities arise.  Good times to talk about things like this are
+right after the ends of semesters, with a view to getting started
+before the subsequent semester or summer.
+
+
 [Prof. Marti Hearst](https://ischool.berkeley.edu/~hearst) and I co-founded the successful [ACM Learning@Scale conference](http://learningatscale.acm.org/) to attract interdisciplinary work in this area.)
 
 My background and previous projects (see left) are in Internet systems, programming systems, and applied machine learning; I bring these ideas to bear on CS education at scale.
@@ -28,8 +37,6 @@ Besides the fact that this area is a good fit for the current [exploding demand
 Current Graduate Students and Committees (see also [Alumni](http://www.armandofox.com/research/alumni))
 -------------------------------------------------------------------------------------------------------
 
--   [Aslı Akalin](https://github.com/asliakalin) (MS, CS)
 -   [Tim Aveni](https://timothyaveni.com) (PhD, CS)
 -   [Logan Caraco](http://people.eecs.berkeley.edu/~logan_caraco/) (PhD, CS)
--   [Fuzail
-Shakir](https://www.linkedin.com/in/fuzail-shakir-b050a416b/) (MS, CS)
+
