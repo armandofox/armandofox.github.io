@@ -7,7 +7,19 @@ sidebar:
 layout: single
 ---
 
-Poster sessions are great.  You can build your network, 
+Poster sessions are great.  You can build your network, get 
+feedback on early ideas about your work that will help you refine your
+research questions, and so on.
+
+An effective poster is not meant to be consumed standalone; it's meant
+to be a set of visual aids when you explain your project to someone.
+So it's good to have a ~3 minute "spiel" that gives an overview of
+your project, future plans, and (if applicable) any interesting early
+results.
+
+In other words, the poster itself is designed to accompany and complement
+your spiel, not replace it.  You want people talking to you, not
+reading a lot of text.  To that end, here are...
 
 # Dave Patterson's Seven Commandments for making a bad poster:
 
