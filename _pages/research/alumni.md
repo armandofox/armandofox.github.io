@@ -16,7 +16,7 @@ PhD and Postdoc Alumni (* = co-advisor but not primary)
 
 1.  Nate (Weinman) Gainsboro, PhD 2021, now at Figma.  *Improving Instruction of Programming Patterns with Faded Parsons Problems.*
 1.  Michael Driscoll, PhD 2018, now at Tesla, with Prof. Kathy Yelick. *[Domain-specific Optimization Techniques for Fast, Portable Image Reconstruction](https://docs.google.com/presentation/d/1arbQhfpIRjmv-B5Y6Fhom1pon9bY6FcemPz9xvkxcac/edit#slide=id.p).*
-2.  Kristin Stephens-Martinez, PhD 2017, now faculty at Duke University. *Serving CS Formative Feedback on Assessments Using Simple and Practical Teacher-Bootstrapped Error Models.*
+2.  Kristin Stephens-Martinez, PhD 2017, now Professor of the Practice at Duke University. *Serving CS Formative Feedback on Assessments Using Simple and Practical Teacher-Bootstrapped Error Models.*
 3.  Kristal Curtis, PhD 2015, with Prof. Dave Patterson. *Leveraging similar regions to improve genome data processing*
 4.  *[Erin Carson](https://math.nyu.edu/~erinc/), PhD 2015, now faculty at NYU/Courant Institute, with Prof. Jim Demmel. *Communication-avoiding Krylov subspace methods in theory and practice.*
 5.  [Beth Trushkowsky](http://www.cs.hmc.edu/~beth/), PhD 2013, with Prof. Mike Franklin, now faculty at Harvey Mudd College.  *Collecting data with the crowd.*
@@ -38,6 +38,9 @@ PhD and Postdoc Alumni (* = co-advisor but not primary)
 Masters' Alumni
 ---------------
 
+-  Aslı Akalin, MS 2022.  [An Investigation of Gender Bias in Pair Programming.](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2023/EECS-2023-155.html)
+-  Fuzail Shakir, MS 2022.  [Flextensions: Exploring the Impact of
+Flexible Extensions.](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2023/EECS-2023-117.html)
 -   Joshua Zeitsoff, MS 2020.  [How well do student software engineering teams practice Continuous Integration?](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2020/EECS-2020-183.html)
 -   Mihir Patil, MS 2017. Skye: Motion Detection and Tracking with SEJITS.
 -   Rohan Roy Choudhury, MS 2016. [AutoStyle: Scale-driven Hint Generation for Coding Style](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-40.html)
