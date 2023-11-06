@@ -111,7 +111,7 @@ I started **classical piano** training at age 5 with private instructors
 and later completed the Mannes College of Music (now part of the [New
 School](http://newschool.edu/)) Certificate Program including piano
 performance with concert pianist and educator [Michael
-Boriskin](http://www.dworkincompany.com/html/boriskin/boriskin_artist.html) and
+Boriskin](https://www.google.com/search?q=michael+boriskin) and
 others, ensemble, theory, ear training, orchestration, choir, chamber
 performance, ...the whole enchilada. 
 

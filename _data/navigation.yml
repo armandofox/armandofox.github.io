@@ -25,6 +25,8 @@ students:
     url: /students/research
   - title: "Advice on..."
     children:
+    - title: "Individual Projects"
+      url: /students/projects
     - title: "Making Good Slides"
       url: /students/slides
     - title: "Making Good Posters"
