@@ -7,6 +7,22 @@ sidebar:
 layout: single
 ---
 
+The common thread to all the advice below can be summarized as
+follows: 
+
+Many students think that having a letter with someone's name on it
+will help their application (or job reference, etc.)
+
+That is not true.
+
+What is helpful is a letter from someone who **knows your work well**
+and can speak to **specific details** about it.  If that person
+happens to be well known, even better.
+
+But a nonspecific letter from someone who doesn't know your work well
+will not strengthen your application, and may even make it weaker.
+("Couldn't this student find someone who knows their work better to
+write a letter?")
 
 # I took a course with you. Can you write me a recommendation letter?
 
@@ -17,6 +33,10 @@ Because effective letters make some attempt to **compare **the candidate to ot
 For industry letters, the above factors are **much less important.** A letter based on solid course work is much more likely to be effective as an industry reference than as a grad school letter.
 
 Finally, I always assume the candidate will **waive their right to read** the letter. I am not comfortable writing letters that aren't confidential. If I do not believe I can write you a positive letter, I will not agree to write one at all. Thank you for understanding that since we (faculty) are being called upon to write letters all the time, our own reputations as letter writers are very important, otherwise our letters become useless to everyone including the students who ask for them.
+
+# I'm in the process of taking a course with you right now.  Can you write a letter?
+
+See the advice above.  Even if you're doing fairly well in the course, it'll be hard to know how you really did until after the semester is over.  I would really, really, really prefer **not** to do this.  If you insist, I will do it, but I will **strongly advise** you that such a letter is nearly worthless as part of an application and may even weaken your application.  As flattering as it is that you think having my name in your application will help you, it is simply not true.
 
 # Can you write me a recommendation letter for the 5th year Masters in CS program?
 
