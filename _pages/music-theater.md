@@ -14,12 +14,17 @@ jazz improv, etc.) but I play others too.
 
 # Shows I'm Working On Now or Soon
 
-** Coming in March 2024: ** [Pal Joey](https://www.altarena.org/2024-season-announcement/)
+**Returning in January 24:** Cantos de Mi
+Tierra, a Spanish-language cabaret at
+Martuni's in San Francisco!
 
-** October 2023:** [Cantos de Mi
-Tierra](https://www.tickettailor.com/events/livemusic/983823):
-Spanish-language cabaret at
-Martuni's
+Tickets available for 
+[Saturday 1/20 at 7pm](https://www.tickettailor.com/events/livemusic/1057788) and 
+[Sunday 1/21 at 4pm](https://www.tickettailor.com/events/livemusic/1057789).
+
+Here's a [short clip](https://www.youtube.com/watch?v=N2782zx_LKw) from our October show...
+
+**Coming in March 2024:** [Pal Joey](https://www.altarena.org/2024-season-announcement/) at Altarena Playhouse, Alameda, CA
 
 See below for shows I've worked on recently.
 
