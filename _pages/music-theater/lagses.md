@@ -10,8 +10,8 @@ Hi friends,
 In October I had the great pleasure of performing [**Cantos De Mi
 Tierra**](http://cantosdemitierra.com/), an
 all-Spanish-language program of songs with four amazing Latinx singers
-from mexico, puerto rico, and cuba.  The 1-hour show included
-everything from traditional and folk music of those homelands
+from Mexico, Puerto Rico, and Cuba.  The 1-hour show included
+everything from traditional/folk music of those lands to
 Shakira and Marc Anthony. 
 
 The shows sold out immediately, and we've now been able to add two
