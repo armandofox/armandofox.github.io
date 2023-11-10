@@ -23,9 +23,9 @@ Tickets are available for
 [Saturday 1/20 at 7pm](https://www.tickettailor.com/events/livemusic/1057788) and 
 [Sunday 1/21 at 4pm](https://www.tickettailor.com/events/livemusic/1057789).
 
-**We have set aside _limited number_ of discounted tickets ($15
+**We have set aside a _limited number_ of discounted tickets ($15
 instead of $20)** 
-specifically for you all.  If you'd like to purchase
+specifically for LAGSES members.  If you'd like to purchase
 discounted tickets, contact me directly for instructions.  Please note
 they are nonrefundable and non-exchangeable.  
 
@@ -36,4 +36,6 @@ days, so i hope some of you can make it to one of the january shows!
 Here's a [short clip](https://www.youtube.com/watch?v=N2782zx_LKw)
 from our October show:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wmd37SeYZrc?si=WT2jZzM522vdFFi-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/N2782zx_LKw?si=WT2jZzM522vdFFi-" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+
