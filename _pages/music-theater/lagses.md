@@ -1,5 +1,5 @@
 ---
-title: "Armando's friends-and-family discount for Cantos"
+title: "Armando's LAGSES discount for Cantos"
 permalink: /lagses
 type: page
 layout: single
@@ -9,8 +9,8 @@ Hi friends,
 
 In October I had the great pleasure of performing [**Cantos De Mi
 Tierra**](http://cantosdemitierra.com/), an
-all-Spanish-language program of songs with four amazing Latinx singers
-from Mexico, Puerto Rico, and Cuba.  The 1-hour show included
+all-Spanish-language program of songs, at Martuni's in SF.  Four amazing Latinx singers
+from Mexico, Puerto Rico, and Cuba performed
 everything from traditional/folk music of those lands to
 Shakira and Marc Anthony. 
 
