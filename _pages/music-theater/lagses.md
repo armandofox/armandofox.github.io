@@ -7,7 +7,8 @@ layout: single
 
 Hi friends,
 
-In october I had the great pleasure of performing an
+In October I had the great pleasure of performing **Cantos De Mi
+Tierra**, an
 all-Spanish-language program of songs with four amazing Latinx singers
 from mexico, puerto rico, and cuba.  The 1-hour show included
 everything from traditional and folk music of those homelands
