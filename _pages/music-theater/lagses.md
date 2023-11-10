@@ -1,5 +1,6 @@
 ---
 title: "Armando's friends-and-family discount for Cantos"
+permalink: /lagses
 type: page
 layout: single
 ---
