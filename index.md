@@ -14,19 +14,20 @@ The menu above leads to more detail about my various activities, but in a nutshe
 
 * I regularly teach [CS169A Intro to Software Engineering](cs169a.cs169.org) (and the accompanying [CS169L project course](cs169l.cs169.org)), CS375 [Teaching Techniques for CS](cs375.org), and sometimes the freshman seminar [Our Digital Quandary](digitalquandary.org), exploring issues at the intersection of computer science and society.
 
-* Open office hours Fall 2023: Mondays 13:00-14:00 in 569 Soda Hall
-(ring bell for entry to SLICE lab)
-
-### Note: I will be out of town Sep 25-Oct 3 at Northwestern, UIUC, and the edX Global Forum.
-
 # News
+
+* November 29, 2023: Thanks to my colleagues [Arash
+Pourhabibi](https://www.linkedin.com/in/arashpourhabibizarandi/) and
+[Saba Jamalian](https://www.linkedin.com/in/sabajamalian/), a new,
+free translation into Persian of [Engineering Software as a Service
+(ESaaS)](https://saasbook.info) is now available as a free PDF download!
 
 * May 5, 2023: I was a [panelist]() on the topic of "networked learning" (basically,
 [SPOCs](https://slate.com/technology/2013/09/spocs-small-private-online-classes-may-be-better-than-moocs.html))
 at the [Leveling the Learning Curve](https://leveling.college) event
 at Columbia University.  Lots of great conversations with academic and
 industry leaders about higher ed, and a chance to articulate our
-vision of how digital learning technology can [foster mastery learning](https://ace-lab.berkeley.edu/projects/cbt).
+vision of how digital learning technology can [foster mastery learning](https://acelab.berkeley.edu/projects/cbt).
 
 * May 1, 2023: The [final report](https://drive.google.com/file/d/1Z3Whcf5-JgF9wcmuj9jVWVLcZjR5zuOq/view?usp=sharing) from our pilot project on mastery
 learning is available.  Our approach combines parameterized randomized
@@ -56,6 +57,8 @@ events again, having great discussions about software engineering education at [
 the past few years in
 teaching both technical and team skills in upper-division
 project-based software engineering.
+
+[News items from 2022 and before]({% post_url news_archive }%)
 
 * July 1, 2022: Great [article](https://www.insidehighered.com/news/2022/06/30/how-berkeley-engineering-launched-three-black-aau-presidents) from Inside Higher Ed on how Berkeley Engineering launched three Black college presidents...but also a separate sobering article from Chronicle of Higher Ed profiling five professors of color who [left academia because of the poor climate at their institutions](https://www.chronicle.com/article/why-they-left).
 

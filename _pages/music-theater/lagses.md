@@ -8,26 +8,24 @@ layout: single
 Hi friends,
 
 In October I had the great pleasure of performing [**Cantos De Mi
-Tierra**](http://cantosdemitierra.com/), an
-all-Spanish-language program of songs, at Martuni's in SF.  Four amazing Latinx singers
-from Mexico, Puerto Rico, and Cuba performed
-everything from traditional/folk music of those lands to
-Shakira and Marc Anthony. 
+Tierra**](http://cantosdemitierra.com/), an all-Spanish-language
+program of songs, at Martuni's in SF.  Four amazing Latinx singers
+from Mexico, Puerto Rico, and Cuba performed everything from
+traditional/folk music of those lands to Shakira and Marc Anthony.
 
-The shows sold out immediately, and we've now been able to add two
-more shows in January!  And because of my connection to LAGSES, the
-organizers are making a limited number of discounted tickets available
-for you all. 
+The shows sold out immediately, but we've now been able to add two
+more shows in January!  
 
 Tickets are available for 
 [Saturday 1/20 at 7pm](https://www.tickettailor.com/events/livemusic/1057788) and 
 [Sunday 1/21 at 4pm](https://www.tickettailor.com/events/livemusic/1057789).
 
-**We have set aside a _limited number_ of discounted tickets ($15
+And because of my connection to LAGSES, the
+organizers have **set aside a _limited number_ of discounted tickets ($15
 instead of $20)** 
 specifically for LAGSES members.  If you'd like to purchase
 discounted tickets, contact me directly for instructions.  Please note
-they are nonrefundable and non-exchangeable.  
+they are nonrefundable and non-exchangeable.
 
 Our first 2 shows sold
 out the same day, we added a third show and it sold out in 3 more

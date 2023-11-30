@@ -14,10 +14,8 @@ jazz improv, etc.) but I play others too.
 
 # Shows I'm Working On Now or Soon
 
-**Returning in January 24:** Cantos de Mi
-Tierra, a Spanish-language cabaret at
+**Returning in January 2024:** [Cantos de Mi Tierra](cantosdemitierra.com), a Spanish-language cabaret at
 Martuni's in San Francisco!
-
 Tickets available for 
 [Saturday 1/20 at 7pm](https://www.tickettailor.com/events/livemusic/1057788) and 
 [Sunday 1/21 at 4pm](https://www.tickettailor.com/events/livemusic/1057789).

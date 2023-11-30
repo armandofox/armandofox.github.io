@@ -82,7 +82,28 @@ Berkeley is one of the world's leading universities in terms of spinning off sta
 Thinking of grad school? Advice we'll cover includes:
 
 -   Apply broadly, as grad school admissions are v ery competitive; "hot" fields like machine learning and data science may be harder to get into. Don't limit yourself to the "usual subjects" list of top schools: talk to professors and grad students working in your areas of interest to find out which programs are strong in that area---you'll be surprised.
--   Have you tried research? If not, why do you think grad school is the right thing? And you can always work for a couple of years and then decide to go back (that's what I did). Grad school is an intense 5-year monastic experience that is nothing like undergrad. It's more a calling than a thing you do. You really want to be sure that this interests you, as opposed to doing it "by default".
+-   Have you tried research? If not, why do you think grad school is
+the right thing? And you can always work for a couple of years and
+then decide to go back (that's what I did). Grad school is an intense
+5-year monastic experience that is nothing like undergrad. It's more a
+calling than a thing you do. You really want to be sure that this
+interests you, as opposed to doing it "by default".
+
+**What do faculty look for when reading PhD admissions letters?**
+
+The following is only lightly edited from what we discuss in PhD
+admissions meeting each year:
+
+"Look for strong PhD potential evidenced by, among other things:
+* glowing letter 
+* existing research record relative to opportunities
+* GPA / class ranks / chose tough courses
+* **well articulated research interests**
+* achieving a lot relative to context/opportunity
+* communication skills (essay, interview)
+* will be able to TA
+* contributor to community (lab, dept, broader community)"
+
 
 ## 5th year MS
 

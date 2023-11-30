@@ -5,6 +5,17 @@ type: page
 layout: single
 ---
 
+**Spring 2024:**
+
+- [CS 169L](https://cs169L.cs169.org): Software Engineering Team
+Project (with Prof. Michael Ball).  Student teams work with real customers (nonprofits & campus
+units) to build SaaS.  Requires [CS169A](https://cs169a.cs169.org) or
+equivalent experience, as characterized by its textbook [Engineering
+Software as a Service](http://saasbook.info).
+
+- [CS 375](https://cs375.org): Teaching Techniques for CS.  Pedagogy,
+classroom climate, DEIBJ, and in general being a successful student teacher.
+
 **Fall 2023:**
 
 - [CS 169A](https://cs169a.cs169.org): Intro to Software Engineering
@@ -16,8 +27,7 @@ with and refactoring legacy code, design patterns, dev/ops,
 cloud+client app frameworks, working in Agile teams, and using the
 tools professionals use to craft beautiful, maintainable software.
 
-- [CS 375](https://cs375.org): Teaching Techniques for CS.  Pedagogy,
-classroom climate, DEIBJ, and in general being a successful student teacher.
+- [CS 375](https://cs375.org): Teaching Techniques for CS
 
 - [CS 194-244/CS 294-244](eecs.link/star): STAR Assessments for Mastery Learning.
 Student teams will develop competency-specific, rich, interactive,
@@ -26,11 +36,7 @@ rigorously evaluate them using the methods of HCI and the learning sciences.
 
 **Spring 2023:**
 
-- [CS 169L](https://cs169L.cs169.org): Software Engineering Team
-Project (with Prof. Michael Ball).  Student teams work with real customers (nonprofits & campus
-units) to build SaaS.  Requires [CS169A](https://cs169a.cs169.org) or
-equivalent experience, as characterized by its textbook [Engineering
-Software as a Service](http://saasbook.info).
+- [CS 169L](https://cs169L.cs169.org)
 
 - [CS 194-244/CS 294-244](eecs.link/star)
 

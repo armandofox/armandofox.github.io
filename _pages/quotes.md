@@ -162,13 +162,6 @@ toc_label: "Quote categories"
   <dd>Leo Tolstoy
   </dd>
 
-  <dt>You may be better than [your undergrad students] at what you do, but
-    you have something to learn from every one of them. </dt>
-  <dd>[UC Berkeley CS
-    prof Manuel Blum, to Dick
-    Karp](http://www.eecs.berkeley.edu/BEARS/CS_Anniversary/karp-talk.html) (both
-    are winners of the Turing Award)
-  </dd>
 
   <dt>Always remember, others may hate you, but those who hate you don't win
     unless you hate them, and then you destroy yourself. </dt>
@@ -195,6 +188,27 @@ toc_label: "Quote categories"
     for. </dt>
   <dd>Stanley Kubrick, quoted in Michael Benson's <em>Space Odyssey:
     Stanley Kubrick, Arthur C. Clarke, and the Making of a Masterpiece</em>
+  </dd>
+
+</dl>
+
+# Work
+
+<dl class="quote">
+  <dt>Love your work and the rest is easy.</dt>
+  <dd>Frances Sergi, my fourth grade teacher at The Kew-Forest School,
+    New York City</dd>
+  
+  <dt>He who seeks rest will find boredom; he who seeks work will find
+    rest.</dt>
+  <dd>Dylan Thomas</dd>
+
+  <dt>You may be better [than your undergraduate students] at what you do, but
+    you have something to learn from every one of them. </dt>
+  <dd>[UC Berkeley CS
+    prof Manuel Blum, to Dick
+    Karp](http://www.eecs.berkeley.edu/BEARS/CS_Anniversary/karp-talk.html) (both
+    are winners of the Turing Award)
   </dd>
 
 </dl>
