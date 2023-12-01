@@ -10,8 +10,8 @@ layout: single
 The common thread to all the advice below can be summarized as
 follows: 
 
-Many students think that having a letter with someone's name on it
-will help their application (or job reference, etc.)
+Many students think that having a letter with a well-known professor's name on it
+will always help their application (or job reference, etc.)
 
 That is not true.
 
@@ -48,8 +48,40 @@ If that's not the case for you, I can still potentially write a supplementary le
 
 Here are the most common pieces of feedback I give on these documents---and yes, the PS does matter:
 
-**1. ****Be specific. ** For example, when discussing your experience at an internship, don't say: "I had a variety of tasks dealing with automation, databases, and data collection." Instead, give an example of a **specific**  task that was (eg) hard to learn, hard to apply, a stretch for you, particularly valuable to the company, etc.  A good litmus test you can apply to *every sentence in your PS *is to ask:  "If this sentence were copied into another applicant's PS, would it probably be true?"  if the answer is yes, that sentence is probably not specific enough to be worth including.  You need to write stuff that **differentiates** you from other applicants.  This is true for both discussing your school experiences and your work experiences.
+**1.  Be specific.** For example, when discussing your experience at
+an internship, don't say: "I had a variety of tasks dealing with
+automation, databases, and data collection." Instead, give an example
+of a **specific**  task that was (eg) hard to learn, hard to apply, a
+stretch for you, particularly valuable to the company, etc.  A good
+litmus test you can apply to *every sentence in your PS *is to ask: 
+"If this sentence were copied into another applicant's PS, would it
+probably be true?"  if the answer is yes, that sentence is probably
+not specific enough to be worth including.  You need to write stuff
+that **differentiates** you from other applicants.  This is true for
+both discussing your school experiences and your work experiences. 
 
-**2. Write well.** Perhaps your writing skills aren't as strong as you'd like; perhaps English isn't your first language.  But even if there is no issue understanding what you are trying to say, first impressions do count, and writing is important. I'm not sure if there are people in the Writing Program that can help, but pay for personal assistance if necessary. Note that I'm not suggesting you have someone write the PS for you! The content and voice must be your own (and if you are subsequently interviewed, it will be immediately obvious if they aren't). Style, grammar, and spelling checks should be the *last step* after the content is finalized.
+**2. Write well.** Perhaps your writing skills aren't as strong as
+you'd like; perhaps English isn't your first language.  But even if
+there is no issue understanding what you are trying to say, first
+impressions do count, and writing is important. I'm not sure if there
+are people in the Writing Program that can help, but pay for personal
+assistance if necessary. Note that I'm not suggesting you have someone
+write the PS for you! The content and voice must be your own (and if
+you are subsequently interviewed, it will be immediately obvious if
+they aren't). Style, grammar, and spelling checks should be the *last
+step* after the content is finalized. 
 
-**3. Don't fawn; contribute.** Avoid gushing sentences such as "It has always been my dream to attend school X, work with professor Y, etc." No one cares. The question is what will *you *add to the mix? What benefits will *you *contribute to your fellow students that make you a valuable addition to the program? **Corollary:** When describing life-changing experiences you've had, remember that most people who don't know you (including probably all application reviewers) don't care about how your life was changed. They care about how those changes *will benefit the greater academic community *if you are admitted. If your letter spends time discussing what you can bring to your fellow students, it will be more compelling. If it spends time trying to convince the reader how remarkable you are, or how badly you want to attend this school, it will categorically fail.
+**3. Don't fawn; contribute.** Avoid gushing sentences such as "It has
+always been my dream to attend school X, work with professor Y, etc."
+No one cares. The question they do care about is: what will _you_ add to the mix? What
+benefits will *you *contribute to your fellow students that make you a
+valuable addition to the program? **Corollary:** When describing
+life-changing experiences you've had, remember that most people who
+don't know you (including probably all application reviewers) don't
+care about how _your_ life was changed. They care about how those
+experiences  *could benefit the greater academic community *if you are
+admitted. If your letter spends time discussing what you can bring to
+your fellow students, it will be more compelling. If it spends time
+trying to convince the reader how remarkable you are, or how badly you
+want to attend this school, _without_ proposing how you will enrich
+the program for others too, it will more likely fail. 
