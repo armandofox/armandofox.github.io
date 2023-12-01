@@ -16,6 +16,9 @@ The menu above leads to more detail about my various activities, but in a nutshe
 
 # News
 
+* December 1, 2023: Great overview of Dan Garcia's and my efforts on
+mastery learning in the [Berkeley Engineering newsletter](https://engineering.berkeley.edu/news/2023/12/making-the-grade/).
+
 * November 29, 2023: Thanks to my colleagues [Arash
 Pourhabibi](https://www.linkedin.com/in/arashpourhabibizarandi/) and
 [Saba Jamalian](https://www.linkedin.com/in/sabajamalian/), a new,
