@@ -17,7 +17,13 @@ The menu above leads to more detail about my various activities, but in a nutshe
 # News
 
 * December 1, 2023: Great overview of Dan Garcia's and my efforts on
-mastery learning in the [Berkeley Engineering newsletter](https://engineering.berkeley.edu/news/2023/12/making-the-grade/).
+mastery learning in the [Berkeley Engineering
+newsletter](https://engineering.berkeley.edu/news/2023/12/making-the-grade/).
+Also, this Inside Higher Ed [interview with VPUE Oliver
+O’Reilly](https://www.insidehighered.com/opinion/blogs/learning-innovation/2023/11/13/three-questions-uc-berkeleys-oliver-oreilly)
+discusses how computer-based testing and mastery learning can help
+provide better accommodations for students with disabilities and
+student athletes.
 
 * November 29, 2023: Thanks to my colleagues [Arash
 Pourhabibi](https://www.linkedin.com/in/arashpourhabibizarandi/) and
