@@ -162,9 +162,14 @@ of the 2020 movie adaptation.
 If you'd like me to give the talk at your organization, please [contact
 me,](mailto:theater@armandofox.com) I'm always happy to put this in
 front of interested audiences and I can provide references from prior
-presentations if needed.  I don't ask any compensation, but if I'm
-currently working on a show, I might appreciate the chance to promote
-it and/or discuss a group block discount for your organization.  
+presentations if needed.  
+
+I don't ask any compensation: my sole goal is to raise the visibility
+and profile of musical theater in the performing arts, and stimulate
+attendance at musical theater events.
+(Although if I'm
+currently [working on a show](/music-theater), I might appreciate the chance to promote
+it and/or discuss a group block discount for your organization.)
 
 I will
 need a laptop projection setup (HDMI or Thunderbolt input)
@@ -173,4 +178,24 @@ Macbook Pro, either from the 1/8" headphone out jack, via USB, or via
 HDMI.  **The sound is a key part of the presentation** so it's important
 that the sound be audible, clear, and sufficiently loud for the room.
 
-
+**My credentials:**
+Armando Fox is a classically trained musician who has worked on dozens
+of Bay Area regional theater productions
+as Music
+Director, Associate Conductor, pianist, and/or orchestrator/arranger,
+many of which have received or been nominated for music-related awards.
+He completed pre-conservatory training at the Mannes College of Music,
+New York (now part of the New School) studying piano
+performance with [Michael
+Boriskin](https://www.facebook.com/MichaelBoriskin/) and others, as
+well as music theory, ear training, ensemble performance, choir, and 
+arranging.
+He's the author of the best book on music direction written by a
+computer scientist ([pianoconductor.com](pianoconductor.com)) and the best book on software
+engineering written by a music director ([saasbook.info](www.saasbook.info)).  
+He has also served on the Boards or Advisory Boards of several local
+theaters.
+Armando grew up in New York going to
+the theater and is Latino, multilingual, and bicultural.  In his day
+job, he is an award-winning computer science professor and advocate
+for diversity at UC Berkeley.
