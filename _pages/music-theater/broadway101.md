@@ -14,10 +14,8 @@ did it originate?  What makes it a uniquely American invention?  What
 were some of the milestones in its development and who were the
 creative people responsible for them?
 
-If you'd like me to give the talk at your organization, please [contact
-me,](mailto:theater@armandofox.com) I'm always happy to put this in
-front of interested audiences and I can provide references from prior
-presentations if needed!
+([See below](#i-can-give-this-talk-at-your-organization) if you'd like me to give this talk free of charge at your organization.)
+
 
 During the talk, I play excerpts from a number of musicals, and I've 
 put together a list of filmed or recorded performances of those for
@@ -158,3 +156,21 @@ Peters and Mandy Patinkin.  See my [1-page summary](/1p-sunday) of _Sunday._
 book by James Lapine.  Filmed version of the original Broadway cast
 starring Bernadette Peters.  I'm not as much a fan
 of the 2020 movie adaptation.
+
+## I can give this talk at your organization
+
+If you'd like me to give the talk at your organization, please [contact
+me,](mailto:theater@armandofox.com) I'm always happy to put this in
+front of interested audiences and I can provide references from prior
+presentations if needed.  I don't ask any compensation, but if I'm
+currently working on a show, I might appreciate the chance to promote
+it and/or discuss a group block discount for your organization.  
+
+I will
+need a laptop projection setup (HDMI or Thunderbolt input)
+and a way to clearly play sound from my
+Macbook Pro, either from the 1/8" headphone out jack, via USB, or via
+HDMI.  **The sound is a key part of the presentation** so it's important
+that the sound be audible, clear, and sufficiently loud for the room.
+
+
