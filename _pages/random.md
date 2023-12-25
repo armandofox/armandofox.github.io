@@ -13,7 +13,7 @@ See links at left.
 
 ## Bibliomania
 
-I am a bibliophile.  That is, not only do I [love reading](/reading), I love books
+I am a bibliophile.  That is, not only do I [love reading](https://www.goodreads.com/user/show/166266985-armando-fox), I love books
 and all things associated with them.  I can and do spend hours in used
 book stores and libraries; finding good ones is often a major goal when I
 visit a new city or country.
