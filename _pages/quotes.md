@@ -190,6 +190,10 @@ toc_label: "Quote categories"
     Stanley Kubrick, Arthur C. Clarke, and the Making of a Masterpiece</em>
   </dd>
 
+    <dt>Be ashamed to die until you have won some victory for
+    humanity.</dt>
+    <dd>Horace Mann, addressing the Antioch College graduating class of 1859</dd>
+
 </dl>
 
 # Work
