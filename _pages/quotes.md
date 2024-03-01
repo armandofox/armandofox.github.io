@@ -89,8 +89,7 @@ toc_label: "Quote categories"
     magnificently he has risen. </dt>
   <dd>Robert Ardrey, <em>African Genesis</em>, quoted in Michael Benson's <em>Space Odyssey:
     Stanley Kubrick, Arthur C. Clarke, and the Making of a
-    Masterpiece</em>. [While "risen apes" is discredited, the essence of the
-    quote rings true to me.]
+    Masterpiece</em>.
   </dd>
 
   <dt>If civilization is to mean anything, people have to acknowledge the
@@ -127,7 +126,7 @@ toc_label: "Quote categories"
   <dd>me</dd>
 
   <dt>
-    Most people would sooner die than think; in fact, they do so.   
+    Most people would sooner die than think. In fact, they do so.
   </dt>
   <dd>Bertrand Russell
   </dd>
@@ -190,10 +189,6 @@ toc_label: "Quote categories"
     Stanley Kubrick, Arthur C. Clarke, and the Making of a Masterpiece</em>
   </dd>
 
-    <dt>Be ashamed to die until you have won some victory for
-    humanity.</dt>
-    <dd>Horace Mann, addressing the Antioch College graduating class of 1859</dd>
-
 </dl>
 
 # Work
@@ -214,6 +209,10 @@ toc_label: "Quote categories"
     Karp](http://www.eecs.berkeley.edu/BEARS/CS_Anniversary/karp-talk.html) (both
     are winners of the Turing Award)
   </dd>
+
+  <dt>Be ashamed to die until you have won some victory for
+    humanity.</dt>
+  <dd>Horace Mann, addressing the Antioch College graduating class of 1859</dd>
 
 </dl>
 
@@ -243,8 +242,8 @@ toc_label: "Quote categories"
     I have problems today that I did not have yesterday. I had problems
     yesterday that I do not have today. Admission to the burning ruins,
     ten cents.  </dt>
-  <dd>George C. Tilyou, after Coney Island's Steeplechase
-    Park burned to the ground
+  <dd>George C. Tilyou, owner of Coney Island's Steeplechase
+    Park, the day after it burned to the ground
   </dd>
 
 <dt>
@@ -252,7 +251,7 @@ toc_label: "Quote categories"
 affix the sign: <span style="font-size: 90%;">REASON IN THE SERVICE OF THE URGES.</span>
 This because the overwhelming majority of the material products of the
 mind were channeled into sybaritic pursuits. An ingeniously
-constructed television set dispersed intellectual garbage;
+constructed television set dispensed intellectual garbage;
 sophisticated transportation technologies made it possible for a
 degenerate, instead of getting soused in his own backyard, to dress up
 a tourist and do the same in the vicinity of Saint Peter's
@@ -310,9 +309,9 @@ Michael Kandel
   </dd>
 
   <dt>Only a Christian would think of our Buddha as 'just a man'. Our Buddha
-    is a being which all men can become---something greater than
-    himself---if he can overcome all his illusions. You cling to your
-    illusions---and call them faith. 
+    is a being which all men can become&emdash;something greater than
+    himself&emdash;if he can overcome all his illusions. You cling to your
+    illusions&emdash;and call them faith. 
     </dt>
     <dd>from Martin Scorsese's film <em>Silence</em>,
     based on the novel of the same name by Shūsaku Endō
