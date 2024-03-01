@@ -7,22 +7,19 @@ sidebar:
 
 ### Short Bio
 
-Armando Fox (Music Director; armandofox.com) is excited to return to CCCT, where he
-had the joy of working on _In The Heights_ (TBA
-Finalist, Music Direction) in the recent Before Times.
-He's served as Music
-Director for dozens of Bay Area shows, including 42nd Street Moon's
-_The Pajama Game_, Altarena's
-_La Cage Aux Folles_, Custom Made Theatre's Chess (BATCC
-winner, Music Direction), Next to Normal (BATCC finalist, Music
-Direction), Assassins (TBA Top Ten, All Bay Area), and lots more.
-He enjoys playing 80s vintage synthesizers in his cover
-band Disposable Pop (seeking a new
-guitarist/vocalist...ask him if you're interested!) As far as he knows,
-he's the author of the best book on music direction written by a
-computer scientist ([pianoconductor.com](pianoconductor.com)) and the best book on software
-engineering written by a music director ([saasbook.info](www.saasbook.info)).  In his day
-job, he is an award-winning computer science professor at UC Berkeley.
+Armando Fox (Music Director; armandofox.com) has done over 20 shows in
+20 years at Altarena, most recently Ruthless in 2023, and is always
+happy to be back.  Indeed, some of the musicians in Pal Joey worked
+with him on his very first Altarena show back in 2004 (Company)!  He's
+also worked at CCCT, Custom Made Theatre Company, 42nd Street Moon,
+and elsewhere, and has received numerous awards and nominations for
+his music direction.  This is his second collaboration with Laura
+Morgan.  As far as he knows, he's the author of the best book on music
+direction written by a computer scientist
+([pianoconductor.com](pianoconductor.com)) and the best computer
+science textbook written by a music director
+([saasbook.info](www.saasbook.info)).  By day he is a
+computer science professor at UC Berkeley.
 
 ## Full Bio
 
