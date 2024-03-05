@@ -56,14 +56,14 @@ various theaters is summarized in my open-source [Small Theater Growth & Develo
 
 # Musical Direction Credits (* = original orchestration or reduction)
 
-1. Pal Joey (Altarena Playhouse, dir. Laura Morgan), Mar/Apr 2024
+1. \* Pal Joey (Altarena Playhouse, dir. Laura Morgan), Mar/Apr 2024
 1. Sondheim On Sondheim (Contra Costa Civic Theatre, dir. Marilyn Langbehn), Aug/Sep 2023
 1. Ruthless! The Musical (Altarena Playhouse, dir. Dana Anderson), Mar/Apr 2023
 1. Camelot (Contra Costa Civic Theatre, dir. Diana Trotter), Sep/Oct 2022
 1. \* The Pajama Game (42nd Street Moon, dir. Becky Potter), **BATCC Finalist**{: .emph} Music Direction, May/June 2022
 1. La Cage Aux Folles (Altarena Playhouse, dir. Noah Haydon), Mar/Apr 2022
 1.  ~~Sunday In the Park With George (Gatehouse Theatre,
-dir. Rachel Pospíšil), ~~June/July 2020~~ _Cancelled due to COVID-19_
+dir. Rachel Pospíšil), June/July 2020~~ _Cancelled due to COVID-19_
 1.  ~~Dreamgirls (Altarena Playhouse, dir. ShawnJ West), May/June 2020~~* Cancelled due to COVID-19*
 1.  Bloody Bloody Andrew Jackson (Custom Made Theatre Co., dir. Brian Katz), Sep/Oct 2019
 1.  \* Guys and Dolls (Altarena Playhouse, dir. Stewart Lyle), Mar/Apr 2018
