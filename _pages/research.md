@@ -38,5 +38,5 @@ Current Graduate Students and Committees (see also [Alumni](http://www.armandof
 -------------------------------------------------------------------------------------------------------
 
 -   [Tim Aveni](https://timothyaveni.com) (PhD, CS)
--   [Logan Caraco](http://people.eecs.berkeley.edu/~logan_caraco/) (PhD, CS)
+-   [Serena Caraco]() (PhD, CS)
 
