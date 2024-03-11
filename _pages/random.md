@@ -22,7 +22,7 @@ My all-time favorites in the US are Powell's in Portland and
 Strand Books in New York.  My favorite independents in the Bay Area
 include Bird & Beckett in Glen Park, Moe's in Berkeley, Borderlands in
 the Mission, and City Lights in North Beach.
-
+https://www.goodreads.com/review/list/166266985-armando-fox?utf8=%E2%9C%93&ref=nav_mybooks&view=covers&per_page=100
 - My very badly organized and highly incomplete [reading list](/reading)
 
 - You can read my [occasional book reviews on

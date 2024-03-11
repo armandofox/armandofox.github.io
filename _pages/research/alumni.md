@@ -23,7 +23,7 @@ PhD and Postdoc Alumni (* = co-advisor but not primary)
 6.  Michael Armbrust, PhD 2012, with Prof. Mike Franklin, now at DataBricks. *Scale-Independent Relational Query Processing.*
 7.  [Charles Sutton](http://homepages.inf.ed.ac.uk/csutton/), postdoc 2012, now faculty at the University of Edinburgh
 8.  [Shoaib Kamil](http://people.csail.mit.edu/skamil/), PhD 2012, with Prof. Kathy Yelick, now Research Scientist at MIT CSAIL. *Productive High Performance Parallel Programming with Auto-tuned Domain-Specific Embedded Languages*
-9.  [Wei Xu](http://iiis.tsinghua.edu.cn/~weixu/), PhD 2010, with Prof. Dave Patterson, now Assistant Professor and Assistant Dean of the "Yao Class" at Tsinghua University. *Detecting Large Scale System Problems by Mining Console Logs*
+9.  [Wei Xu](http://iiis.tsinghua.edu.cn/~weixu/), PhD 2010, with Prof. Dave Patterson, now Associate Professor and Assistant Dean of the "Yao Class" at Tsinghua University. *Detecting Large Scale System Problems by Mining Console Logs*
 10. Archana Ganapathi, PhD 2010, with Prof. Dave Patterson, now at Splunk. *Predicting and Optimizing System Utilization and Performance via Statistical Machine Learning*. Lead author of "10-Year Influential Paper" at ICDE 2019  [Predicting Multiple Metrics for Queries: Better Decisions Enabled by Machine Learning](https://dl.acm.org/citation.cfm?id=1547490) with co-authors from UC Berkeley and HP Labs.
 11. [Peter Bodík](https://www.microsoft.com/en-us/research/people/peterb/), PhD 2010, now at Microsoft Research. *Automating Datacenter Operations Using Machine Learning*.
 12. *Rean Griffith, postdoc 2010, now at Illumio
