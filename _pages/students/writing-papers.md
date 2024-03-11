@@ -40,7 +40,28 @@ Make no statement that cannot be backed up by citation, quantitative data, or at
 
 **Know when to say when.**  Even if you have written the paper with plenty of time and had a lot of outside review, after a certain point you will not be able to add much value without taking a break for a while (maybe a week or two).  When that point comes, further work on the paper is just thrashing and not likely to improve it much, though it will leave you feeling dissatisfied.
 
-# Actually Writing
+# Actually Writing: Abstract or Extended Abstract
+
+An extended abstract is a 1-2 exposition of an idea summarizing the
+contribution, previewing some results, etc.  Here are some good hints
+from Bjoern Hartmann on what a good abstract should communicate:
+
+* What’s the INSIGHT of your solution (system, method, design, …)?
+(Why do you expect this to work while previous work failed?) 
+
+* Can you provide an intuition of your solution that is not too technical?
+
+* Does the EVIDENCE you present (end) match the CLAIMS/PROBLEM?  (Do
+the metrics, study design, and baseline align?)
+
+* Do you talk enough about your RESULTS?  (Just one sentence or many? What has been achieved and learned?
+What is still missing / needs to be studied, i.e. Limitations?)
+
+* Do you signal the CONTRIBUTION TYPE of your paper? (case study? new
+research idea? experience report? tool/artifact? etc.)
+
+
+# Actually Writing: Full Paper
 
 
 ***Write from an outline***. Let me say that again, because it's really important: write from an outline. I know no one who can reel off any coherent technical writing more than one page long without some kind of top-down strategy. At least sketch out the major sections of the paper, and what points you want to make in each, from 10000 feet. If you write any complete sentences during this phase, you're getting mired in detail already. Bullets are what you want.
