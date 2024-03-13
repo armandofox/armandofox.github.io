@@ -32,16 +32,15 @@ toc_label: "Quote categories"
     at home. But if war continues to absorb and dominate it, or if the
     itch to rule the world requires a large military establishment and
     appropriate, the freedoms of democracy may one by one succumb to the
-    discipline of arms and strife. <em>If race or class war divides us into
+    discipline of arms and strife. If race or class war divides us into
     hostile camps, changing political argument into blind hate, one side
     or the other may overturn the hustings with the rule of the sword. If
     our economy of freedom fails to distribute wealth as ably as it has
     created it, the road to dictatorship will be open to any man who can
     persuasively promise security for all; and a martial government, under
-    whatever charming phrases, will engulf the democratic world.</em></dt>
+    whatever charming phrases, will engulf the democratic world.</dt>
   <dd>Will
-    and Ariel Durant, <em>The Lessons of History</em>, chapter X "History and
-    Government" (emphasis added by me)
+    and Ariel Durant, <em>The Lessons of History</em>, writing in 1968
   </dd>
 
   <dt>The democratic will is vulgar; its laws, imperfect. I admit all
@@ -53,6 +52,10 @@ toc_label: "Quote categories"
     Reid, <em>Forgotten Continent: A History of the New Latin America</em>
   </dd>
 
+  <dt>Democracy is the worst form of government except for all those
+  other forms that have been tried.</dt>
+  <dd>Winston Churchill, though he attributed it to someone else</dd>
+  
   <dt>When one hears about acts of extraordinary bravery in combat, it is
     usually a sign that the battle has not been going terribly well. For
     when wars unfold according to plan and one's own side is winning, acts
@@ -79,7 +82,7 @@ toc_label: "Quote categories"
     the same in all countries; the condition of the lower orders, the poor
     especially, was the true mark of national discrimination.</dt>
   <dd>Boswell,
-    Life of Johnson, quoted in Paul Theroux, <em>The Old Patagonian Express</em>
+    <em>Life of Johnson</em>, quoted in Paul Theroux, <em>The Old Patagonian Express</em>
   </dd>
 
   <dt>We were born of risen apes, not fallen angels, and the apes were armed
@@ -90,7 +93,7 @@ toc_label: "Quote categories"
     into battlefields; our dreams, however rarely they may be
     accomplished? The miracle of man is not how far he has sunk but how
     magnificently he has risen. </dt>
-  <dd>Robert Ardrey, <em>African Genesis</em>, quoted in Michael Benson's <em>Space Odyssey:
+  <dd>Robert Ardrey, <em>African Genesis</em>, quoted in Michael Benson, <em>Space Odyssey:
     Stanley Kubrick, Arthur C. Clarke, and the Making of a
     Masterpiece</em>.
   </dd>
@@ -98,16 +101,6 @@ toc_label: "Quote categories"
   <dt>If civilization is to mean anything, people have to acknowledge the
     humanity of their enemies.  </dt>
   <dd>John Hersey, author of <em>Hiroshima</em>
-  </dd>
-
-  <dt>
-    To watch the TV screen for any length of time is to learn some really
-    frightening things about the American sense of reality. We are cruelly
-    trapped between what we would like to be and what we actually are. And
-    we cannot possibly become what we would like to be until we are
-    willing to ask ourselves just why the lives we lead on this continent
-    are mainly so empty, so tame, and so ugly.  </dt>
-  <dd><em>James Baldwin</em>
   </dd>
 
   <dt>
@@ -208,9 +201,9 @@ toc_label: "Quote categories"
   <dt>You may be better [than your undergraduate students] at what you do, but
     you have something to learn from every one of them. </dt>
   <dd>[UC Berkeley CS
-    prof Manuel Blum, to Dick
-    Karp](http://www.eecs.berkeley.edu/BEARS/CS_Anniversary/karp-talk.html) (both
-    are winners of the Turing Award)
+    professor (and Turing Award winner) Manuel Blum, to UC Berkeley CS
+    Professor (and Turing Award winner) Dick
+    Karp](http://www.eecs.berkeley.edu/BEARS/CS_Anniversary/karp-talk.html)
   </dd>
 
   <dt>Be ashamed to die until you have won some victory for
