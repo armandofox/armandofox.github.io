@@ -14,6 +14,9 @@ toc_label: "Quote categories"
 
 <dl class="quote">
 
+  <dt>The past is never dead. It's not even past.</dt>
+  <dd>William Faulker</dd>
+  
   <dt>The future is dark, the present burdensome. Only the past, dead and
     finished, bears contemplation. Those who look upon it have survived
     it; they are its product and its victors. No wonder therefore that men
@@ -219,6 +222,10 @@ toc_label: "Quote categories"
 # Resilience
 
 <dl class="quote">
+
+    <dt>When the world is running down, you make the best of what's
+    still around.</dt>
+    <dd>The Police</dd>
 
   <dt>When it feels like life is fucking you, keep changing positions until
     it feels good. </dt>
