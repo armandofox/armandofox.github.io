@@ -16,6 +16,10 @@ The menu above leads to more detail about my various activities, but in a nutshe
 
 # News
 
+* March 20, 2024: Cantos de Mi Tierra, the all-Spanish-language
+cabaret featuring everything from traditional/folk to modern/pop music
+of the Hispanic diaspora, is [coming to Martuni's this summer!](https://www.feinsteinssf.com/event-details/13644233/cantos-de-mi-tierra/)
+
 * December 1, 2023: Great overview of Dan Garcia's and my efforts on
 mastery learning in the [Berkeley Engineering
 newsletter](https://engineering.berkeley.edu/news/2023/12/making-the-grade/).
@@ -31,43 +35,7 @@ Pourhabibi](https://www.linkedin.com/in/arashpourhabibizarandi/) and
 free translation into Persian of [Engineering Software as a Service
 (ESaaS)](https://saasbook.info) is now available as a free PDF download!
 
-* May 5, 2023: I was a [panelist]() on the topic of "networked learning" (basically,
-[SPOCs](https://slate.com/technology/2013/09/spocs-small-private-online-classes-may-be-better-than-moocs.html))
-at the [Leveling the Learning Curve](https://leveling.college) event
-at Columbia University.  Lots of great conversations with academic and
-industry leaders about higher ed, and a chance to articulate our
-vision of how digital learning technology can [foster mastery learning](https://acelab.berkeley.edu/projects/cbt).
-
-* May 1, 2023: The [final report](https://drive.google.com/file/d/1Z3Whcf5-JgF9wcmuj9jVWVLcZjR5zuOq/view?usp=sharing) from our pilot project on mastery
-learning is available.  Our approach combines parameterized randomized
-question generators (using UIUC's excellent
-[PrairieLearn](prairielearn.org) authoring system) and a radical
-approach to flexible deadlines (which we're developing further in our
-[Flextensions](https://acelab.berkeley.edu/projects/flextensions/) project).  A key finding is that **while mastery
-learning benefited all students in CS10, women and minoritized
-students benefited relatively  more**, with the performance gap for
-those students shrinking significantly since adopting our approach.
-
-* April 1, 2023: Victor Huang and I presented a [paper](https://dl.acm.org/doi/10.1145/3545945.3569826) at SIGCSE
-2023 on our changes to [CS 375](cs375.org), the CS pedagogy course required of all
-first-time EECS GSIs.  From the abstract: "Our view is that there is no
-meaningful separation between pedagogical and climate skills: rather
-than `compartmentalizing' climate into specific workshops or modules
-of a course, our semester-long required TA preparation course treats
-classroom climate as a lens through which traditional pedagogical
-skills are viewed, such as giving presentations that encourage
-participation, creating equitable assessments, and creating successful
-student groups by fostering belonging."
-
-* January 23, 2023: It's great to be back at in-person 
-events again, having great discussions about software engineering education at [FISEE
-2023](https://www.laser-foundation.org/fisee/2023/), where I gave an
-[invited keynote](https://drive.google.com/drive/u/1/folders/10clYQn9ka0Q2NZIWY0eqAXqpA7P1UAoe) bringing together many of our research efforts over
-the past few years in
-teaching both technical and team skills in upper-division
-project-based software engineering.
-
-[News items from 2022 and before]({% link news_archive.md %})
+[News items from 202e and before]({% link news_archive.md %})
 
 # Media appearances, podcasts, etc.
 
