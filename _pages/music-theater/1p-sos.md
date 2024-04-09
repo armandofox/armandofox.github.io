@@ -15,6 +15,11 @@ with interviews in which Sondheim explains the gestation and genesis
 of many of the songs. (Here's a [teaser clip from one of our
 rehearsals](https://www.youtube.com/watch?v=LNE445nwAC8), and [another](https://www.youtube.com/watch?v=XpwXdbMNkSk).)
 
+(And an unauthorized recording of my awesome pit playing the [exit
+music](https://www.youtube.com/watch?v=pwkQRLX0Hok).  The
+orchestrations for this show are gnarly and are all original by
+Michael Starobin, who orchestrated _Sunday In the Park With George_ too.)
+
 Since a number of friends have asked, here is a complete list of the
 songs in the show, which shows they were written for, and other
 curious minutiae:
