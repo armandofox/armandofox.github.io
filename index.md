@@ -12,6 +12,13 @@ The menu above leads to more detail about my various activities, but in a nutshe
 
 * My current research focuses on CS education and technology-enhanced learning, at the intersection of pedagogy, human-computer interaction, and programming systems.
 
+* At the upcoming [Tapia Conference](tapiaconference.org),
+Audrey Sillers and Elise Dorough (staff directors of 
+student diversity at UC Berkeley EECS and U. Washington CS), Ed
+Lazowska (faculty, U. Washington CS), and I will be presenting our advice
+on **Faculty-Staff Collaboration and Continuity for Equitable Recruiting
+and Retention in CS graduate programs.**
+
 * I'm music director for [Pal Joey at Altarena Playhouse!](/music-theater)
 
 * I regularly teach [CS169A Intro to Software Engineering](cs169a.cs169.org) (and the accompanying [CS169L project course](cs169l.cs169.org)), CS375 [Teaching Techniques for CS](cs375.org), and sometimes the freshman seminar [Our Digital Quandary](digitalquandary.org), exploring issues at the intersection of computer science and society.
