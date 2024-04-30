@@ -18,6 +18,8 @@ sidebar:
 
 **Open office hours (Fall 2023)**: TBD
 
+**[PGP public key](/contact/pgp)**
+
 My [somewhat-up-to-date
 CV](https://docs.google.com/document/d/e/2PACX-1vQ7iWezg_-jJVq6oLEvehPye41V8ivlw1-fv0tMg0nr3dIh1Twkbhcxbzxqkh8huYg72T_EnJFnzZ4E/pub)
 
