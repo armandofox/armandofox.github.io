@@ -29,6 +29,9 @@ CV](https://docs.google.com/document/d/e/2PACX-1vQ7iWezg_-jJVq6oLEvehPye41V8ivlw
 
 * Remote internships from students outside the Bay Area.
 
+* With very few exceptions, internship requests from non-Berkeley
+students, whether paid or unpaid.
+
 * Postdoc/technical staff inquiries.  If I have a need/opportunity,
 I will make sure to publicize it through the channels the University requires.
 
@@ -36,7 +39,7 @@ I will make sure to publicize it through the channels the University requires.
 computing work as a PhD student because you're trying to take down a
 patent troll, I've [put all that stuff on
 GitHub](https://github.com/armandofox/glomop) and good luck to you.  I
-don't do any expert witness or expert consulting for IP cases, period.
+am not interested in any expert witness/consulting for IP cases, period.
 
 * Recruiter inquiries of any kind.  I'm not
 interested in leaving Berkeley, consulting, working in industry, or
