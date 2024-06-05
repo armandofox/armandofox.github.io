@@ -14,11 +14,7 @@ jazz improv, etc.) but I play others too.
 
 # Shows I'm Working On Now or Soon
 
-**Now playing:** [Pal
-Joey](bit.ly/paljoey2024) at Altarena
-Playhouse, Alameda, CA!
-[Review](https://alamedapost.com/features/arts/pal-joey-puts-on-a-show/)
-in the Alameda Post, and our teaser trailer below!
+**Now playing:** 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mZW_tJOzqNQ?si=eIo5Vor98oS3bHiK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
