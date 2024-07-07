@@ -21,7 +21,7 @@ science textbook written by a music director
 ([saasbook.info](www.saasbook.info)).  By day he is a
 computer science professor at UC Berkeley.
 
-## Full Bio
+### Full Bio
 
 Armando Fox is a classically trained (since age 5) pianist who
 completed pre-conservatory training at the Mannes College of Music,
@@ -49,3 +49,15 @@ band *[Disposable Pop](http://disposablepop.com/); *his previous cover
 bands, including *Spoon *and *More at Eleven, *have been finalists in
 MIT's Battle of the Bands, surely a distinction far more prestigious
 than the Grammy Awards. 
+
+### Generic short bio
+
+Armando Fox is a classically trained (since age 5) pianist who
+completed pre-conservatory training at the Mannes College of Music,
+New York (now part of the New School), where he studied piano
+performance with [Michael
+Boriskin](https://www.facebook.com/MichaelBoriskin/) and others as
+well as music theory, ear training, ensemble performance, choir,
+arranging... the whole enchilada. He grew up in New York City and loves
+musicals; he's Music Directed about thirty of them, including several 
+original orchestrations or reductions for both classic and new works.
