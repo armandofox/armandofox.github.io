@@ -14,11 +14,6 @@ jazz improv, etc.) but I play others too.
 
 # Shows I'm Working On Now or Soon
 
-**Now playing:** 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mZW_tJOzqNQ?si=eIo5Vor98oS3bHiK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
 **Returning in August 2024:** [Cantos de Mi
 Tierra](cantosdemitierra.com), an all-Spanish-language cabaret, 
 is better than ever and [coming to Feinstein's at the
@@ -60,7 +55,8 @@ various theaters is summarized in my open-source [Small Theater Growth & Develo
 
 # Musical Direction Credits (* = original orchestration or reduction)
 
-1. \* Pal Joey (Altarena Playhouse, dir. Laura Morgan), Mar/Apr 2024
+1. \* Fiddler On the Roof (Contra Costa Civic Theatre, dir. Joel Roster), June 2025
+1. \* Pal Joey (Altarena Playhouse, dir. Laura Morgan), Mar/Apr 2024.  [Trailer](https://youtu.be/mZW_tJOzqNQ)
 1. Sondheim On Sondheim (Contra Costa Civic Theatre, dir. Marilyn Langbehn), Aug/Sep 2023
 1. Ruthless! The Musical (Altarena Playhouse, dir. Dana Anderson), Mar/Apr 2023
 1. Camelot (Contra Costa Civic Theatre, dir. Diana Trotter), Sep/Oct 2022
