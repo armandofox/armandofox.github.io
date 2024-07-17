@@ -68,8 +68,11 @@ are people in the Writing Program that can help, but pay for personal
 assistance if necessary. Note that I'm not suggesting you have someone
 write the PS for you! The content and voice must be your own (and if
 you are subsequently interviewed, it will be immediately obvious if
-they aren't). Style, grammar, and spelling checks should be the *last
-step* after the content is finalized. 
+they aren't).  This applies to using LLMs as well: when I talk to a
+student on the phone or in person, it becomes **obvious within 30
+seconds** if they have been using an LLM to write their essays,
+statements, etc.  Use these tools to identify and correct specific
+errors of style, grammar, or spelling--not to rewrite your text.
 
 **3. Don't fawn; contribute.** Avoid gushing sentences such as "It has
 always been my dream to attend school X, work with professor Y, etc."
