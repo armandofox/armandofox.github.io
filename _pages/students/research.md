@@ -54,11 +54,12 @@ Obviously it depends on the project, but ***it's good to be comfortable with a 
 
 **DO** focus on your interests, work, and planned contributions, in 1-2 (max) pages:
 
-* What is your main research interest, and in particular, what aspect of it do you see as a concrete topic for {REU|MS-thesis|etc.} work?
+* What is your main research interest, and in particular, what aspect
+of it do you see as a concrete topic for your REU, MS thesis, etc.?
 
-* Why are you interestd in that topic/problem?  (this is the part where you can bring in relevant elements of your back story, the things that differentiate you from other applicants, even if those other applicants had similar research interest and overall similar background) 
+* Why are you interested in that topic/problem?  (this is the part where you can bring in relevant elements of your back story, the things that differentiate you from other applicants, even if those other applicants had similar research interest and overall similar background) 
 
-* How do you think your work could change Berkeley/CS/education/etc if it succeeds?  (or: what would "success" look like, thinking beyond the boundaries of the project itself and even of berkeley?)
+* How do you think your work could change Berkeley/CS/education/etc if it succeeds?  (or: what would "success" look like, thinking beyond the boundaries of the project itself and even of Berkeley?)
 
 
 **DON'T** tell your life story.  I hate to be blunt but nobody has the
@@ -69,9 +70,11 @@ your research interests/goals/etc.
 the research, but remember the overall statement is _about the
 research, not you_.  
 
-# What if there's a separate personal statement?
+# What about the personal statement?
 
-Your personal statement should focus on what it is about your life
+Your personal statement is important and should be taken seriously.
+(It is taken seriously by grad app readers here, for sure.)
+It should focus on what it is about your life
 experience that you can bring to the
 institution, to your fellow students, co-workers, etc.
 
@@ -103,7 +106,7 @@ been my dream to work with researchers Y and Z at your institution.)
 
 
 I think the work of Researchers Y and Z is
-{groundbreaking|relevant|etc.} because [...].  In fact I believe I
+(groundbreaking, relevant, etc.) because [...].  In fact I believe I
 could contribute to and further their agendas by [...], and I hope to
 learn from their students and them so I can pursue this promising
 avenue of work.
