@@ -20,6 +20,8 @@ is better than ever and [coming to Feinstein's at the
 Nikko](https://www.feinsteinssf.com/event-details/13644233/cantos-de-mi-tierra/)
 on August 17!  Tickets on sale now!
 
+**November-December 2024:** Cabaret at [Theatre Rhinoceros](therhino.org)
+
 Here's a [short clip](https://www.youtube.com/watch?v=N2782zx_LKw)
 from our original show at Martuni's...
 
@@ -56,6 +58,7 @@ various theaters is summarized in my open-source [Small Theater Growth & Develo
 # Musical Direction Credits (* = original orchestration or reduction)
 
 1. \* Fiddler On the Roof (Contra Costa Civic Theatre, dir. Joel Roster), June 2025
+1. Cabaret (Theatre Rhinoceros, dir. John Fisher), Nov/Dec 2024
 1. \* Pal Joey (Altarena Playhouse, dir. Laura Morgan), Mar/Apr 2024.  [Trailer](https://youtu.be/mZW_tJOzqNQ)
 1. Sondheim On Sondheim (Contra Costa Civic Theatre, dir. Marilyn Langbehn), Aug/Sep 2023
 1. Ruthless! The Musical (Altarena Playhouse, dir. Dana Anderson), Mar/Apr 2023
