@@ -19,11 +19,15 @@ Tierra](cantosdemitierra.com), an all-Spanish-language cabaret,
 is better than ever and [coming to Feinstein's at the
 Nikko](https://www.feinsteinssf.com/event-details/13644233/cantos-de-mi-tierra/)
 on August 17!  Tickets on sale now!
+(Here's a [short clip](https://www.youtube.com/watch?v=N2782zx_LKw)
+from our original show at Martuni's...but now we also have a great
+percussionist and bassist, for a way bigger and funkier sound!)
 
-**November-December 2024:** Cabaret at [Theatre Rhinoceros](therhino.org)
 
-Here's a [short clip](https://www.youtube.com/watch?v=N2782zx_LKw)
-from our original show at Martuni's...
+**November-December 2024:** Cabaret at [Theatre
+Rhinoceros](therhino.org), directed by John Fisher.  A unique
+black-box production of the legendary musical, in The Rhino's intimate
+space in the Castro!
 
 See below for shows I've worked on recently.
 
