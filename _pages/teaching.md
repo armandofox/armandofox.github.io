@@ -5,6 +5,18 @@ type: page
 layout: single
 ---
 
+**Fall 2024:**
+
+- [CS 375](https://cs375.org): Teaching Techniques for CS.  Pedagogy,
+classroom climate, DEIBJ, and in general being a successful student teacher.
+
+- [CS 194-244/CS 294-244](eecs.link/star): STAR Assessments for Mastery Learning.
+Student teams will develop competency-specific, rich, interactive,
+randomizable assessments that address EECS curriculum, and learn to
+rigorously evaluate them using the methods of HCI and the learning sciences.
+
+- Independent study: CS199-15 (11537), CS299-17 (11235), CS399-7 (13708), CS399-65 (13740)
+
 **Spring 2024:**
 
 - [CS 169L](https://cs169L.cs169.org): Software Engineering Team

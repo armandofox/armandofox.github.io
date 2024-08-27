@@ -10,13 +10,13 @@ sidebar:
 
 **Desk:** 581 Soda Hall
 
-**Phone:**  No. Please email to setup a time to talk.
+**Phone:**  No. Please email to setup a time to talk.  :-)
 
 **Email:** my last name at berkeley dot edu
 
 **ORCID:** 0000-0002-6096-4931
 
-**Open office hours (Fall 2024)**: TBD
+**Office hours (Fall 2024)**: By appointment
 
 **[PGP public key](/contact/pgp)**
 
