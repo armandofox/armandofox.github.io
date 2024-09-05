@@ -24,11 +24,11 @@ Rhinoceros](therhino.org)!  It's my latest [musical theater endeavor](/music-the
 
 * I regularly teach [CS169A Intro to Software Engineering](cs169a.cs169.org) (and the accompanying [CS169L project course](cs169l.cs169.org)), CS375 [Teaching Techniques for CS](cs375.org), and sometimes the freshman seminar [Our Digital Quandary](digitalquandary.org), exploring issues at the intersection of computer science and society.
 
-# News
+# Things
 
-* March 20, 2024: Cantos de Mi Tierra, the all-Spanish-language
+* August 17, 2024: [Cantos de Mi Tierra](cantosdemitierra.com), the all-Spanish-language
 cabaret featuring everything from traditional/folk to modern/pop music
-of the Hispanic diaspora, is [coming to Martuni's this summer!](https://www.feinsteinssf.com/event-details/13644233/cantos-de-mi-tierra/)
+of the Hispanic diaspora, had a great gig at Feinstein's At the Nikko!
 
 * December 1, 2023: Great overview of Dan Garcia's and my efforts on
 mastery learning in the [Berkeley Engineering
