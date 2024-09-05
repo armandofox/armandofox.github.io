@@ -49,7 +49,7 @@ breadcrumbs: true
 defaults:
   - scope:
       path: ""
-      type: posts
+      type: posts, pages
       sidebar:
         - title: "Travel"
           image: /assets/img/piano.jpg
