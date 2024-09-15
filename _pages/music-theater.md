@@ -21,7 +21,7 @@ jazz improv, etc.) but I play others too.
   </style>
   <div id="mc_embed_signup">
     <form action="https://a1patronsystems.us1.list-manage.com/subscribe/post?u=ac0c02bca107a1776e7a81bd0&amp;id=9f0e34e753&amp;f_id=00c6fde5f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self" novalidate="">
-      <div id="mc_embed_signup_scroll"><h2>Get occasional emails to see shows with me or hear about shows I'm working on!</h2>
+      <div id="mc_embed_signup_scroll"><h4>Get occasional emails to see shows with me or hear about shows I'm working on!</h4>
         <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
         <div class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""></div><div class="mc-field-group"><label for="mce-FNAME">Name, stage name, AKA...<span class="asterisk">*</span></label><input type="text" name="FNAME" class="required text" id="mce-FNAME" required="" value=""></div>
         <div id="mce-responses" class="clear foot">
