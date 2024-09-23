@@ -46,24 +46,23 @@ jazz improv, etc.) but I play others too.
 
 # Shows I'm Working On Now or Soon
 
-**Returning in August 2024:** [Cantos de Mi
+**November-December 2024:** Cabaret at [Theatre
+Rhinoceros](therhino.org), directed by John Fisher.  A unique
+black-box production of the legendary musical, in The Rhino's intimate
+space in the Castro!
+
+**August 2024:** [Cantos de Mi
 Tierra](cantosdemitierra.com), an all-Spanish-language cabaret ranging
 from traditional songs of Latin America to crossover artists like
 Shakira and Marc Anthony, 
 recently [performed at Feinstein's At the
 Nikko](https://www.youtube.com/watch?v=ttsPDhWGliQ)!  Join our
-mailinglist or follow the F***book group for upcoming gig announcements...
+mailinglist or follow the F***book group for upcoming gig
+announcements or to book us!
 
-on August 17!  Tickets on sale now!
 (Here's a [short clip](https://www.youtube.com/watch?v=N2782zx_LKw)
 from our original show at Martuni's...but now we also have a great
 percussionist and bassist, for a way bigger and funkier sound!)
-
-
-**November-December 2024:** Cabaret at [Theatre
-Rhinoceros](therhino.org), directed by John Fisher.  A unique
-black-box production of the legendary musical, in The Rhino's intimate
-space in the Castro!
 
 See below for shows I've worked on recently.
 
