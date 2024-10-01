@@ -141,6 +141,16 @@ toc_label: "Quote categories"
   <dd>Erasmus
   </dd>
 
+  <dt>
+  There is no limit to the amount of nonsense you can think, if you
+  think too long alone.
+  </dt>
+  <dd>
+  Canadian economist Jacob Viner, quoted in <i>The 'Cost Disease' in
+  Higher Education: Is Technology the Answer?</i>, William G. Bowen,
+  The Tanner Lectures at Stanford University, October 2012
+  </dd>
+
   <dt>A person who won't read has no advantage over one who can't read. 
   </dt>
   <dd>Mark Twain
