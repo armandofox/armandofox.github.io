@@ -46,29 +46,24 @@ jazz improv, etc.) but I play others too.
 
 # Shows I'm Working On Now or Soon
 
+**November 2024:**  [Cantos de Mi
+Tierra](cabaretlatinocantosdemitierra.com), an all-Spanish-language cabaret ranging
+from traditional songs of Latin America to crossover artists like
+Shakira and Marc Anthony, will be playing at UC
+Berkeley on November 13 and Martuni's in SF on November 16! Ticket
+links coming soon.  See clips of our recent  [show at Feinstein's At the
+Nikko](https://www.youtube.com/watch?v=ttsPDhWGliQ).
+
 **November-December 2024:** Cabaret at [Theatre
 Rhinoceros](therhino.org), directed by John Fisher.  A unique
 black-box production of the legendary musical, in The Rhino's intimate
 space in the Castro!
 
-**August 2024:** [Cantos de Mi
-Tierra](cantosdemitierra.com), an all-Spanish-language cabaret ranging
-from traditional songs of Latin America to crossover artists like
-Shakira and Marc Anthony, 
-recently [performed at Feinstein's At the
-Nikko](https://www.youtube.com/watch?v=ttsPDhWGliQ)!  Join our
-mailinglist or follow the F***book group for upcoming gig
-announcements or to book us!
-
-(Here's a [short clip](https://www.youtube.com/watch?v=N2782zx_LKw)
-from our original show at Martuni's...but now we also have a great
-percussionist and bassist, for a way bigger and funkier sound!)
-
 See below for shows I've worked on recently.
 
 # Ways I support local theater
 
-[Here's a list]({% link
+[Here's a list]({% linko
 _pages/music-theater/theaters.md %}) of theaters in the Bay Area I frequent
 and/or subscribe to.
 

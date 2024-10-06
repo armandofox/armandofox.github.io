@@ -19,10 +19,12 @@ main:
 students:
   - title: "Undergrad Advising"
     url: /students/advising
-  - title: "Recommendation Letters"
-    url: /students/letters
   - title: "Undergrad Research"
     url: /students/research
+  - title: "Grad School"
+    url: /students/gradapp
+  - title: "Recommendation Letters"
+    url: /students/letters
   - title: "Advice on..."
     children:
     - title: "Individual Projects"

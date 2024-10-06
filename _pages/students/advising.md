@@ -79,49 +79,10 @@ Berkeley is one of the world's leading universities in terms of spinning off sta
 # Grad school
 
 
-Thinking of grad school? Advice we'll cover includes:
+Thinking of grad school?  [Here's an outline]({ link
+_pages/student/gradapp.md }) of points we'll discuss
+in more detail and specific to your situation in advising.
 
--   Apply broadly, as grad school admissions are v ery competitive; "hot" fields like machine learning and data science may be harder to get into. Don't limit yourself to the "usual subjects" list of top schools: talk to professors and grad students working in your areas of interest to find out which programs are strong in that area---you'll be surprised.
--   Have you tried research? If not, why do you think grad school is
-the right thing? And you can always work for a couple of years and
-then decide to go back (that's what I did). Grad school is an intense
-5-year monastic experience that is nothing like undergrad. It's more a
-calling than a thing you do. You really want to be sure that this
-interests you, as opposed to doing it "by default".
-
-**What do faculty look for when reading PhD admissions letters?**
-
-The following is only lightly edited from what we discuss in PhD
-admissions meeting each year:
-
-"Look for strong PhD potential evidenced by, among other things:
-* glowing letter 
-* existing research record relative to opportunities
-* GPA / class ranks / chose tough courses
-* **well articulated research interests**
-* achieving a lot relative to context/opportunity
-* communication skills (essay, interview)
-* will be able to TA
-* contributor to community (lab, dept, broader community)"
-
-
-## 5th year MS
-
-This program is a great opportunity for EECS undergrads, but you will be expected to work on some research and you need a faculty champion who will agree at application time to be your advisor if you're admitted. I and many other faculty will only do this if we have already worked with you for at least a semester prior to your application process.
-
-In practice, 3.5 GPA is approximate cutoff for 5yr MS; 3.75 is not uncommon. The program is very popular and EECS is trying to grow it.  
-
-## Teaching-focused 5th year MS
-
-If you are focusing on teaching and/or CS education, there are some extra slots available in those areas, assuming your potential advisor works in this area and would be willing to supervise your MS work in this area.  In other areas, GSI support for 5th year MS students is by petition only---otherwise your advisor is expected to provide GSR support if possible.
-
-You must finish by end of spring term the following year, so assume you'll be starting work during the summer before your 5th year, or you may find it tough to get in all the coursework and the research in Fall+Spring only.
-
-## Masters in Engineering (MEng)
-
-This program has a 7%-20% admit rate, 12% averaged across areas (comparable in competitiveness to PhD admissions!) and demand is nearly doubling every year for admission to EECS MEng. EECS is investigating how to grow the program.
-
-If admitted, you'll take 6 units of leadership-related courses from the Fung Institute, 6 units of graduate-level EECS courses, and a 5-unit capstone/integration project.
 
 # Follow-up advising
 
