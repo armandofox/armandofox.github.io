@@ -63,8 +63,7 @@ See below for shows I've worked on recently.
 
 # Ways I support local theater
 
-[Here's a list]({% linko
-_pages/music-theater/theaters.md %}) of theaters in the Bay Area I frequent
+[Here's a list]({% link _pages/music-theater/theaters.md %}) of theaters in the Bay Area I frequent
 and/or subscribe to.
 
 <img class="embed-left" align="right" src="https://images-na.ssl-images-amazon.com/images/I/512Xr2Mb7dL._SX331_BO1,204,203,200_.jpg">
