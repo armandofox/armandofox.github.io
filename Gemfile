@@ -20,9 +20,9 @@ gem "minima", "~> 2.0"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "github-pages", "~> 215"
+  gem "github-pages"
   gem "jekyll-include-cache"
-  gem "jekyll-feed", "~> 0.6"
+  gem "jekyll-feed"
 end
 
 # kramdown v2 ships without the gfm parser by default. If you're using
