@@ -15,8 +15,43 @@ A paper is worth reading if:
 -   Your advisor or a senior student you're working with recommends it.
 -   It appeared in a reputable venue (Your advisor or more senior students can help here.) There are a lot of second-rate venues; papers in those venues may be methodologically valid, but irrelevant (unlikely to have impact on the field, or incremental compared to previous work) or non-novel (barely different from something already done, but 2nd-rate committee members may not know the field well enough to be aware of that during reviewing).
 
+How to find papers beyond those specifically being recommended to you?
+
+* Use Google Scholar (not general Google search; if your topic
+contains anything remotely like a buzzword, you'll just get a ton of
+SEO-driven crap) to search by keyword.  Being overly broad is OK at
+first, and sometimes as you narrow results, you'll discover other
+keywords (in titles, e.g.) that help your search.
+
+* If there are specific conferences that feature the type/topics
+you're interested in, the proceedings of most conferences are online
+and searchable.  You can browse the whole conference program, which is
+sometimes useful, since things like posters and work-in-progress
+papers do not always get published in the proceedings and might only
+be found on the conference program pages.
+
+* As you skim/read the papers (see advice below), make note of
+specific references in each paper that might be worth following up on.
+This is especially useful as you track down related work.
+
+* Try to make sure the paper has appeared in a reputable venue.  There
+are a few "write-only" venues that were set up because someone needed
+to add "Started a new conference series" to their CV, and their
+content tends to be low quality.  You can often tell by the
+affiliations of the people on the program committee.  If in doubt, ask
+your advisor.
+
 Pre-read: What, How, How Much, So What
 --------------------------------------
+
+**Take notes as you read.** You won't remember everything
+important. Really.
+
+**Prepare for focus.**  Not all papers are worth reading thoroughly,
+but those that are can be pretty dense.  **If at all possible, read
+the paper in one sitting** since it's hard to page it all back in
+later.  For some of you, long-form reading may be a return to an
+activity you don't do very often.  Fortunately, it builds character.
 
 Start by reading the abstract and conclusions. 
 
