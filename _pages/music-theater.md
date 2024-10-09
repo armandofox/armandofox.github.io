@@ -49,8 +49,8 @@ jazz improv, etc.) but I play others too.
 **November 2024:**  [Cantos de Mi
 Tierra](cabaretlatinocantosdemitierra.com), an all-Spanish-language cabaret ranging
 from traditional songs of Latin America to crossover artists like
-Shakira and Marc Anthony, will be playing at UC
-Berkeley on November 13 and Martuni's in SF on November 16! Ticket
+Shakira and Marc Anthony, will be playing at 
+Martuni's in SF on November 16! Ticket
 links coming soon.  See clips of our recent  [show at Feinstein's At the
 Nikko](https://www.youtube.com/watch?v=ttsPDhWGliQ).
 
