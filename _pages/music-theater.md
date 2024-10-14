@@ -21,14 +21,15 @@ jazz improv, etc.) but I play others too.
 Tierra](cabaretlatinocantosdemitierra.com), an all-Spanish-language cabaret ranging
 from traditional songs of Latin America to crossover artists like
 Shakira and Marc Anthony, will be playing at 
-Martuni's in SF on November 16! Ticket
-links coming soon.  See clips of our recent  [show at Feinstein's At the
+<!--  Martuni's in SF on November 16! Ticket links coming soon.   -->
+[UC Berkeley on November 13!](tickets4agoodcause.audience1st.com/store?show_id=76)
+See clips of our recent  [show at Feinstein's At the
 Nikko](https://www.youtube.com/watch?v=ttsPDhWGliQ).
 
 **November-December 2024:** Cabaret at [Theatre
-Rhinoceros](therhino.org), directed by John Fisher.  A unique
-black-box production of the legendary musical, in The Rhino's intimate
-space in the Castro!
+Rhinoceros](therhino.org), directed by John Fisher.  Sit at intimate
+cabaret tables at this tiny theater in the heart of the Castro, and
+you'll be in the midst of the action for this legendary musical!
 
 See below for shows I've worked on recently.
 
