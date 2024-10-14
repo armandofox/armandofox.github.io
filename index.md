@@ -37,6 +37,7 @@ Our
 [slides](https://docs.google.com/presentation/d/1St8trRG9a4n-BtMsmn_st8cDGvW1MvA_ycpW6QaUeIo/edit?usp=sharing)
 are also being posted on the Tapia website.
 
+* [News archive](/news-archive.md)
 
 # Media appearances, podcasts, etc.
 
@@ -56,3 +57,4 @@ Podcast hosted by Prof. Kristin Stephens-Martinez at Duke University.
 * [Healthcare.gov's rocky
 rollout](https://training.npr.org/sources/armando-fox/). NPR _On
 Point_ radio talk show, 2014.
+
