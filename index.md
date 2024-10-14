@@ -12,40 +12,31 @@ The menu above leads to more detail about my various activities, but in a nutshe
 
 * My current research focuses on CS education and technology-enhanced learning, at the intersection of pedagogy, human-computer interaction, and programming systems.
 
-* At the upcoming [Tapia Conference](tapiaconference.org),
-Audrey Sillers and Elise Dorough (staff directors of 
-student diversity at UC Berkeley EECS and U. Washington CS), Ed
-Lazowska (faculty, U. Washington CS), and I will be presenting our advice
-on **Faculty-Staff Collaboration and Continuity for Equitable Recruiting
-and Retention in CS graduate programs.**
+*  I regularly teach [CS169A Intro to Software Engineering](cs169a.cs169.org) (and the accompanying [CS169L project course](cs169l.cs169.org)), CS375 [Teaching Techniques for CS](cs375.org), and sometimes the freshman seminar [Our Digital Quandary](digitalquandary.org), exploring issues at the intersection of computer science and society.
 
-* I'm music director for [CABARET at Theatre
+# News...
+
+
+* October 2024: My Latino cabaret/cultural project, [Cantos de Mi
+Tierra](cabaretlatinocantosdemitierra.com), will be performing at [UC
+Berkeley on November
+13](https://tickets4agoodcause.audience1st.com/store?show_id=76) and
+at Martuni's in early 2025!
+
+* October 2024: I'm music director for [CABARET at Theatre
 Rhinoceros](therhino.org)!  It's my latest [musical theater endeavor](/music-theater).
 
-* I regularly teach [CS169A Intro to Software Engineering](cs169a.cs169.org) (and the accompanying [CS169L project course](cs169l.cs169.org)), CS375 [Teaching Techniques for CS](cs375.org), and sometimes the freshman seminar [Our Digital Quandary](digitalquandary.org), exploring issues at the intersection of computer science and society.
+* September 2024: At the recent [Tapia Conference](tapiaconference.org),
+Audrey Sillers and Elise Dorough (staff directors of 
+student diversity at UC Berkeley EECS and U. Washington CS), Ed
+Lazowska (faculty, U. Washington CS), and I presented our 
+[advice](https://tapiaconference.cmd-it.org/attend/presentation/?id=psub153&sess=sess147)
+on **Faculty-Staff Collaboration and Continuity for Equitable Recruiting
+and Retention in CS graduate programs.**
+Our
+[slides](https://docs.google.com/presentation/d/1St8trRG9a4n-BtMsmn_st8cDGvW1MvA_ycpW6QaUeIo/edit?usp=sharing)
+are also being posted on the Tapia website.
 
-# Things
-
-* August 17, 2024: [Cantos de Mi Tierra](cantosdemitierra.com), the all-Spanish-language
-cabaret featuring everything from traditional/folk to modern/pop music
-of the Hispanic diaspora, had a great gig at Feinstein's At the Nikko!
-
-* December 1, 2023: Great overview of Dan Garcia's and my efforts on
-mastery learning in the [Berkeley Engineering
-newsletter](https://engineering.berkeley.edu/news/2023/12/making-the-grade/).
-Also, this Inside Higher Ed [interview with VPUE Oliver
-O’Reilly](https://www.insidehighered.com/opinion/blogs/learning-innovation/2023/11/13/three-questions-uc-berkeleys-oliver-oreilly)
-discusses how computer-based testing and mastery learning can help
-provide better accommodations for students with disabilities and
-student athletes.
-
-* November 29, 2023: Thanks to my colleagues [Arash
-Pourhabibi](https://www.linkedin.com/in/arashpourhabibizarandi/) and
-[Saba Jamalian](https://www.linkedin.com/in/sabajamalian/), a new,
-free translation into Persian of [Engineering Software as a Service
-(ESaaS)](https://saasbook.info) is now available as a free PDF download!
-
-[News items from 202e and before]({% link news_archive.md %})
 
 # Media appearances, podcasts, etc.
 
