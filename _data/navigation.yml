@@ -43,7 +43,7 @@ students:
 
 music-theater:
   - title: "Music/Theater Bio"
-    url: /music-theater/music-bio
+    url: /music-theater/bio-music
   - title: "1-pager: Sondheim On Sondheim"
     url: /1p-sos
   - title: "1-pager: La Cage aux Folles"
