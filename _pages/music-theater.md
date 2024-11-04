@@ -17,14 +17,17 @@ jazz improv, etc.) but I play others too.
 
 # Shows I'm Working On Now or Soon
 
+<!--
 **November 2024:**  [Cantos de Mi
 Tierra](cabaretlatinocantosdemitierra.com), an all-Spanish-language cabaret ranging
 from traditional songs of Latin America to crossover artists like
-Shakira and Marc Anthony, will be playing at 
-<!--  Martuni's in SF on November 16! Ticket links coming soon.   -->
-[UC Berkeley on November 13!](tickets4agoodcause.audience1st.com/store?show_id=76)
+Shakira and Marc Anthony, will be playing at ...
+
 See clips of our recent  [show at Feinstein's At the
 Nikko](https://www.youtube.com/watch?v=ttsPDhWGliQ).
+
+-->
+
 
 **November-December 2024:** Cabaret at [Theatre
 Rhinoceros](therhino.org), directed by John Fisher.  Sit at intimate
@@ -63,6 +66,7 @@ various theaters is summarized in my open-source [Small Theater Growth & Develo
 # Musical Direction Credits (* = original orchestration or reduction)
 
 1. \* Fiddler On the Roof (Contra Costa Civic Theatre, dir. Joel Roster), June 2025
+1. Grease (Altarena Playhouse, dir. Jacquie Duckworth), Mar/Apr 2025
 1. Cabaret (Theatre Rhinoceros, dir. John Fisher), Nov/Dec 2024
 1. \* Pal Joey (Altarena Playhouse, dir. Laura Morgan), Mar/Apr 2024.  [Trailer](https://youtu.be/mZW_tJOzqNQ)
 1. Sondheim On Sondheim (Contra Costa Civic Theatre, dir. Marilyn Langbehn), Aug/Sep 2023
