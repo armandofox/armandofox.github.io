@@ -12,27 +12,51 @@ layout: single
 The first question to ask yourself is _why grad school_, which is
 related to the second question, _which kind of grad school_.
 
-As far as CS grad programs, there are basically three kinds:
+As far as CS grad programs, there are basically three kinds: 
 
 * "Research-oriented" masters, including the Berkeley CS 5th year MS, where a key part of the program is to
-produce some publishable original research. In practice, I set the bar
-at "something we'd feel comfortable submitting to a high quality
+produce some publishable original research;
+"Professional" masters programs, which focus on advanced coursework,
+(usually) a capstone design project that does not necessarily
+represent original research, possibly combined with
+leadership/communication/business courses; and PhD programs.
+
+# Masters programs at Berkeley: 5th year MS, M.Eng.
+
+For 5th year MS (only available to our own undergraduates), 
+in practice, I set the bar for research
+to "something we'd feel comfortable submitting to a high quality
 conference or workshop" (even if it is not accepted).  Others'
-policies may vary.  The 5th year MSCS at Berkeley is an example.
-Berkeley CS takes very very few "external" terminal MS students.
+policies may vary. 
+Berkeley CS takes very very few terminal MS students outside of the
+5th year MS.
 This program is a great opportunity for EECS undergrads, but you will
 be expected to work on some research and you need a faculty champion
 who will agree at application time to be your advisor if you're
-admitted. I and many other faculty will only do this if we have
-already worked with you for at least a semester prior to your
-application process. 
-In practice, 3.5 GPA is approximate cutoff for 5yr MS; 3.75 is not uncommon.
+admitted. 
+
+Note that your SOP and faculty advisor letter are expected to clearly
+demonstrate (a) an *existing* research relationship that is already
+in progress and going well, and (b) a clear plan for what
+*specifically* will be accomplished during the 5yr MS "continuation"
+of the project.
+
+General requirements for 5yr MS: >=10 units of grad-level EECS
+courses, >=8 units 100/200 level non-EECS courses, >=24 units total.
+
+There is no hard GPA cutoff, but averages of >=3.7 are not uncommon.
 
 * "Professional" masters, focused on advanced coursework, possibly a
 capstone project, and often a shared emphasis with
 leadership/entrepreneurship skills.  The Berkeley M.Eng. program
 (7%-20% admit rate, comparable in competitiveness to PhD admissions!) is a
-good example: you take 6 units of leadership-related courses from the Fung Institute, 6 units of graduate-level EECS courses, and a 5-unit capstone/integration project.
+good example: 
+you take 8 units of leadership-related courses from the Fung
+Institute, 12 units of graduate-level EECS courses, and a 5-unit
+capstone/integration project.
+
+# Masters programs outside Berkeley
+
 Stanford has a terminal MS as well, though I'm not sure
 if it emphasizes professional leadership as much as the M.Eng. does.
 Georgia Tech has an excellent and very affordable online MSCS, which
@@ -40,19 +64,23 @@ leads to the same degree as their on-campus MSCS; it includes advanced
 courses with projects, but again, I'm not sure how much emphasis on
 professional leadership.
 
-* PhD programs, where you commit to spending the next 4-5 years of
+# PhD (doctoral) programs
+
+In a PhD program,  you commit to spending the next 4-5 years of
 your life producing a significant piece of research (typically several
 papers' worth) that advances the field in some fundamental way.  This is an intense
-5-year monastic experience that is nothing like undergrad. It's more a
+5-year monastic experience that is nothing like being an undergrad. It's more a
 calling than a thing you do. You really want to be sure that this
 interests you, as opposed to doing it "by default".
 
 I would be cautious about applying to PhD programs if you have no
 experience doing research: some people love it, some hate it, and if
-you hate it, it's going to be a long 5 years since that is all you
+you don't love it, it's going to be a long 5 years since that is all you
 will do.  The sooner you [get involved in undergrad research]({ link
 _pages/students/research.md }) the sooner you'll know if this option
 is for you.
+
+# General advice on applying
 
 Whichever you do, apply broadly, as grad school admissions are very
 competitive; "hot" fields like AI and data science may
@@ -62,14 +90,14 @@ your areas of interest to find out which programs are strong in that
 area---you'll be surprised. 
 
 
-# You can always come back
+## You can always come back
 
 You can leave school, go to industry for a while, and come back later.
 That's what I did.  That way you really know if it's what you want to
 do.  You can leave with a BS or MS and if you get good letters from an
 employer, you certainly won't be in a _weaker_ position to apply!
 
-# If you really love teaching
+## If you really love teaching
 
 If you're considering a teaching focused career, *most* college level teaching
 positions require (or strongly advise) a Masters but not usually a
@@ -82,23 +110,8 @@ practice credentials.
 **The 5th year MS is a great pathway to try out research (stepping
 stone to PhD applications), for industry, or to pursue a teaching position.**
 
-# What matters for PhD applications?
 
-The following is only lightly edited from the rubric used in Berkeley CS PhD
-admissions meetings each year:
-
-"Look for strong PhD potential evidenced by, among other things:
-* glowing letter 
-* existing research record relative to opportunities available to them
-* GPA / academic performance / chose tough courses
-* **well articulated research interests**
-* achieving a lot relative to context/opportunity
-* communication skills (essay, interview)
-* will be able to TA
-* contributor to community (lab, dept, broader community)"
-
-
-# What matters for grad school applications?
+## What matters for grad school applications in generall?
 
 * GPA is important but mostly to be above a "soft" threshold that's
 probably in the 3.7 range.
@@ -121,7 +134,23 @@ a plausible project.
 achievements and (importantly) can give a sense of what else you can
 bring to your cohort of fellow students besides academic ability.
 
-#  Using LLMs to write your statements
+
+## What matters for PhD applications?
+
+The following is only lightly edited from the rubric used in Berkeley CS PhD
+admissions meetings each year:
+
+"Look for strong PhD potential evidenced by, among other things:
+* glowing letter 
+* existing research record relative to opportunities available to them
+* GPA / academic performance / chose tough courses
+* **well articulated research interests**
+* achieving a lot relative to context/opportunity
+* communication skills (essay, interview)
+* will be able to TA
+* contributor to community (lab, dept, broader community)"
+
+##  Using LLMs to write your statements?
 
 Don't do it.  Almost every strong PhD program at some point includes a
 personal interview with one or more faculty and/or current grad
