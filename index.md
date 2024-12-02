@@ -17,14 +17,20 @@ The menu above leads to more detail about my various activities, but in a nutshe
 # News...
 
 
+* December 2024: Our production of [CABARET at Theatre
+Rhinoceros](therhino.org) has great reviews
+from
+[Theatrestorm](https://theatrestorm.com/2024/11/26/review-cabaret-at-theatre-rhinoceros/)
+and
+[Theatrius](https://theatrius.com/2024/11/29/cabaret-roars-a-magnificent-prophetic-growl-at-rhino/).
+**Now extended through 12/29** due to overwhelming demand--the original run was
+basically sold out by opening night, so don't delay in [getting tickets](https://therhino.audience1st.com/store?show_id=112)!
+
 * October 2024: My Latino cabaret/cultural project, [Cantos de Mi
 Tierra](cabaretlatinocantosdemitierra.com), will be performing at [UC
 Berkeley on November
 13](https://tickets4agoodcause.audience1st.com/store?show_id=76) and
 at Martuni's in early 2025!
-
-* October 2024: I'm music director for [CABARET at Theatre
-Rhinoceros](therhino.org)!  It's my latest [musical theater endeavor](/music-theater).
 
 * September 2024: At the recent [Tapia Conference](tapiaconference.org),
 Audrey Sillers and Elise Dorough (staff directors of 
