@@ -23,8 +23,10 @@ See below for shows I've worked on recently.
 
 # Ways I support local theater
 
-[Here's a list]({% link _pages/music-theater/theaters.md %}) of theaters in the Bay Area I frequent
-and/or subscribe to.
+- I see lots of shows. [Here's a list]({% link
+_pages/music-theater/theaters.md %}) of theaters in the Bay Area I
+frequent and/or subscribe to.  Join my email list (at right) if you
+want to come with me!
 
 -   I hope the advice in my book [Piano/Conductor: So They Talked You
 Into Being Music Director](http://pianoconductor.com/)  will be useful
