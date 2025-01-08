@@ -56,6 +56,18 @@ toc_label: "Quote categories"
   other forms that have been tried.</dt>
   <dd>Winston Churchill, though he attributed it to someone else</dd>
   
+  <dt>
+  As democracy is perfected, the office of president represents, more
+  and more closely, the inner soul of the people. On some great and
+  glorious day the plain folks of the land will reach their heart's
+  desire at last and the White House will be adorned by a downright
+  moron. 
+  </dt>
+  <dd>
+  H.L. Mencken
+  </dd>
+
+
   <dt>When one hears about acts of extraordinary bravery in combat, it is
     usually a sign that the battle has not been going terribly well. For
     when wars unfold according to plan and one's own side is winning, acts

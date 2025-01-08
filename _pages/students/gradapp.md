@@ -46,14 +46,19 @@ courses, >=8 units 100/200 level non-EECS courses, >=24 units total.
 
 There is no hard GPA cutoff, but averages of >=3.7 are not uncommon.
 
-* "Professional" masters, focused on advanced coursework, possibly a
+"Professional" masters programs focus on advanced coursework, possibly a
 capstone project, and often a shared emphasis with
 leadership/entrepreneurship skills.  The Berkeley M.Eng. program
 (7%-20% admit rate, comparable in competitiveness to PhD admissions!) is a
 good example: 
 you take 8 units of leadership-related courses from the Fung
 Institute, 12 units of graduate-level EECS courses, and a 5-unit
-capstone/integration project.
+capstone/integration project, all accompanied by "concierge level"
+career services. 
+
+Recently, 8 MEng alumni were featured in  Forbes "30 under 30" list,
+and 50+ companies have been founded by 10 graduates.  See the Fung
+Institute web site for more stats and details.
 
 # Masters programs outside Berkeley
 
@@ -63,6 +68,9 @@ Georgia Tech has an excellent and very affordable online MSCS, which
 leads to the same degree as their on-campus MSCS; it includes advanced
 courses with projects, but again, I'm not sure how much emphasis on
 professional leadership.
+
+Other comparable professional Masters programs: Stanford, CMU, UCLA,
+Columbia, Michigan. 
 
 # PhD (doctoral) programs
 

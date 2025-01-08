@@ -14,25 +14,10 @@ jazz improv, etc.) but I play others too.
 
 {% include_relative mailchimp_float_right.html %}
 
-
 # Shows I'm Working On Now or Soon
 
-<!--
-**November 2024:**  [Cantos de Mi
-Tierra](cabaretlatinocantosdemitierra.com), an all-Spanish-language cabaret ranging
-from traditional songs of Latin America to crossover artists like
-Shakira and Marc Anthony, will be playing at ...
-
-See clips of our recent  [show at Feinstein's At the
-Nikko](https://www.youtube.com/watch?v=ttsPDhWGliQ).
-
--->
-
-
-**November-December 2024:** Cabaret at [Theatre
-Rhinoceros](therhino.org), directed by John Fisher.  Sit at intimate
-cabaret tables at this tiny theater in the heart of the Castro, and
-you'll be in the midst of the action for this legendary musical!
+**March-April 2025:** Grease at [Altarena Playhouse](altarena.org),
+directed by Jacquie Duckworth, choreography by Shelly McDowell.
 
 See below for shows I've worked on recently.
 
@@ -41,19 +26,20 @@ See below for shows I've worked on recently.
 [Here's a list]({% link _pages/music-theater/theaters.md %}) of theaters in the Bay Area I frequent
 and/or subscribe to.
 
-<img class="embed-left" align="right" src="https://images-na.ssl-images-amazon.com/images/I/512Xr2Mb7dL._SX331_BO1,204,203,200_.jpg">
-
 -   I hope the advice in my book [Piano/Conductor: So They Talked You
 Into Being Music Director](http://pianoconductor.com/)  will be useful
 to  both new and experienced Music Directors. The link is to purchase
 hardcopy on Amazon, but you can [download the
 PDF](/assets/pdf/pianoconductor.pdf) for free.
-
--   If you're a musical theater actor but not a pianist/MD, you may
+If you're a musical theater actor but not a pianist/MD, you may
 find helpful this
 [subset of chapters](/assets/pdf/pianoconductor-actor-chapters.pdf)
 focusing on how the MD works with performers on both the technical and
 dramatic aspects of performing theater music.
+
+
+![](/assets/img/music-theater/pianoconductor.png){:.align-right}
+
 
 -   I maintain [Audience1st](https://www.audience1st.com/), the
 open-source ticketing/subscription/donation management/CRM for small

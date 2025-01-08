@@ -8,7 +8,7 @@ sidebar:
 ---
 
 - My occasional [blog posts on computing
-history](/category/Tech+History)
+history](/category/Tech+history)
 - [Armando's Computer History
 Minute](https://drive.google.com/drive/folders/1PJXlREtCELxTGiLt0MCYDF-JS1jxLTxz?usp=sharing):
 a set of occasional 5-minute detours in computing history, which I
