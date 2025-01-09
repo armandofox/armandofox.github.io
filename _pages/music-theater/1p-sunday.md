@@ -50,12 +50,16 @@ placed next to each other on the canvas. Up close, any part of the
 painting looks like a random mess of different colored dots; the true
 colors and shapes only become apparent when you step back and let your
 eye do the color mixing.) The main characters in **Act II** are a
-young-to-middle-aged modern conceptual artist, George; his elderly
-grandmother Marie, who is the daughter of Dot; and George's coterie of
-collaborators, colleagues, and promoters. Marie claims that Dot was
-once Seurat's lover (and therefore George is Seurat's biological
-great-grandson) and that Dot was one of the models in the famous
-painting, a story young George has always been skeptical of. *In the
+young-to-middle-aged modern conceptual artist, George, played by the
+same actor who played Seurat in Act I; his elderly
+grandmother Marie, who is the daughter of Dot, played by the same
+actor who played Dot in Act I; and George's coterie of
+collaborators, colleagues, and promoters, played by the same actors
+who played Seurat's colleagues and the park-goers in the painting in
+Act I. Marie claims that Dot was
+once Seurat's lover, that this makes George the biological
+great-grandson of Seurat, and that Dot was one of the models in the famous
+painting.  George has always been skeptical of these claims.  *In the
 rest of this discussion, I will use "Seurat" to refer to Georges
 Seurat in Act I and "George" to refer to the younger contemporary
 artist of Act II.*
@@ -86,13 +90,95 @@ of this song.]
 
 
 The following Sunday, Seurat is again in the park sketching ordinary
-people on their day off (*Gossip/The Day Off). *While there he learns that Dot is pregnant with his child, but she is so frustrated at being ignored that she has left him for another lover, Louis the baker. Louis may not have Seurat's talent, intelligence, passion, or intensity, but he gives Dot the personal warmth she needs: "Louis makes a connection---that's the thing that you feel" (*Everybody Loves Louis).* Seurat, devastated, had hoped Dot would be *different* from other women: "I had thought she understood. They have never understood---and no reason that they should. But if anybody could..." (*Finishing the Hat), *analogous to how Dot told us in the opening number how she wished Seurat was *more like *other "normal" men*.* When Dot comes to the studio later to tell Seurat that she is leaving for America with Louis, Seurat tries in vain to explain that the same things that made her fall in love with him---his intensity, passion, creativity, devotion to his craft---also mean he cannot be the way she wants him to be: "You will not accept who I am. *I am what I do*." In his world, the most intimate gift he can give Dot isn't to take her out on dates, but to incorporate her into his art, the most important and personal thing in his life: "I care about this painting. ***You** **will be in this painting**." *But it's too late: Dot realizes that while Seurat is remarkable, she is missing what she needs to feel truly loved and happy (*We Do Not Belong Together)*. On his final visit to the park, George tries to connect with the one remaining person who cares about him, his elderly and faltering mother. She reassures him that the way he sees and reimagines the world in his paintings will make it always look beautiful to her, even though the real world is changing and becoming uglier (*Beautiful)*. Act I culminates in Seurat unveiling his masterpiece to us---the audience, the world---in a moment of theater that never fails to bring me to tears (*Sunday)*.
+people on their day off (*Gossip/The Day Off). *While there he learns
+that Dot is pregnant with his child, but she is so frustrated at being
+ignored that she has left him for another lover, Louis the
+baker. Louis may not have Seurat's talent, intelligence, passion, or
+intensity, but he gives Dot the personal warmth she needs:
+*"Louis makes a connection---that's the thing that you feel" (Everybody Loves
+Louis).* Seurat, devastated, had hoped Dot would be *different* from
+other women: *"I had thought she understood. They have never
+understood---and no reason that they should. But if anybody could..."*
+(*Finishing the Hat*), analogous to how Dot told us in the opening
+number how she wished Seurat was *more like* other "normal"
+men.  When Dot comes to the studio later to tell Seurat that she is
+leaving for America with Louis, Seurat tries in vain to explain that
+the same things that made her fall in love with him---his intensity,
+passion, creativity, devotion to his craft---also mean he cannot be
+the way she wants him to be: "You will not accept who I am. **I am what
+I do.**" 
+In his world, the most intimate gift he can give Dot isn't to
+take her out on dates, but to incorporate her into his art, the most
+important and personal thing in his life: "I care about this
+painting. **You will be in this painting**." But it's too late:
+Dot realizes that while Seurat is remarkable, she is missing what she
+needs to feel truly loved and happy (*We Do Not Belong Together)*. On
+his final visit to the park, George tries to connect with the one
+remaining person who cares about him, his elderly and faltering
+mother. She reassures him that the way he sees and reimagines the
+world in his paintings will make it always look beautiful to her, even
+though the real world is changing and becoming uglier
+(*Beautiful)*. Act I culminates in Seurat unveiling his masterpiece to
+us---the audience, the world---in a moment of theater that never fails
+to bring me to tears (*Sunday*). 
 
-**Act II **takes place in the present, starting with a reception in the gallery where Seurat's famous painting hangs. The characters in the painting open Act II by complaining about how uncomfortable it is to be frozen in this still life under bright lights (*It's Hot Up Here). *We then learn that the guest of honor at the reception is middle-aged conceptual artist George, whose latest color-and-light sculpture (*Chromolume #7), *"inspired by" the famous painting, is being unveiled. George is frustrated that his need to constantly raise money to finance his projects has put him into an artistic rut with nothing new to create (*Putting It Together*). George's wheelchair-bound grandmother, Marie, tries to comfort him and reminds him that her mother Dot (George's great-grandmother) was the secret lover of Georges Seurat and was one of the models for the famous painting, and that therefore George is actually Seurat's biological great-grandson. Marie's only proof of these claims is a child's lesson-book that belonged to her mother Dot and has comments about someone named "George" written in the margins. George has always been skeptical of this story and says those comments could refer to anyone named George. Marie doesn't understand why George is so resistant to connecting with his family heritage, and encourages him to draw inspiration from the pluck of his great-grandmother Dot and how much Seurat must have loved her (*Children and Art*).
+**Act II** takes place in the present, starting with a reception in
+the gallery where Seurat's famous painting hangs. The characters in
+the painting open Act II by complaining about how uncomfortable it is
+to be frozen in this still life under bright lights (*It's Hot Up
+Here).* The guest of honor at the reception is
+middle-aged conceptual artist George, whose latest color-and-light
+sculpture (*Chromolume #7*), "inspired by" the famous painting, is
+being unveiled. George is frustrated that his need to constantly raise
+money to finance his projects (*Putting It Together*) has put him into an artistic rut
+with nothing new to create . George's
+wheelchair-bound grandmother, Marie, tries to comfort him and reminds
+him that her mother Dot (George's great-grandmother) was the secret
+lover of Georges Seurat and was one of the models for the famous
+painting, and that George, as Seurat's biological
+great-grandson, has the same artistic sensibility and potential.
+Marie's only proof of these claims is a child's
+lesson-book that belonged to her mother Dot and has comments about
+someone named "George" written in the margins. George has always been
+skeptical of this story and says those comments could refer to anyone
+named George. Marie doesn't understand why George is so resistant to
+connecting with his family heritage, and encourages him to draw
+inspiration from the pluck of his great-grandmother Dot and how much
+Seurat must have loved her (*Children and Art*). 
 
-During the reception we learn that George has been invited by the French government to bring the sculpture to France and give a presentation in the actual park on La Grand Jatte. The next scene finds George in that park, which has been turned into an ugly suburban development in modern-day Paris. George's grandmother Marie has since died, and he misses her, the only real personal connection he had left, just like Act I's Seurat eventually turned to his mother as the only real personal connection he had left. As George looks through the lesson-book handed down from his great-grandmother (*Lesson #8*), Dot appears to him, as in a vision, and explains that it was really hard for her (and for great-grandfather Seurat) to make such a large and difficult change they ultimately both knew was necessary. She comforts young George that he needs to believe in himself and not be afraid to take a leap of faith---even if he feels alone and in despair, what *he *brings with *his *voice as an artist is what will make something feel new: "Anything you do, let it come from you---Then it will be new. Give us more to see!" *(Move On)*. Newly reassured and inspired, George confronts (in the same vision) the original personages in the park who were part of the original painting, appreciating the bravery of Seurat in doing something new and the bravery of Dot in leaping into an unknown and difficult new life, and comes away with renewed determination to "move on" nourished by these examples, as the curtain falls (*Sunday, *reprise).
+During the reception we learn that George has been invited by the
+French government to bring the sculpture to France and give a
+presentation in the actual park on La Grand Jatte. The next scene
+finds George in that park, which has been turned into an ugly suburban
+development in modern-day Paris. George's grandmother Marie has since
+passed away, and he misses her--she was the only real personal connection he had
+left, just like Act I's Seurat eventually turned to his mother as the
+only real personal connection he had left. As George looks through the
+lesson-book handed down from his great-grandmother (*Lesson #8*), Dot
+appears to him, as in a vision, and explains that it was really hard
+for her (and for great-grandfather Seurat) to make such a large and
+difficult change they ultimately both knew was necessary. She comforts
+young George that he needs to believe in himself and not be afraid to
+take a leap of faith---even if he feels alone and in despair,
+*"we have always belonged together"*, and
+what *he *brings with *his *voice as an artist is what will make
+something feel new: *"Anything you do, let it come from you---then it
+will be new. Give us more to see!"* *(Move On)*. Newly reassured and
+inspired, George confronts (in the same vision) the 
+characters in the park who were part of the original painting, who bow
+to the artist (Seurat? George?) in 
+appreciation of his bravery in doing something new and the
+bravery of Dot in leaping into an unknown and difficult new life.
+George comes away with renewed determination to "move on" nourished by these
+examples, as the curtain falls (*Sunday* reprise). 
 
-*Note: Act I is not intended to be historical. While inspired by the real Seurat and his life, the other characters and events are fictional. Little is known about the real Seurat's life, but he really did have a mistress who bore him two children, which he tried to hide from his mother; he really did die in his thirties never having sold a painting; and he really did paint at night, possibly to avoid being spied on.*
+*Note: Act I is not intended to be historical. While inspired by the
+real Seurat and his life, the other characters and events are
+fictional. Little is known about the real Seurat's life, but he really
+did have a mistress who bore him two children, which he tried to hide
+from his mother; he really did die in his thirties never having sold a
+painting; and he really did paint at night, possibly to avoid being
+spied on.* 
 
 # Key Themes
 
@@ -104,7 +190,7 @@ During the reception we learn that George has been invited by the French govern
 
 > Finishing the hat.  --- How you have to finish the hat.<br/>
 > How you watch the rest of the world from a window, while you finish the hat...<br/>
-> And when the woman that you wanted goes, you can say to yourself "I gave all I could give."<br/>
+> And when the woman that you wanted goes, you can say to yourself "Well, I give what I give."<br/>
 > But the woman who won't wait for you knows that however you live, there's a part of you always standing by---<br/>
 > Mapping out a sky---<br/>
 > Finishing a hat.
@@ -160,7 +246,7 @@ Another moment comes during George's *Finishing the Hat, *when he openly admit
 > And when the woman that you wanted goes, you can say to yourself, "Well, I give what I give."<br/>
 > But the woman who won't wait for you knows that however you live, there's a part of you always standing by---<br/>
 > Mapping out a sky---<br/>
-> Finishing a hat.
+> Finishing a hat.<br/>
 
 In these and a few other moments, the musical sophistication of the rest of the score is temporarily set aside to allow the characters to sing out---in the truest musical theater tradition that when a character is no longer able to express their emotions in spoken dialogue, they turn to song.
 
@@ -169,7 +255,7 @@ And, of course, there is the huge build-up in the Act I finale as the characters
 > People strolling through the trees<br/>
 > Of a small suburban park<br/>
 > On an island in the river...<br/>
-> On an ordinary Sunday.
+> On an ordinary Sunday.<br/>
 
 The harmony under "On an ordinary" uses the clustered chords that have largely defined the score (and are hardly ordinary! Sondheim is a master of subtext) but reaches a triumphant resolution outlined by the forceful fanfare of B to G on the syllables "Sun-day", an inverted major third, which declares a G major chord unambiguously. In fact, by this point, we know that while perhaps the Sunday park scene and its characters may be "ordinary," the grueling and tortuous process by which the painting was painstakingly created is anything but. In the final notes of the Finale before the Act I curtain falls, a horn playing in its highest register restates the fanfare of "Sunday."
 
@@ -177,7 +263,7 @@ The harmony under "On an ordinary" uses the clustered chords that have largely d
 
 > It has no presence, no passion, no life.<br/>
 > It's neither pastoral nor lyrical---You don't suppose that it's satirical?<br/>
-> It's so mechanical, methodical---It might be in some dreary socialistic periodical...
+> It's so mechanical, methodical---It might be in some dreary socialistic periodical...<br/>
 
 What's fairly hilarious is that the music of the song is a parody of the lyrics: it is borderline-atonally structured to a wincing, almost academically dreary degree, a song that feels more *constructed *according to compositional rules than *composed *from an inspired melody and harmony. No life, indeed.
 
