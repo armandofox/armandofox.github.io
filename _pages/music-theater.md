@@ -19,6 +19,10 @@ jazz improv, etc.) but I play others too.
 **March-April 2025:** Grease at [Altarena Playhouse](altarena.org),
 directed by Jacquie Duckworth, choreography by Shelly McDowell.
 
+**June 2025:** Fiddler On the Roof at [Contra Costa Civic
+Theatre](ccct.org), directed by Joel Roster, choreography by Sharon
+Sobel Idul.
+
 See below for shows I've worked on recently.
 
 # Ways I support local theater
@@ -55,12 +59,12 @@ various theaters is summarized in my open-source [Small Theater Growth & Develo
 
 1. \* Fiddler On the Roof (Contra Costa Civic Theatre, dir. Joel Roster), June 2025
 1. Grease (Altarena Playhouse, dir. Jacquie Duckworth), Mar/Apr 2025
-1. Cabaret (Theatre Rhinoceros, dir. John Fisher), Nov/Dec 2024
+1. Cabaret (Theatre Rhinoceros, dir. John Fisher), Nov/Dec 2024.  **BATCC Nominee**{: .emph} Music Direction, Overall Production (houses <100 seats)
 1. \* Pal Joey (Altarena Playhouse, dir. Laura Morgan), Mar/Apr 2024.  [Trailer](https://youtu.be/mZW_tJOzqNQ)
 1. Sondheim On Sondheim (Contra Costa Civic Theatre, dir. Marilyn Langbehn), Aug/Sep 2023
 1. Ruthless! The Musical (Altarena Playhouse, dir. Dana Anderson), Mar/Apr 2023
 1. Camelot (Contra Costa Civic Theatre, dir. Diana Trotter), Sep/Oct 2022
-1. \* The Pajama Game (42nd Street Moon, dir. Becky Potter), **BATCC Finalist**{: .emph} Music Direction, May/June 2022
+1. \* The Pajama Game (42nd Street Moon, dir. Becky Potter), **BATCC Nominee**{: .emph} Music Direction, May/June 2022
 1. La Cage Aux Folles (Altarena Playhouse, dir. Noah Haydon), Mar/Apr 2022
 1.  ~~Sunday In the Park With George (Gatehouse Theatre,
 dir. Rachel Pospíšil), June/July 2020~~ _Cancelled due to COVID-19_
@@ -71,7 +75,7 @@ dir. Rachel Pospíšil), June/July 2020~~ _Cancelled due to COVID-19_
 Weible), **TBA Finalist **{: .emph} Music Direction, Direction, Best Musical, Best Ensemble, Jul/Aug 2017
 1.  \* Chess (Custom Made Theatre Co., dir. Brian Katz), **BATCC Winner**{: .emph} Music Direction, Ensemble, Best Overall (SF), Best Overall (entire Bay Area), Sep/Oct 2016
 1.  Next to Normal (Custom Made Theatre Co., dir. Brian Katz), **BATCC
-Finalist **{: .emph} Music Direction, Sep/Oct 2013
+Nominee **{: .emph} Music Direction, Sep/Oct 2013
 1.  Rent (Altarena Playhouse, dir. Stewart Lyle), Mar/Apr 2013
 1.  The Fantasticks (Altarena Playhouse, dir. Stewart Lyle), Oct/Nov 2012
 1. The 25th Annual Putnam County Spelling Bee (Altarena Playhouse, dir. Stewart Lyle), Mar/Apr 2011
