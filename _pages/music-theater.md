@@ -19,10 +19,6 @@ jazz improv, etc.) but I play others too.
 **March-April 2025:** Grease at [Altarena Playhouse](altarena.org),
 directed by Jacquie Duckworth, choreography by Shelly McDowell.
 
-**June 2025:** Fiddler On the Roof at [Contra Costa Civic
-Theatre](ccct.org), directed by Joel Roster, choreography by Sharon
-Sobel Idul.
-
 See below for shows I've worked on recently.
 
 # Ways I support local theater
@@ -57,9 +53,8 @@ various theaters is summarized in my open-source [Small Theater Growth & Develo
 
 # Musical Direction Credits (* = original orchestration or reduction)
 
-1. \* Fiddler On the Roof (Contra Costa Civic Theatre, dir. Joel Roster), June 2025
 1. Grease (Altarena Playhouse, dir. Jacquie Duckworth), Mar/Apr 2025
-1. Cabaret (Theatre Rhinoceros, dir. John Fisher), Nov/Dec 2024.  **BATCC Nominee**{: .emph} Music Direction, Overall Production (houses <100 seats)
+1. Cabaret (Theatre Rhinoceros, dir. John Fisher), Nov/Dec 2024.  **BATCC Nominee**{: .emph} Music Direction, Overall Production
 1. \* Pal Joey (Altarena Playhouse, dir. Laura Morgan), Mar/Apr 2024.  [Trailer](https://youtu.be/mZW_tJOzqNQ)
 1. Sondheim On Sondheim (Contra Costa Civic Theatre, dir. Marilyn Langbehn), Aug/Sep 2023
 1. Ruthless! The Musical (Altarena Playhouse, dir. Dana Anderson), Mar/Apr 2023
