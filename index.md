@@ -17,33 +17,15 @@ The menu above leads to more detail about my various activities, but in a nutshe
 # News...
 
 
-* December 2024: Our production of [CABARET at Theatre
-Rhinoceros](therhino.org) has great reviews
-from
-[Theatrestorm](https://theatrestorm.com/2024/11/26/review-cabaret-at-theatre-rhinoceros/)
-and
-[Theatrius](https://theatrius.com/2024/11/29/cabaret-roars-a-magnificent-prophetic-growl-at-rhino/).
-**Now extended through 12/29** due to overwhelming demand--the original run was
-basically sold out by opening night, so don't delay in [getting tickets](https://therhino.audience1st.com/store?show_id=112)!
+* February 2025: Our production of [CABARET at Theatre
+Rhinoceros](therhino.org), which got 
+[great](https://theatrestorm.com/2024/11/26/review-cabaret-at-theatre-rhinoceros/)
+[reviews](https://theatrius.com/2024/11/29/cabaret-roars-a-magnificent-prophetic-growl-at-rhino/),
+was nominated for three Bay Area Theatre Critics Circle awards,
+including overall production, principal actor, and music direction!
 
-* October 2024: My Latino cabaret/cultural project, [Cantos de Mi
-Tierra](cabaretlatinocantosdemitierra.com), will be performing at [UC
-Berkeley on November
-13](https://tickets4agoodcause.audience1st.com/store?show_id=76) and
-at Martuni's in early 2025!
 
-* September 2024: At the recent [Tapia Conference](tapiaconference.org),
-Audrey Sillers and Elise Dorough (staff directors of 
-student diversity at UC Berkeley EECS and U. Washington CS), Ed
-Lazowska (faculty, U. Washington CS), and I presented our 
-[advice](https://tapiaconference.cmd-it.org/attend/presentation/?id=psub153&sess=sess147)
-on **Faculty-Staff Collaboration and Continuity for Equitable Recruiting
-and Retention in CS graduate programs.**
-Our
-[slides](https://docs.google.com/presentation/d/1St8trRG9a4n-BtMsmn_st8cDGvW1MvA_ycpW6QaUeIo/edit?usp=sharing)
-are also being posted on the Tapia website.
-
-* [News archive](/news-archive.md)
+* [News archive](/news_archive)
 
 # Media appearances, podcasts, etc.
 

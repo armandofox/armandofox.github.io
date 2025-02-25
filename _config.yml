@@ -54,8 +54,6 @@ defaults:
         - title: "Travel"
           image: /assets/img/piano.jpg
           text: >
-            **May 28-31:** <br>vacation<br>
-            **June 17-29:** <br>SISTEDES/JISBD in A Coruña, Spain</br>
-            **July 1-5:** <br>Dagstuhl Seminar on AI & Master Learning</br>
+            **Feb 26-28:** <br>SIGCSE 2025<br>, Pittsburgh
     values:
       layout: single

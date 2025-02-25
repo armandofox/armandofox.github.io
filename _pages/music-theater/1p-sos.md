@@ -12,10 +12,9 @@ _Sondheim On Sondheim_ at the Contra Costa Civic Theatre under the
 direction of Marilyn Langbehn.  More than just a revue of Sondheim's
 songs (from the iconic to the incredibly obscure), it's interspersed
 with interviews in which Sondheim explains the gestation and genesis
-of many of the songs. (Here's a [teaser clip from one of our
-rehearsals](https://www.youtube.com/watch?v=LNE445nwAC8), and [another](https://www.youtube.com/watch?v=XpwXdbMNkSk).)
+of many of the songs.
 
-(And an unauthorized recording of my awesome pit playing the [exit
+(Here's an unauthorized recording of my awesome pit playing the [exit
 music](https://www.youtube.com/watch?v=pwkQRLX0Hok).  The
 orchestrations for this show are gnarly and are all original by
 Michael Starobin, who orchestrated _Sunday In the Park With George_ too.)
