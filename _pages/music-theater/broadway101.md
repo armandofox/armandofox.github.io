@@ -36,6 +36,17 @@ work when you need just a bit more information on some specific aspect
 of musicals--for example, the history of choreography, of
 orchestration, and so on.
 
+* The Secret Life of the American Musical, by Jack Viertel, is a great
+behind-the-scenes look at how musicals are written and structured, and
+why so many of them seem to follow similar structural patterns, even
+(especially) the ones trying to break out of that mold.
+
+* The Sound of Broadway Music, by Steven Suskind, is a (really) deep
+dive into the little-known world of orchestrators and orchestration.
+Alongside the out-of-print autobiography of Robert Russell Bennett
+("the dean of American orchestrators"), a great look at a part of the
+musical creation process that even most enthusiasts know little about.
+
 
 # Filmed musicals you can watch (some better than others)
 
