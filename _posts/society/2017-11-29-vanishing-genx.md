@@ -17,7 +17,11 @@ In no particular order, and inspired by the book *[Going, Going, Gone: Vanishin
 9.  Fotomat and other 1-hour photo booths. Time was when a 1-hour turnaround before you could actually see a photo was considered miraculous. And *of course *you'd pay the incremental extra fee to get two copies of each photo---how else could you share them?
 10. Metered long distance and outside-exchange calls. Imagine always being in voice roaming mode. If you had an SO who lived outside your telephone exchange (itself a complicated concept to explain, in an age of mobile phones)---or if you were a geek like me who liked to spend time on [BBSs](http://www.bbsdocumentary.com/)---it mattered whether the phone number was inside or outside your exchange, otherwise the calls could be metered and quite expensive. Now that area codes are roughly irrelevant and unlimited long distance calls are features of most plans (assuming you still use the phone system and not Skype or WhatsApp for voice calls...), metering is basically a thing of the past---except when you're roaming.
 11. Typing your term papers, using carbon paper and Wite-Out. (Thanks to Steve Hand.) I was an early adopter of word processors, but up until 1981 I was still typing. In fact I wish I'd saved the typewriter, I have kind of a nostalgia for one now.
-12. Getting off the couch to change the TV channel, even though only about 6 channels of VHF were available in the days before cable. Hard to know where to even begin to explain this one to millennials. (Thanks to Allison Jaynes.)
+12. Getting off the couch to change the TV channel, even though only
+about 6 channels of VHF were available in the days before cable. Hard
+to know where to even begin to explain this one to
+millennials. (Thanks to Allison Jaynes.)
+13. [Ice cream trucks.](https://www.youtube.com/watch?v=0gAbt-6V-bM)
 
 **My colleague Robert Jones from Intel suggests adding [I edited his list slightly]:**
 
