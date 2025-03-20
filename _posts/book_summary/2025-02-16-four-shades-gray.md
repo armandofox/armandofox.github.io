@@ -16,7 +16,7 @@ I was a Kindle early adopter, and
 [about]({% link _posts/tech/2009-06-17-kindle-dx.md %})
 buying it and my early experiences, and later about the underused
 potential of the 
-[Kindle DX]({% _posts/tech/2009-06-17-kindle-dx.md %})
+[Kindle DX]({% link _posts/tech/2009-06-17-kindle-dx.md %})
 (such as for making [textbooks usable]({% link _posts/tech/2009-05-08-kindle-dx-textbooks.md %}))
 and my [disappointment]({% link _posts/tech/2012-04-10-kindle-fire-fail.md %})
 with the [Kindle Fire]({% link _posts/tech/2012-11-25-kindle-fire-good-enough.md %}) 
