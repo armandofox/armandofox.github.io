@@ -87,7 +87,7 @@ to meet the needs of publishers and distributors, not readers.
 Technical problems such as Unicode characters have been solved by
 having each ebook carry its own dictionary containing the information
 and glyphs to render only those UTF-8 characters actually used in that book.
-Still, the challenges of getting publishers to embrace and adopt
+Still, the "social" challenges of getting publishers to embrace and adopt
 ebooks were far harder than the technical problems.  The speed of
 technology development and the publishing tools pipeline for ebooks
 exists in a different universe than the process of traditional
