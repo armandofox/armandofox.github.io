@@ -54,7 +54,7 @@ various theaters is summarized in my open-source [Small Theater Growth & Develo
 # Musical Direction Credits (* = original orchestration or reduction)
 
 1. Grease (Altarena Playhouse, dir. Jacquie Duckworth), Mar/Apr 2025
-1. Cabaret (Theatre Rhinoceros, dir. John Fisher), Nov/Dec 2024.  **BATCC Nominee**{: .emph} Music Direction, Overall Production
+1. Cabaret (Theatre Rhinoceros, dir. John Fisher), Nov/Dec 2024.  **BATCC Winner**{: .emph} Music Direction, Overall Production
 1. \* Pal Joey (Altarena Playhouse, dir. Laura Morgan), Mar/Apr 2024.  [Trailer](https://youtu.be/mZW_tJOzqNQ)
 1. Sondheim On Sondheim (Contra Costa Civic Theatre, dir. Marilyn Langbehn), Aug/Sep 2023
 1. Ruthless! The Musical (Altarena Playhouse, dir. Dana Anderson), Mar/Apr 2023
