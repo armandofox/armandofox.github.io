@@ -14,13 +14,6 @@ jazz improv, etc.) but I play others too.
 
 {% include_relative mailchimp_float_right.html %}
 
-# Shows I'm Working On Now or Soon
-
-**March-April 2025:** Grease at [Altarena Playhouse](altarena.org),
-directed by Jacquie Duckworth, choreography by Shelly McDowell.
-
-See below for shows I've worked on recently.
-
 # Ways I support local theater
 
 - I see lots of shows. [Here's a list]({% link
@@ -86,6 +79,7 @@ Nominee **{: .emph} Music Direction, Sep/Oct 2013
 1. Cabaret (Altarena Playhouse, dir. Phil Lowery), Sep/Oct 2005
 1. \* Oh My Godmother! (Altarena Playhouse, dir. Ron Lytle), Jul/Aug 2005
 1. Company (Altarena Playhouse, dir. Phil Lowery), Mar/Apr 2004
+1. Oklahoma! [Assistant Music Director] (Contra Costa Civic Theater, dir. Jeff Seaberg), Sep 1998
 1. Company (Haste Street Players, dir. Phil Lowery), 1998
 1. Bye Bye Birdie (Baker House Productions at MIT, dir. Liz Ambrogi), Apr 1990
 1. Chicago (Baker House Productions at MIT, dir. Ben DeSousa), Apr 1989
