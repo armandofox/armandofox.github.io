@@ -46,6 +46,7 @@ various theaters is summarized in my open-source [Small Theater Growth & Develo
 
 # Musical Direction Credits (* = original orchestration or reduction)
 
+1. [Cantos De Mi Tierra](cantosdemitierra.com), my latest project, has had gigs at Martuni's, Feinstein's at the Nikko, New Conservatory Theatre Center, and others.  Ongoing.
 1. Grease (Altarena Playhouse, dir. Jacquie Duckworth), Mar/Apr 2025
 1. Cabaret (Theatre Rhinoceros, dir. John Fisher), Nov/Dec 2024.  **BATCC Winner**{: .emph} Music Direction, Overall Production
 1. \* Pal Joey (Altarena Playhouse, dir. Laura Morgan), Mar/Apr 2024.  [Trailer](https://youtu.be/mZW_tJOzqNQ)
