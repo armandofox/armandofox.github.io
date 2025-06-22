@@ -104,10 +104,9 @@ then upgraded to a
 sets of major/minor/dominant-7th chords), and finally
 a [Baldwin 2-manual "Interlude with FunMachine"](https://www.youtube.com/watch?v=MeTcMAyOjTY).
 
-I started **classical piano** training at age 5 with private instructors 
-and later completed the Mannes College of Music (now part of the [New
-School](http://newschool.edu/)) Certificate Program including piano
-performance with concert pianist and educator [Michael
+My **classical piano** training (from age 5) included both private instructors 
+and the Certificate Program at the Mannes College of Music (now part of the [New
+School](http://newschool.edu/)), with concert pianist and educator [Michael
 Boriskin](https://www.google.com/search?q=michael+boriskin) and
 others, ensemble, theory, ear training, orchestration, choir, chamber
 performance, ...the whole enchilada. 
