@@ -6,24 +6,39 @@ layout: home
 ---
 
 ![Armando at Machu Picchu, 2014](/assets/img/machupicchu.jpg){:align="right"}
-Greetings!  I'm a Professor of Computer Science, Diversity & Equity Officer/Adviser at multiple levels (EECS Department, College of Engineering, University), and Faculty Adviser for Digital Learning Strategy.  I'm also a musical theater fanatic and performer, and an aficionado of computing history and retro technology.
+Greetings!  I'm a Professor of Computer Science, and Diversity & Equity Officer/Adviser at multiple levels (EECS Department, College of Engineering, University).  I'm also a musical theater fanatic and performer, and an aficionado of computing history and retro technology.
 
-The menu above leads to more detail about my various activities, but in a nutshell:
+My research focuses on CS education and technology-enhanced learning, at the intersection of pedagogy, human-computer interaction, and programming systems.
 
-* My current research focuses on CS education and technology-enhanced learning, at the intersection of pedagogy, human-computer interaction, and programming systems.
+Courses I regularly teach:
 
-*  I regularly teach [CS169A Intro to Software Engineering](cs169a.cs169.org) (and the accompanying [CS169L project course](cs169l.cs169.org)), CS375 [Teaching Techniques for CS](cs375.org), and sometimes the freshman seminar [Our Digital Quandary](digitalquandary.org), exploring issues at the intersection of computer science and society.
+* [CS169A Intro to Software Engineering](cs169a.cs169.org) (and the accompanying [CS169L project
+course](cs169l.cs169.org)), often co-taught with Michael Ball
+* [STAR Assesssments For Mastery
+Learning](eecs.link/star) (with Dan Garcia and Narges Norouzi)
+* [CS375 Teaching Techniques for CS](cs375.org)
+* Sometimes, the freshman seminar [Our Digital Quandary](digitalquandary.org), exploring issues at the intersection of computer science and society.
 
 # News...
 
+* August 2025: I'll be on sabbatical in Fall...
 
-* February 2025: Our production of [CABARET at Theatre
-Rhinoceros](therhino.org), which got 
-[great](https://theatrestorm.com/2024/11/26/review-cabaret-at-theatre-rhinoceros/)
-[reviews](https://theatrius.com/2024/11/29/cabaret-roars-a-magnificent-prophetic-growl-at-rhino/),
-was nominated for three Bay Area Theatre Critics Circle awards,
-including overall production, principal actor, and music direction!
+* July 2025: three papers and a poster at ITiCSE 2025 in Nijmegen:
+    * _Supporting Students in Prototyping AI-backed Software with
+    Hosted Prompt Template APIs_, by Tim Aveni, Armando Fox, and
+    Bjoern Hartmann
+    * _The Role of Generative AI in Software Student CollaborAItion_, by
+    Natalie Kiesler, Jacqueline Smith, Juho Leinonen, Armando Fox,
+    Stephen MacNeil, and Petri Ihantola
+    * _Fading Strategies for {P}arsons Problems in Intermediate
+    Classrooms_, by Serena Caraco, Nelson Lojo, and Armando Fox
+    * Poster: Using LLMs to Train Students On Requirements
+    Elicitation, by Nelson Lojo, Rafael Gonzalez, Jose Antonio Parejo,
+    Amador Duran, Armando Fox, and Pablo Fernandez
 
+* June 2025: [Cantos De Mi Tierra](https://cantosdemitierra.com)
+appearing at Feinstein's At the Nikko, Stookey's Club Moderne,
+Martuni's, Bird and Beckett Books, and more!
 
 * [News archive](/news_archive)
 

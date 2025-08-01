@@ -54,6 +54,9 @@ defaults:
         - title: "Travel"
           image: /assets/img/piano.jpg
           text: >
-            **Feb 26-28:** <br>SIGCSE 2025<br>, Pittsburgh
+            **Sep 11-12:** Tapia Conference, Dallas, TX
+            **Sep 22-26:** Univ. of Sao Paulo and CBSOFT, Recife, Brasil
+            **Oct 20-26:** ACM CompEd, Gaborone, Botswana
+            **Dec 1-12:** Out of office (personal)
     values:
       layout: single

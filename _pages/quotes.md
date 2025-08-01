@@ -17,6 +17,11 @@ toc_label: "Quote categories"
   <dt>The past is never dead. It's not even past.</dt>
   <dd>William Faulker</dd>
   
+  <dt>[The United Nations] was not created in order to bring us to
+  heaven, but in order to save us from hell.
+  </dt>
+  <dd>Dag Hammarskjold, second secretary-general of the UN</dd>
+
   <dt>The future is dark, the present burdensome. Only the past, dead and
     finished, bears contemplation. Those who look upon it have survived
     it; they are its product and its victors. No wonder therefore that men
