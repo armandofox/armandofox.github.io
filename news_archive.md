@@ -5,6 +5,12 @@ type: page
 layout: single
 ---
 
+* February 2025: Our production of [CABARET at Theatre
+Rhinoceros](therhino.org), which got 
+[great](https://theatrestorm.com/2024/11/26/review-cabaret-at-theatre-rhinoceros/)
+[reviews](https://theatrius.com/2024/11/29/cabaret-roars-a-magnificent-prophetic-growl-at-rhino/),
+was nominated for three Bay Area Theatre Critics Circle awards,
+including overall production, principal actor, and music direction!
 
 * October 2024: My Latino cabaret/cultural project, [Cantos de Mi
 Tierra](cabaretlatinocantosdemitierra.com), will be performing at [UC
