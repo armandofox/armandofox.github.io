@@ -44,18 +44,18 @@ OK, here's the current list.
 above their weight artistically, and they do a mix of plays and
 musicals, classics and newer stuff. Reliably good.
 
-**[Custom Made Theatre Co.](custommade.org)** Edgy, darker material,
+**(Defunct) [Custom Made Theatre Co.](custommade.org)** Edgy, darker material,
 almost all plays but once in a while they'll do a
 musical. (Disclaimer: I've been involved in four musicals with them,
 three of which have been nominated for or have won local theater
 awards.)  They lost their dedicated space during COVID so now they
 perform at the Phoenix and other small spaces downtown.
 
-**[Landmark Musicals](landmarkmusicals.com)** All musicals all the
+**(Defunct) [Landmark Musicals](landmarkmusicals.com)** All musicals all the
 time; a mix of classics and new stuff. They now occupy Custom Made's
 former intimate space (~90 seats) at 533 Sutter.
 
-**[42nd Street Moon](42ndstmoon.org)** Performing a mix of new and
+**(Defunct) [42nd Street Moon](42ndstmoon.org)** Performing a mix of new and
 classic musicals at the lovely Gateway Theater (formerly the Eureka)
 just behind Embarcadero Center at 215 Jackson.  Generally strong
 artistic and production values.  They used to do a lot of
