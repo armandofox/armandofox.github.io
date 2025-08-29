@@ -10,6 +10,9 @@ Greetings!  I'm a Professor of Computer Science, and Diversity & Equity Officer/
 
 My research focuses on CS education and technology-enhanced learning, at the intersection of pedagogy, human-computer interaction, and programming systems.
 
+**I am on sabbatical until December 2025 and not taking on service
+commitments, new students, or new projects.**
+
 Courses I regularly teach:
 
 * [CS169A Intro to Software Engineering](cs169a.cs169.org) (and the accompanying [CS169L project
