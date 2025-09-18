@@ -377,6 +377,7 @@ Michael Kandel
     </dt>
     <dd>from the Tony-winning musical <i>Maybe Happy Ending</i>, by
     Hue Park and Will Aronson</dd>
+</dl>
 
 # City Life
 
