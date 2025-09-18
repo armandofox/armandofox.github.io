@@ -364,6 +364,20 @@ Michael Kandel
 </dl>
 
 
+# Love
+
+<dl class="quote">
+    <dt>
+    You held my hand, you taught me love,<br>
+    And then you set me free.<br>
+    That's not such an awful ending--<br>
+    if we have to have an ending.<br>
+    Is this our maybe happy ending?<br>
+    ...We'll see.
+    </dt>
+    <dd>from the Tony-winning musical <i>Maybe Happy Ending</i>, by
+    Hue Park and Will Aronson</dd>
+
 # City Life
 
 <dl class="quote">
