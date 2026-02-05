@@ -40,7 +40,12 @@ It turns out there's a lot of non-obvious tasks in that job, and I wrote this bo
 
 The book focuses on the **dual role **of the modern MD or Associate Conductor: sometimes you're leading the orchestra, sometimes you're a rhythm instrument. And you have to work with the actors (some of whom may also lack formal musical/vocal training) to help them learn often challenging songs, while managing the rehearsal schedule, figuring out which orchestra instruments you can do without, and so on. Substantially all of the techniques are illustrated with examples from the musical theater literature.
 
-Learn more and download the free PDF [here](/assets/pdf/pianoconductor.pdf), or get hardcopy or Kindle editions at [Amazon](https://www.amazon.com/Piano-Conductor-Talked-Being-Director/dp/0984881298).
+Download the free PDF [here](/assets/pdf/pianoconductor.pdf), or get hardcopy at [Amazon](https://www.amazon.com/Piano-Conductor-Talked-Being-Director/dp/0984881298).
+
+**Actors/Performers:**  You may find useful this [subset of the
+book](/assets/pdf/pianoconductor-actor-chapters.pdf), which contains info
+specifically useful when the MD works with actors on harmony singing,
+tricky rhythms or melody lines, and so on.
 
 # I'm Still Here: Memoirs 1957--1986
 {: .section}

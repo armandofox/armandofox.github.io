@@ -59,5 +59,11 @@ performance with [Michael
 Boriskin](https://www.facebook.com/MichaelBoriskin/) and others as
 well as music theory, ear training, ensemble performance, choir,
 arranging... the whole enchilada. He grew up in New York City and loves
-musicals; he's Music Directed about thirty of them, including several 
+musicals; he's Music Directed about thirty of them and created several
 original orchestrations or reductions for both classic and new works.
+By day he is a computer science professor at UC Berkeley, and as far
+as he knows, he's the author of the best book on music direction
+written by a computer scientist (pianoconductor.com) and the best
+computer science textbook written by a music director (saasbook.info).
+Check out
+his other ongoing music project at CantosDeMiTierra.com.
