@@ -1,8 +1,17 @@
 ---
-title: "From Betamax to Blockbuster: Video Stores and the Invention of Movies on Video"
+title: "From Betamax to Blockbuster: Video Stores and the Invention of Movies on Video, and Videoland"
 categories: ["Book summary","Pop culture","Retro"]
 ---
-Joshua M. Greenberg, *From Betamax to Blockbuster: Video Stores and the Invention of Movies on Video*. Cambridge, MA: MIT Press, 2016.
+
+These are two treatments of the same history from different perspectives.
+
+*  Joshua M. Greenberg, *From Betamax to Blockbuster: Video Stores and the Invention of Movies on Video*. Cambridge, MA: MIT Press, 2008, rev. 2016.  Looks at the effects of movies-on-video and video stores mostly from the "technology and society" perspective.
+* Daniel Herbert, *Videoland: Movie Culture at the American Video Store*, Berkeley, CA: University of California Press, 2014.  Focuses on the social and cultural effects, and mostly eschews technological considerations or the effects on the industry.  
+
+In my view a lot of this material is covered more compellingly (for
+me) in Greenberg, so most of this summary is about Greenberg's book,
+with a few extra observations from Herbert's book at the end.
+
 
 **Summary**: Although the VCR was originally positioned as a device for time-shifting TV, its dominant use quickly became the viewing of pre-recorded content. The book tells the story of that evolution, and how it affected both the medium and the content: how the mismatches between the technology of the VCR/TV vs. theaters affected movie viewing, the social and commercial constructs such as video rental stores that sprang up around the experience, and the cultural shift in the perception of what, exactly, a "movie" was and what the experience of "watching a movie" came to mean. Video rental stores, which provided the intermediary that brought these mismatched perspectives together, did such a good job that they ultimately rendered themselves obsolete.
 
@@ -36,3 +45,66 @@ Finally, the lack of social stigma around "being unable to program my VCR" (unli
 * Independent video stores gave way to chains (Blockbuster, Hollywood Video), which themselves went out of business as direct-from-distributor services like Netflix arose.
 
 The overall lesson may be: without intermediation, new cultural phenomena such as the video-movie revolution could not happen; but once underway, the intermediaries themselves become redundant. (I wonder if a similar argument could be made for retail computer sales---independent stores gave way to national chains like Computerland, then to computers being sold directly in office-supply stores like Office Depot as the computer became mainstream, then eliminated in favor of direct-from-distributor online ordering.)
+
+** Additional thoughts from Videoland **
+
+Before home video, studios, distributors, and movie theaters decided
+which movies would be available for consumers to see and when.
+
+Home video, and the ubiquity and low cost of  video rental stores,
+made videos "shoppable": now *consumers* could decide what they wanted
+to see and when, and suddenly movies had to compete for viewers'
+attention to stand out and be rented, which affected packaging,
+backlist selection, curation (boutique stores specialzing in
+particular niche genres or using eccentric categorization schemes),
+and so on.
+
+Indeed, the ready profitability of opening a video rental store meant,
+for a while, that this competition only became more intense as more
+stores with more videos opened in closer proximity to more customers.
+
+[Like bookstores]({% link
+_posts/book_summary/2021-08-23-reluctant-capitalists.md}), video
+rental stores eventually cleaved into large corporate chain stores
+(Blockbuster, Hollywood, etc.) and specialty/indie stores.  Like bookstores,
+the latter prided themselves on their curation and the knowledge of
+their staff, their ability to make recommendations based on their
+knowledge of both local preferences and specific customers' habits,
+etc.  Corporate stores focused on a uniform family-friendly
+experience, a large selection and lots of volume, and often guaranteed
+that first-run/popular movies would always be in stock, usually through special
+deals with studios/distributors that were out of reach for smaller
+stores.  Like bookstores, the corporate stores emphasized "newer is
+better" and catered to a homogenized set of majority tastes, even
+while having a large enough backlist to attract some "serious" cinephiles;
+independent stores often distinguished themselves by stocking
+hard-to-find or esoteric titles rather than driving rentals from
+current blockbusters.
+In other words, stores cleaved into places that moved a commodity and
+those that fostered an identity or culture, with similar treatment of
+the backlist (p163).
+
+Before streaming services, 
+distribution geography and knowledge of regional markets mattered.  As
+with bookstores, some corporate stores tried to tap into this.
+Until streaming became widely available, rental stores were sustained
+(perhaps with interesting hybrid revenue models, such as movie
+rental/laundromat or movie rental/gun store) in locations with few
+viewer choices since there we no movie theaters nearby.
+
+But even before streaming, DVD adoption began to put video stores out
+of business.  Video in VHS format was expensive enough to make and
+license that it made sense to rent it, but DVDs lowered manufacturing
+costs so much that the sell-through market began to compete with video
+rental stores, especially in big-box stores such as Wal-Mart that
+could do aggressive or loss-leader discounting.  Also, the VHS rental
+market took a reluctant movie industry by surprise -- it was only
+because of the first-sale doctrine enshrined in US copyright law that
+the business model was even legal -- but the studios soon
+found more profit in that market than in the primary release market,
+and by the time DVDs arrived the studios understood both the rental and
+sell through markets extremely well and were less at the mercy of a
+network of middlemen making money from renting out a fixed number of
+copies.
+
+
