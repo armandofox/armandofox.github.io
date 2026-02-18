@@ -21,8 +21,11 @@ _pages/music-theater/theaters.md %}) of theaters in the Bay Area I
 frequent and/or subscribe to.  Join my email list (at right) if you
 want to come with me!
 
+
+![](/assets/img/music-theater/pianoconductor.png){:.align-right}
+
 -   I hope the advice in my book [Piano/Conductor: So They Talked You
-Into Being Music Director](http://pianoconductor.com/)  will be useful
+Into Being Music Director](http://armandofox.com/books)  will be useful
 to  both new and experienced Music Directors. The link is to purchase
 hardcopy on Amazon, but you can [download the
 PDF](/assets/pdf/pianoconductor.pdf) for free.
@@ -32,8 +35,6 @@ find helpful this
 focusing on how the MD works with performers on both the technical and
 dramatic aspects of performing theater music.
 
-
-![](/assets/img/music-theater/pianoconductor.png){:.align-right}
 
 
 -   I maintain [Audience1st](https://www.audience1st.com/), the
