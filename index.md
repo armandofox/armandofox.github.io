@@ -10,9 +10,6 @@ Greetings!  I'm a Professor of Computer Science, and Diversity & Equity Officer/
 
 My research focuses on CS education and technology-enhanced learning, at the intersection of pedagogy, human-computer interaction, and programming systems.
 
-**I am on sabbatical until December 2025 and not taking on service
-commitments, new students, or new projects.**
-
 Courses I regularly teach:
 
 * [CS169A Intro to Software Engineering](cs169a.cs169.org) (and the accompanying [CS169L project
@@ -22,26 +19,12 @@ Learning](eecs.link/star) (with Dan Garcia and Narges Norouzi)
 * [CS375 Teaching Techniques for CS](cs375.org)
 * Sometimes, the freshman seminar [Our Digital Quandary](digitalquandary.org), exploring issues at the intersection of computer science and society.
 
-# News...
+# News
 
-* August 2025: I'll be on sabbatical in Fall...
-
-* July 2025: three papers and a poster at ITiCSE 2025 in Nijmegen:
-    * _Supporting Students in Prototyping AI-backed Software with
-    Hosted Prompt Template APIs_, by Tim Aveni, Armando Fox, and
-    Bjoern Hartmann
-    * _The Role of Generative AI in Software Student CollaborAItion_, by
-    Natalie Kiesler, Jacqueline Smith, Juho Leinonen, Armando Fox,
-    Stephen MacNeil, and Petri Ihantola
-    * _Fading Strategies for {P}arsons Problems in Intermediate
-    Classrooms_, by Serena Caraco, Nelson Lojo, and Armando Fox
-    * Poster: Using LLMs to Train Students On Requirements
-    Elicitation, by Nelson Lojo, Rafael Gonzalez, Jose Antonio Parejo,
-    Amador Duran, Armando Fox, and Pablo Fernandez
-
-* June 2025: [Cantos De Mi Tierra](https://cantosdemitierra.com)
-appearing at Feinstein's At the Nikko, Stookey's Club Moderne,
-Martuni's, Bird and Beckett Books, and more!
+* January 2026: [Cantos De Mi Tierra](https://cantosdemitierra.com)
+appearing at [Bird and Beckett Books &
+Records](https://birdbeckett.com) in San Francisco on May 2 for a
+Cinco De Mayo-themed tour of Latin American music!
 
 * [News archive](/news_archive)
 
