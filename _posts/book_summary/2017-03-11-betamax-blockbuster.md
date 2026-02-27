@@ -63,8 +63,7 @@ Indeed, the ready profitability of opening a video rental store meant,
 for a while, that this competition only became more intense as more
 stores with more videos opened in closer proximity to more customers.
 
-[Like bookstores]({% link
-_posts/book_summary/2021-08-23-reluctant-capitalists.md}), video
+[Like bookstores]({% link _posts/book_summary/2021-08-23-reluctant-capitalists.md %}), video
 rental stores eventually cleaved into large corporate chain stores
 (Blockbuster, Hollywood, etc.) and specialty/indie stores.  Like bookstores,
 the latter prided themselves on their curation and the knowledge of

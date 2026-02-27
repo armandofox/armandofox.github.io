@@ -24,7 +24,10 @@ I'm always available by appointment to meet with my advisees, but if you find yo
 
 -   For academic help (mentoring, tutoring, etc.): [HKN](http://hkn.eecs.berkeley.edu/), [UPE](https://upe.cs.berkeley.edu/), [CS Mentors](https://csmberkeley.github.io/#/) (especially for lower div CS courses)
 -   For general advising and stress/work environment related issues, you can always informally stop by the [CS Advisors' offices](https://eecs.berkeley.edu/resources/undergrads/cs/advising)
--   And if you find yourself in mental distress, [Dr. Christine Zhou](mailto:christinez@uhs.berkeley.edu) ((510) 643-7850) of University Health Services has drop-in and by-appointment hours in Bechtel.
+-   And if you find yourself in mental distress, [Dr. Christine
+Zhou](mailto:christinez@uhs.berkeley.edu) ((510) 643-7850) of
+University Health Services has drop-in and by-appointment hours in
+Grimes Engineering Center.
 
 # What happens in advising stays in advising
 
@@ -58,8 +61,8 @@ explore whether you might be interested in grad school, to work on
 leading-edge projects, to get more depth in an area of CS you're
 interested in beyond anything you'll get in regular course work, and
 more. Most faculty are happy to work with strong undergrads and most
-colleagues I know do so. I've put [some info about it here]({%
-link _pages/students/research.md %})
+colleagues I know do so. I've put 
+[some info about it here]({% link _pages/students/research.md %})
 
 The most important aspect of both getting and keeping a research
 position is a strong sense of initiative and ownership. I've put
@@ -79,8 +82,7 @@ Berkeley is one of the world's leading universities in terms of spinning off sta
 # Grad school
 
 
-Thinking of grad school?  [Here's an outline]({ link
-_pages/student/gradapp.md }) of points we'll discuss
+Thinking of grad school?  [Here's an outline]({% link _pages/students/gradapp.md %}) of points we'll discuss
 in more detail and specific to your situation in advising.
 
 

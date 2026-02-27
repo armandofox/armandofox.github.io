@@ -45,4 +45,4 @@ history is heavy here.
 
 But, by this time, so were our eyelids, so we let the melatonin do its
 work and put us to sleep so we could jump into a full
-day [tomorrow.]({% post_url 2019-07-24-istanbul-1 %})
+day [tomorrow.]({% post_url travel/2019-07-24-istanbul-1 %})
