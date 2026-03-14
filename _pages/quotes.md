@@ -257,6 +257,9 @@ toc_label: "Quote categories"
   <dd>Winston Churchill
   </dd>
 
+  <dt>I never lose.  I win, or I learn.</dt>
+  <dd>Nelson Mandela</dd>
+
   <dt>Success is the ability to go from one failure to another without loss
     of enthusiasm. </dt>
   <dd>Winston Churchill
