@@ -53,13 +53,13 @@ planners" who aren't accountable to the people they're trying to help.
 
 The typical 20th century LatAm citizen is far better off than their
 parents, both politically (voting, democracy) and economically, but
-LatAm's economic growht still lags behind other regions.  (We
+LatAm's economic growth still lags behind that of other regions.  (We
 informally define "growth" as "general rise in standard of living for
 everyone.") 
 
-Western liberals who think the Castros
+Some western liberals think the Castros
 and Chavezes would be worthy solutions to LatAm's problems if only the
-implementation were better often fail to realize that weak states,
+implementation were better.  They often fail to realize that weak states,
 whether populist dictators or corrupt democracies,
 foster both internal economic inequality and violent crime.
 
@@ -78,7 +78,7 @@ reach, so local strongmen simply rule at their whim (might makes
 right) and arrogate
 riches to themselves.
 
-So when the LatAm colonies broke away, LatAm subjects didn't have a
+When the LatAm colonies broke away, LatAm subjects didn't have a
 democratic participatory model to follow; they had
 essentially only been the subjects of empires.
 Even today, postcolonial countries with British legal
@@ -98,9 +98,9 @@ communal land ownership.
 * Populist strongmen promising to
 advance the will of "the people",
 just not through traditional democratic structures and only inasfar as
-they can stay in power.  **Economically, the
+they can stay in power.  Economically, the
 fundamental problem with populism is its hostilility to private property
-rights, which is incompatible with sustaining a free market.**
+rights, which is inimical to sustaining a free market.
 
 People in the first category, especially the economic positivists, who believed
 that the best government is one run scientifically by an intellectual
@@ -175,11 +175,11 @@ industries,
 hypernationalist LatAm governments instead turned towards resource economies.
 When these plans stumbled, governments tried currency
 stabilization/devaluation and other macroeconomic 
-controls that work particularly  poorly in the newly-globalized economy.
+manipulations that worked particularly  poorly in the newly-globalized economy.
 For example, in 1997 global currency markets plunged as the result of
 an exodus from the overleveraged Thai baht; in response, Argentina pegged their peso to the
 dollar to keep its value high.  This killed their exports, since their largest trading partner,
-Brazil, couldn't afford them anymore; then Argentina froze withdrawals,
+Brazil, couldn't afford them anymore. Then Argentina froze withdrawals,
 impoverishing people by making their saved money
 illiquid.  The only way out was forced deflation, to drive
 nominal prices back down, but that is politically very difficult.

@@ -19,6 +19,16 @@ if you're considering grad school.  There's also a great collection of
 comments from [MIT faculty on what they're looking for in
 applications.](https://www.eecs.mit.edu/academics/graduate-programs/admission-process/what-faculty-members-are-looking-for-in-a-grad-school-application-essay/)
 
+** "I want your feedback on using AI in (CS) education to do ____"
+
+Congratulations! You are not alone.  Lots and lots and lots of people
+are trying to do this.
+
+Before I'm able to spend time giving you feedback, I'd like to know
+the following:
+
+
+
 **Traveling to a conference or professional event?**
 
 * You should be

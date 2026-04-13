@@ -1,5 +1,5 @@
 ---
-title: "From Betamax to Blockbuster: Video Stores and the Invention of Movies on Video, and Videoland"
+title: "From Betamax to Blockbuster: Video Stores and the Invention of Movies on Video (MIT Press), and Videoland: Movie Culture at the American Video Store (UC Press)"
 categories: ["Book summary","Pop culture","Retro"]
 ---
 
@@ -25,10 +25,10 @@ A pilot test of a third format called Cartrivision, which could hold 2 hours of 
 
 Nonetheless, some entrepreneurs saw a market for media in the home, and started making inroads:
 
--   Noel Gimbel, owner of the Chicago electronics store Sound Unlimited, thought he could stimulate VCR sales by selling public-domain movies on tapes. Later, he would convince Paramount that that studio's ill-fated exclusive with Fotomat for distributing movies was failing, as video store owners were simply distributing bootlegged copies.
--   Don Rosenberg, who worked for a record distributor, had the idea of going door-to-door convincing music retailers to expand into video, which was tricky because the distribution model for video was based on the model for the appliances with which blank tapes were sold---retailers paid for stock and sold it. In contrast, music was like books---dealers got paid only when customers bought something, and had 90 days to return unsold goods. 
--   Entrepreneur Andre Blay is credited with kickstarting the media-in-the-home industry by making successful deals with 20th Century Fox to establish a rental membership plan for movies. His company Magnetic Video did video duplication and distribution for studios, and he had seen that studios licensed 20-minute "digests" of movies for distribution on 8mm tape; why couldn't they make even more by licensing full-length movies? Fox ultimately acquired Magnetic Video as Fox Home Entertainment, and other studios followed suit and set up their own Home Entertainment divisions. This forced the hand of distributors and retailers in the music industry, and the home entertainment retail industry became a hybrid of the previous music model and the new video rental model.
--   Because of the questionable moral standing of pornographic video, the societal stigma of going into a porno theater, and in some cases its ties to organized crime, pornographers were more willing to embrace risky distribution strategies. Porno was instrumental in launching the home media industry. (Porno theaters showing bootlegged tapes were paid a visit by organized crime.)
+*   Noel Gimbel, owner of the Chicago electronics store Sound Unlimited, thought he could stimulate VCR sales by selling public-domain movies on tapes. Later, he would convince Paramount that that studio's ill-fated exclusive with Fotomat for distributing movies was failing, as video store owners were simply distributing bootlegged copies.
+*   Don Rosenberg, who worked for a record distributor, had the idea of going door-to-door convincing music retailers to expand into video, which was tricky because the distribution model for video was based on the model for the appliances with which blank tapes were sold---retailers paid for stock and sold it. In contrast, music was like books---dealers got paid only when customers bought something, and had 90 days to return unsold goods. 
+*   Entrepreneur Andre Blay is credited with kickstarting the media-in-the-home industry by making successful deals with 20th Century Fox to establish a rental membership plan for movies. His company Magnetic Video did video duplication and distribution for studios, and he had seen that studios licensed 20-minute "digests" of movies for distribution on 8mm tape; why couldn't they make even more by licensing full-length movies? Fox ultimately acquired Magnetic Video as Fox Home Entertainment, and other studios followed suit and set up their own Home Entertainment divisions. This forced the hand of distributors and retailers in the music industry, and the home entertainment retail industry became a hybrid of the previous music model and the new video rental model.
+*   Because of the questionable moral standing of pornographic video, the societal stigma of going into a porno theater, and in some cases its ties to organized crime, pornographers were more willing to embrace risky distribution strategies. Porno was instrumental in launching the home media industry. (Porno theaters showing bootlegged tapes were paid a visit by organized crime.)
 
 Slowly the material nature of the cassette began to give way to the abstract nature of "buying entertainment", as video stores started stocking shelves with empty boxes or box covers while keeping the tapes stored elsewhere (usually for security reasons), and the VCR itself, originally intended as the focus of consumer attention for time-shifting TV, became an incidental artifact used to play back movies. Early video stores were often staffed by movie buffs with no retail experience who just enjoyed being around movies and offering personalized advice to customers, and customers offering advice to each other while browsing the shelves; "going to the video store" became a social ritual as much as watching the movie itself. Local stores hence became social spaces "like bars without alcohol" (consumption junctions, in the language of media theory).
 
@@ -78,9 +78,9 @@ better" and catered to a homogenized set of majority tastes, even
 while having a large enough backlist to attract some "serious" cinephiles;
 independent stores often distinguished themselves by stocking
 hard-to-find or esoteric titles rather than driving rentals from
-current blockbusters.
-In other words, stores cleaved into places that moved a commodity and
-those that fostered an identity or culture, with similar treatment of
+the newest hit movies.
+In other words, like bookstores, video stores cleaved into places that moved a commodity and
+places that fostered an identity or culture, with similar treatment of
 the backlist (p163).
 
 Before streaming services, 
