@@ -19,7 +19,7 @@ email: fox@berkeley.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Armando Fox's personal website: blog, reviews, screeds, advice, and more.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://armandofox.comv" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://armandofox.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  armandofox
 
 # Build settings
