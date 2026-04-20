@@ -1,18 +1,19 @@
 ---
 title: "Music & Theater"
-permalink: /music-theater
 type: page
 layout: single
+classes: wide
+permalink: /music-theater
 sidebar:
   nav: "music-theater"
 ---
+
+{% include_relative mailchimp_float_right.html %}
 
 I'm a pianist/conductor, music director, accompanist, and generally
 can do whatever is needed musically.  My main instrument is
 piano/keyboards (40+ years of mileage, including classical training,
 jazz improv, etc.) but I play others too.
-
-{% include_relative mailchimp_float_right.html %}
 
 # Ways I support local theater
 
@@ -21,8 +22,12 @@ _pages/music-theater/theaters.md %}) of theaters in the Bay Area I
 frequent and/or subscribe to.  Join my email list (at right) if you
 want to come with me!
 
+-   I maintain [Audience1st](https://www.audience1st.com/), the
+open-source ticketing/subscription/donation management/CRM for small
+theaters. 
 
-![](/assets/img/music-theater/pianoconductor.png){:.align-right}
+-   Much of what I learned serving on Boards and Advisory Boards of
+various theaters is summarized in my open-source [Small Theater Growth & Development Field Manual](https://docs.google.com/document/d/1oh1Z-3zFnCa_uQEoKzkjhGA_kShPf2wY8ZG7FuVJG9g/edit?usp=sharing). 
 
 -   I hope the advice in my book [Piano/Conductor: So They Talked You
 Into Being Music Director](http://armandofox.com/books)  will be useful
@@ -36,19 +41,12 @@ focusing on how the MD works with performers on both the technical and
 dramatic aspects of performing theater music.
 
 
-
--   I maintain [Audience1st](https://www.audience1st.com/), the
-open-source ticketing/subscription/donation management/CRM for small
-theaters. 
-
--   Much of what I learned serving on Boards and Advisory Boards of
-various theaters is summarized in my open-source [Small Theater Growth & Development Field Manual](https://docs.google.com/document/d/1oh1Z-3zFnCa_uQEoKzkjhGA_kShPf2wY8ZG7FuVJG9g/edit?usp=sharing). 
-
+![](/assets/img/music-theater/pianoconductor.png){:.align-right}
 
 # Musical Direction Credits (* = original orchestration or reduction)
 
-1. La Cage aux Folles (Theatre Rhinoceros, dir. Crystal Liu and John Fisher), May/June 2026
-1. Anything Goes (Altarena Playhouse, dir. Laura Morgan), Mar/Apr 2026
+1. [La Cage aux Folles](therhino.org) (Theatre Rhinoceros, dir. Crystal Liu and John Fisher), May/June 2026
+1. [Anything Goes](https://www.altarena.org/2026-season-announcement/anything-goes/) (Altarena Playhouse, dir. Laura Morgan), Mar/Apr 2026
 1. [Cantos De Mi Tierra](cantosdemitierra.com), my latest project, has had gigs at Martuni's, Feinstein's at the Nikko, New Conservatory Theatre Center, and others.  Ongoing.
 1. Grease (Altarena Playhouse, dir. Jacquie Duckworth), Mar/Apr 2025
 1. Cabaret (Theatre Rhinoceros, dir. John Fisher), Nov/Dec 2024.  **BATCC Winner**{: .emph} Music Direction, Overall Production

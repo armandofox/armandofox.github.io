@@ -10,6 +10,15 @@
 
 $bodyfont: "Libre Franklin", Helvetica, Arial, sans-serif;
 
+.search__toggle {
+  color: inherit;
+}
+
+.search__toggle,
+.search__toggle:hover,
+.search__toggle:focus {
+  color: inherit;
+}
 
 body,h2,h3,h4,h5,h6 {
     font-size: 14px;
@@ -29,10 +38,12 @@ h1.page__title {
     padding: 1ex;
     margin-top: 0;
     margin-left: 0;
-    color: white;
+    color: white !important;
     font-size: 20px;
 }
-
+h1.page__title a {
+    color: white;
+}
 /* super strong */
 .emph {
     color: red;
