@@ -53,7 +53,7 @@ dramatic aspects of performing theater music.
 1. \* Pal Joey (Altarena Playhouse, dir. Laura Morgan), Mar/Apr 2024.  [Trailer](https://youtu.be/mZW_tJOzqNQ)
 1. Sondheim On Sondheim (Contra Costa Civic Theatre, dir. Marilyn Langbehn), Aug/Sep 2023
 1. Ruthless! The Musical (Altarena Playhouse, dir. Dana Anderson), Mar/Apr 2023
-1. Camelot (Contra Costa Civic Theatre, dir. Diana Trotter), Sep/Oct 2022
+1. Camelot, small cast version (Contra Costa Civic Theatre, dir. Diana Trotter), Sep/Oct 2022
 1. \* The Pajama Game (42nd Street Moon, dir. Becky Potter), **BATCC Nominee**{: .emph} Music Direction, May/June 2022
 1. La Cage Aux Folles (Altarena Playhouse, dir. Noah Haydon), Mar/Apr 2022
 1.  ~~Sunday In the Park With George (Gatehouse Theatre,
