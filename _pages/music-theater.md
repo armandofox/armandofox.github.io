@@ -50,36 +50,47 @@ dramatic aspects of performing theater music.
 1. [Cantos De Mi Tierra](cantosdemitierra.com), my latest project, has had gigs at Martuni's, Feinstein's at the Nikko, New Conservatory Theatre Center, and others.  Ongoing.
 1. Grease (Altarena Playhouse, dir. Jacquie Duckworth), Mar/Apr 2025
 1. Cabaret (Theatre Rhinoceros, dir. John Fisher), Nov/Dec 2024.  **BATCC Winner**{: .emph} Music Direction, Overall Production
-1. \* Pal Joey (Altarena Playhouse, dir. Laura Morgan), Mar/Apr 2024.  [Trailer](https://youtu.be/mZW_tJOzqNQ)
+1. \* Pal Joey (Altarena Playhouse, dir. Laura Morgan), Mar/Apr 2024.
+[Trailer.](https://youtu.be/mZW_tJOzqNQ)  Original orchestration:
+rhythm, trumpet/horn, flute/clarinet/alto, flute/clarinet/tenor.
 1. Sondheim On Sondheim (Contra Costa Civic Theatre, dir. Marilyn Langbehn), Aug/Sep 2023
 1. Ruthless! The Musical (Altarena Playhouse, dir. Dana Anderson), Mar/Apr 2023
 1. Camelot, small cast version (Contra Costa Civic Theatre, dir. Diana Trotter), Sep/Oct 2022
-1. \* The Pajama Game (42nd Street Moon, dir. Becky Potter), **BATCC Nominee**{: .emph} Music Direction, May/June 2022
+1. \* The Pajama Game (42nd Street Moon, dir. Becky Potter), **BATCC
+Nominee**{: .emph} Music Direction, May/June 2022.
 1. La Cage Aux Folles (Altarena Playhouse, dir. Noah Haydon), Mar/Apr 2022
 1.  ~~Sunday In the Park With George (Gatehouse Theatre,
 dir. Rachel Pospíšil), June/July 2020~~ _Cancelled due to COVID-19_
 1.  ~~Dreamgirls (Altarena Playhouse, dir. ShawnJ West), May/June 2020~~* Cancelled due to COVID-19*
 1.  Bloody Bloody Andrew Jackson (Custom Made Theatre Co., dir. Brian Katz), Sep/Oct 2019
-1.  \* Guys and Dolls (Altarena Playhouse, dir. Stewart Lyle), Mar/Apr 2018
+1.  \* Guys and Dolls (Altarena Playhouse, dir. Stewart Lyle),
+Mar/Apr 2018.
 1.  In the Heights (Contra Costa Civic Theatre, dir. Ryan
 Weible), **TBA Finalist **{: .emph} Music Direction, Direction, Best Musical, Best Ensemble, Jul/Aug 2017
-1.  \* Chess (Custom Made Theatre Co., dir. Brian Katz), **BATCC Winner**{: .emph} Music Direction, Ensemble, Best Overall (SF), Best Overall (entire Bay Area), Sep/Oct 2016
+1.  \* Chess (Custom Made Theatre Co., dir. Brian Katz), **BATCC
+Winner**{: .emph} Music Direction, Ensemble, Best Overall (SF), Best
+Overall (entire Bay Area), Sep/Oct 2016.  Original arrangement: synth 1 & 2 (one player), guitar, bass, drums
 1.  Next to Normal (Custom Made Theatre Co., dir. Brian Katz), **BATCC
 Nominee **{: .emph} Music Direction, Sep/Oct 2013
 1.  Rent (Altarena Playhouse, dir. Stewart Lyle), Mar/Apr 2013
 1.  The Fantasticks (Altarena Playhouse, dir. Stewart Lyle), Oct/Nov 2012
 1. The 25th Annual Putnam County Spelling Bee (Altarena Playhouse, dir. Stewart Lyle), Mar/Apr 2011
-1. \* Man of La Mancha (Altarena Playhouse, dir. Stewart Lyle), Feb-Apr 2010 
+1. \* Man of La Mancha (Altarena Playhouse, dir. Stewart Lyle),
+Feb-Apr 2010.  Reduction: Percussion/conductor, horn, horn/trumpet, flute/piccolo/clarinet/oboe
 1. \* Gypsy  (Altarena Playhouse, dir. Christina Lazo), Mar/Apr 2009
 1. Chicago (Altarena Playhouse, dir. Christina Lazo), Mar/Apr 2008
 1. Sweeney Todd (St. Mary's College, dir. Reid Davis), Apr 2009
-1. \* Assassins (Custom Made Theater Co., dir. Brian Katz), **TBA Top Ten**{: .emph}, Jun/Jul 2007
+1. \* Assassins (Custom Made Theater Co., dir. Brian Katz), **TBA Top
+Ten**{: .emph}, Jun/Jul 2007.  Arrangement: Piano/conductor, drums/banjo, accordion, violin
 1. The Last Five Years (Altarena Playhouse, dir. Corrie Lenn Borris), May/Jun 2007
 1. You're a Good Man, Charlie Brown (Altarena Playhouse, dir. Ron Lytle), May/Jun 2006
 1. Merrily We Roll Along (Altarena Playhouse, dir. Phil Lowery), Oct/Nov 2006
-1. \* The Man Who Saved Christmas (Altarena Playhouse, dir. Ron Lytle), Dec 2006
+1. \* The Man Who Saved Christmas (Altarena Playhouse, dir. Ron
+Lytle), Dec 2006.  Original orchestration: rhythm, flute/clarinet/alto.
 1. Cabaret (Altarena Playhouse, dir. Phil Lowery), Sep/Oct 2005
-1. \* Oh My Godmother! (Altarena Playhouse, dir. Ron Lytle), Jul/Aug 2005
+1. \* Oh My Godmother! (Altarena Playhouse, dir. Ron Lytle),
+Jul/Aug 2005. Original orchestration: rhythm, flute/clarinet/alto,
+clarinet/tenor, trumpet.
 1. Company (Altarena Playhouse, dir. Phil Lowery), Mar/Apr 2004
 1. Oklahoma! [Assistant Music Director] (Contra Costa Civic Theater, dir. Jeff Seaberg), Sep 1998
 1. Company (Haste Street Players, dir. Phil Lowery), 1998
