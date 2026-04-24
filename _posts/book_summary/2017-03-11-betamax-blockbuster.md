@@ -30,7 +30,20 @@ Nonetheless, some entrepreneurs saw a market for media in the home, and started 
 *   Entrepreneur Andre Blay is credited with kickstarting the media-in-the-home industry by making successful deals with 20th Century Fox to establish a rental membership plan for movies. His company Magnetic Video did video duplication and distribution for studios, and he had seen that studios licensed 20-minute "digests" of movies for distribution on 8mm tape; why couldn't they make even more by licensing full-length movies? Fox ultimately acquired Magnetic Video as Fox Home Entertainment, and other studios followed suit and set up their own Home Entertainment divisions. This forced the hand of distributors and retailers in the music industry, and the home entertainment retail industry became a hybrid of the previous music model and the new video rental model.
 *   Because of the questionable moral standing of pornographic video, the societal stigma of going into a porno theater, and in some cases its ties to organized crime, pornographers were more willing to embrace risky distribution strategies. Porno was instrumental in launching the home media industry. (Porno theaters showing bootlegged tapes were paid a visit by organized crime.)
 
-Slowly the material nature of the cassette began to give way to the abstract nature of "buying entertainment", as video stores started stocking shelves with empty boxes or box covers while keeping the tapes stored elsewhere (usually for security reasons), and the VCR itself, originally intended as the focus of consumer attention for time-shifting TV, became an incidental artifact used to play back movies. Early video stores were often staffed by movie buffs with no retail experience who just enjoyed being around movies and offering personalized advice to customers, and customers offering advice to each other while browsing the shelves; "going to the video store" became a social ritual as much as watching the movie itself. Local stores hence became social spaces "like bars without alcohol" (consumption junctions, in the language of media theory).
+Slowly the material nature of the cassette began to give way to the
+abstract nature of "buying entertainment", as video stores started
+stocking shelves with empty boxes or box covers while keeping the
+tapes stored elsewhere (usually for security reasons), and the VCR
+itself, originally intended as the focus of consumer attention for
+time-shifting TV, became an incidental artifact used to play back
+movies. Early video stores were often staffed by movie buffs with no
+retail experience who just enjoyed being around movies and offering
+personalized advice to customers, and customers offering advice to
+each other while browsing the shelves; "going to the video store"
+became a social ritual as much as watching the movie itself. Local
+stores hence became social spaces "like bars without alcohol"
+(consumption junctions, in the language of media theory).  (The second
+book, _Videoland: ..._, specifically addresses this cultural development.)
 
 **The maturation of the rental industry: franchisization and disintermediation.** By the early 1980s, the nature of the rental industry changed as video rental took off. Early video-rental stores took advantage of the "first purchase" rule that applies to books, wherein the original purchaser can do whatever they want with their copy of a video, including rent it an unlimited number of times with no royalty payments to the studio; in retaliation studios began licensing "rental-only" copies at much higher cost, and uneasy truces were eventually reached as a result of retailers and distributors forming advocacy organizations that could negotiate licensing and royalty terms with the studios. Still, with rapidly growing consumer demand for renting movies, self-styled entrepreneurs with no retail experience wanted to open video stores; some successful video chain owners even had a side business providing consulting or "turnkey setup" of your own new video-rental business, most of which were no longer staffed by movie buffs as in the early days. The transformation was complete when entrepreneur Wayne Huizenga saw the first Blockbuster Video store in Florida: clean and bright, family-friendly (no adult-video room in back), prominently displayed children's programming section, and the accoutrements of the movies (popcorn, candy, etc.)---something a few independents had started to do, but became a formula with Blockbuster. The chain reached such efficiency that it could load an 18-wheeler with everything necessary (furniture, tapes, electronic equipment) to turn an empty storefront into an operating retail location within 24 hours.
 
@@ -106,4 +119,7 @@ sell through markets extremely well and were less at the mercy of a
 network of middlemen making money from renting out a fixed number of
 copies.
 
-
+There is a long (2:45) but fairly well done documentary
+[Videoheaven](https://www.videoheaven.movie/) that claims to be based on this book but is actually
+more complementary, and situates some of the book's arguments in
+specific video store settings.  Long but worth the watch.
