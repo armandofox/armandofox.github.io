@@ -143,6 +143,14 @@ toc_label: "Quote categories"
   </dt>
   <dd>Bertrand Russell
   </dd>
+  
+  <dt>
+    Writing is thinking on paper.
+  </dt>
+  <dd>William Zinsser, <i>On Writing Well.</i>  A variant I've seen
+  whose attribution I don't know:
+  "Writing is thinking.  In fact, there is a certain kind of thinking
+  that is only accomplished by writing."
 
   <dt>Education is what's left over after everything that has been learnt is
     forgotten.  </dt>
