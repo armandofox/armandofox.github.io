@@ -128,7 +128,7 @@ toc_label: "Quote categories"
  
 </dl>
 
-# Character, Education, & Self-formation
+# Character & Self-formation
 
 <dl class="quote">
 
@@ -137,49 +137,6 @@ toc_label: "Quote categories"
     weren't.
   </dt>
   <dd>me</dd>
-
-  <dt>
-    Most people would sooner die than think. In fact, they do so.
-  </dt>
-  <dd>Bertrand Russell
-  </dd>
-  
-  <dt>
-    Writing is thinking on paper.
-  </dt>
-  <dd>William Zinsser, <i>On Writing Well.</i>  A variant I've seen
-  whose attribution I don't know:
-  "Writing is thinking.  In fact, there is a certain kind of thinking
-  that is only accomplished by writing."
-
-  <dt>Education is what's left over after everything that has been learnt is
-    forgotten.  </dt>
-  <dd>James Bryan Conant, President of Harvard University
-    from 1833--1853
-  </dd>
-
-  <dt>Man, unless he has experienced the influence of learning and
-    philosophy, is subject to impulses worse than those of a wild
-    beast. There is no beast more savage and dangerous than a human being
-    who is swept along by the passions of ambition, greed, anger, envy,
-    extravagance, and sensuality.  </dt>
-  <dd>Erasmus
-  </dd>
-
-  <dt>
-  There is no limit to the amount of nonsense you can think, if you
-  think too long alone.
-  </dt>
-  <dd>
-  Canadian economist Jacob Viner, quoted in <i>The 'Cost Disease' in
-  Higher Education: Is Technology the Answer?</i>, William G. Bowen,
-  The Tanner Lectures at Stanford University, October 2012
-  </dd>
-
-  <dt>A person who won't read has no advantage over one who can't read. 
-  </dt>
-  <dd>Mark Twain
-  </dd>
 
   <dt>The ultimate measure of a man is not where he stands in moments of
     comfort and convenience, but where he stands at times of challenge and
@@ -220,11 +177,45 @@ toc_label: "Quote categories"
     Stanley Kubrick, Arthur C. Clarke, and the Making of a Masterpiece</em>
   </dd>
 
+
+  <dt>Be ashamed to die until you have won some victory for
+    humanity.</dt>
+  <dd>Horace Mann, addressing the Antioch College graduating class of 1859</dd>
+
 </dl>
 
-# Work
+# Education & Work
 
 <dl class="quote">
+
+  <dt>
+    Most people would sooner die than think. In fact, they do so.
+  </dt>
+  <dd>Bertrand Russell
+  </dd>
+  
+  <dt>
+    Writing is thinking on paper.
+  </dt>
+  <dd>William Zinsser, <i>On Writing Well.</i>  A variant I've seen
+  whose attribution I don't know:
+  "Writing is thinking.  In fact, there is a certain kind of thinking
+  that is only accomplished by writing."
+
+  <dt>Education is what's left over after everything that has been learnt is
+    forgotten.  </dt>
+  <dd>James Bryan Conant, President of Harvard University
+    from 1833--1853
+  </dd>
+
+  <dt>Man, unless he has experienced the influence of learning and
+    philosophy, is subject to impulses worse than those of a wild
+    beast. There is no beast more savage and dangerous than a human being
+    who is swept along by the passions of ambition, greed, anger, envy,
+    extravagance, and sensuality.  </dt>
+  <dd>Erasmus
+  </dd>
+
   <dt>Love your work and the rest is easy.</dt>
   <dd>Frances Sergi, my fourth grade teacher at The Kew-Forest School,
     New York City</dd>
@@ -241,9 +232,21 @@ toc_label: "Quote categories"
     Karp](http://www.eecs.berkeley.edu/BEARS/CS_Anniversary/karp-talk.html)
   </dd>
 
-  <dt>Be ashamed to die until you have won some victory for
-    humanity.</dt>
-  <dd>Horace Mann, addressing the Antioch College graduating class of 1859</dd>
+  <dt>
+  There is no limit to the amount of nonsense you can think, if you
+  think too long alone.
+  </dt>
+  <dd>
+  Canadian economist Jacob Viner, quoted in <i>The 'Cost Disease' in
+  Higher Education: Is Technology the Answer?</i>, William G. Bowen,
+  The Tanner Lectures at Stanford University, October 2012
+  </dd>
+
+  <dt>A person who won't read has no advantage over one who can't read. 
+  </dt>
+  <dd>Mark Twain
+  </dd>
+
 
 </dl>
 
