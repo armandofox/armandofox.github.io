@@ -49,6 +49,11 @@ Cinco De Mayo-themed tour of Latin American music!
 
 # Media appearances, podcasts, etc.
 
+* [Can a Computer Scientist Still
+Hope?](https://calearninglab.substack.com/p/can-a-computer-scientist-still-hope)
+Interviewed by Lark Park of the California Education Learning Lab, I
+discuss how CS education and coding have changed, and why attaining “the sum total of human knowledge” is still what we ought to be encouraging for anyone studying CS.
+
 * [Teaching Software Engineering at Scale, and the Future of Software
 Engineering Education In the Age of
 AI](https://fronteirases.github.io/episodios/paginas/63). Podcast

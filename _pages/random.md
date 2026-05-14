@@ -25,7 +25,7 @@ the Mission, and City Lights in North Beach.
 
 - Goodreads lists of 
 [things I want to read](https://www.goodreads.com/review/list/166266985-armando-fox?shelf=to-read),
-[currently reading](https://www.goodreads.com/review/list/166266985-armando-fox?shelf=currently-reading,
+[currently reading](https://www.goodreads.com/review/list/166266985-armando-fox?shelf=currently-reading),
 [recently read](https://www.goodreads.com/review/list/166266985-armando-fox?shelf=read)
 
 - You can read my [occasional book reviews on
