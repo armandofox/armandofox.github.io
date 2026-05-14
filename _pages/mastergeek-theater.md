@@ -32,7 +32,7 @@ This video is currently available on the CuriosityStream boutique channel; not s
 # 1942-1950: Top Secret Rosies: The Female Computers of WWII
 {: .section}
 
-![](https://images-na.ssl-images-amazon.com/images/M/MV5BNDU2NzEyNjI0NV5BMl5BanBnXkFtZTgwODcwNjI2MjE@._V1_UY268_CR9,0,182,268_AL_.jpg){: .align-left .thumb}
+![](/assets/img/mastergeek-theater/top_secret_rosies.png){: .align-left .thumb}
 
 
 Looking back on a little-known part of the war effort that recruited female mathematicians to work as "computers" for the U.S. Army during World War II, this eye-opening documentary sheds light on some remarkable unsung American heroines. From developing ballistics tables to programming the first electronic computer designed to improve Army efficiency, these top-secret "Rosies" made critical wartime contributions.
@@ -70,7 +70,7 @@ The quintessential---and original---Silicon Valley story of the "traitorous eigh
 # 1961-1969:  Moon Machines---The Apollo Guidance Computer
 {: .section}
 
-![](https://images-na.ssl-images-amazon.com/images/I/51h8is0WKNL._SY445_.jpg){: .align-left .thumb}
+![](/assets/img/mastergeek-theater/moon_machines.png){: .align-left .thumb}
 
 During Project Apollo, the US managed to land astronauts on the moon
 and return them safely to Earth, not just once but ***six ***times.  How did we do that with a guidance computer based on 1960's technology, whose most innovative hardware feature was the solid-state NOR gate?  How did people program a machine whose ROM consisted of long "ropes" of magnetic cores strung onto braids of thin filaments?  What kind of UI can you get when the input consists of a 19-key keypad (big enough for astronauts wearing spacesuits) and the output consists of five LED 7-segment displays and a handful of "idiot light" indicators? Most intriguingly, this was the project that made NASA realize that software wasn't an afterthought to be dealt with following the hardware design, but the "pacing item" on the critical path for a complex embedded system.  Dr. Margaret Hamilton, the Director of Software for Project Apollo, is credited with inventing the term "software engineering." In 2016 President Obama awarded her the Presidential Medal of Freedom, the US's highest civilian honor.
@@ -95,8 +95,7 @@ products.
 # 1975-1991: Triumph of the Nerds: The Rise of Accidental Empires (released 1995)
 {: .section}
 
-![](https://m.media-amazon.com/images/I/51GSR2KJN8L._SY445_.jpg){: .align-left .thumb}
-
+![](/assets/img/mastergeek-theater/triumph_nerds.png){: .align-left .thumb}
 
 Travel back to the 80's with snarky Silicon Valley pundit and gossip columnist---er, podcaster---[Robert X. Cringely](http://cringely.com/ "http://cringely.com"), to learn about the roots of the PC revolution, the early days of the microprocessor, and how we ended up with a computer on every desktop.  One of the best accessible treatments of the story of the rise of the PC, though on a couple of occasions the narrative wanders into stereotypes of gender and personality that (thankfully) raise more eyebrows today than they did in 1995.
 
@@ -189,7 +188,7 @@ here first.
 # 1993-2000: Download: The True Story of the Internet
 {: .section}
 
-![](https://images-na.ssl-images-amazon.com/images/I/41sZ9yGMuyL.jpg){: .align-left .thumb}
+![](/assets/img/mastergeek-theater/download_true_story_internet.jpg){: .align-left .thumb}
 
 Until 1990, the Internet was for academics and researchers.  The invention of the World Wide Web (today, just the "Web") in 1990 was a major turning point, but what brought the Web to the masses was the first point-and-click, easy-to-install graphical Web browser, NCSA Mosaic, later commercialized as Netscape Navigator.  The story of how Netscape took the IT world by storm, and what happened when Microsoft awoke to the threat, is the subject of this fast-paced documentary that reveals as much about the personalities involved---Marc Andreessen, Jim Clark, Bill Gates---as it does about the technologies that formed the IT battleground of the late 90s. Plus you get to see a mug shot of Bill Gates taken when he was arrested for dangerous driving.
 
@@ -201,7 +200,7 @@ Until 1990, the Internet was for academics and researchers.  The invention of t
 # 1995-2000: Revolution OS
 {: .section}
 
-![](https://m.media-amazon.com/images/I/51cwv56ptoL._SY445_.jpg){: .align-left .thumb}
+![](/assets/img/mastergeek-theater/revolution_os.jpg){: .align-left .thumb}
 
 
 Microsoft Windows may have kicked the living daylights out of the Mac,
@@ -215,8 +214,7 @@ Windows NT.
 # 1980-1995: Video Game Invasion: The History of a Global Obsession
 {: .section}
 
-![](https://images-na.ssl-images-amazon.com/images/I/71T6iO5WfCL._SL1261_.jpg){: .align-left .thumb}
-
+![](/assets/img/mastergeek-theater/videogameinvasion.jpg){: .align-left .thumb}
 
 While all those people were earnestly trying to use computers to
 "improve productivity," some slackers thought computers might be fun
