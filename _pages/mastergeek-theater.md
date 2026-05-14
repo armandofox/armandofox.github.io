@@ -159,6 +159,31 @@ The turbulent and fascinating story of Commodore, whose ruthless chairman, Holoc
 -   *[Somewhere Nearby is Colossal Cave](http://digitalhumanities.org/dhq/vol/001/2/000009.html)*.  Digital Humanities Quarterly, Summer 2007.  After the original Crowther source code was found, this article examined the original ADVENT as a work of interactive fiction.
 -   [*Twisty Little Passages*](http://www.amazon.com/Twisty-Little-Passages-Approach-Interactive/dp/0262633183/ref=sr_1_1?ie=UTF8&s=books&qid=1285981429&sr=8-1), by Nick Montfort.  A scholarly but accessible survey of IF (interactive fiction) as a genre.
 
+
+
+# 1980-1995: Video Game Invasion: The History of a Global Obsession
+{: .section}
+
+![](/assets/img/mastergeek-theater/videogameinvasion.jpg){: .align-left .thumb}
+
+While all those people were earnestly trying to use computers to
+"improve productivity," some slackers thought computers might be fun
+for just playing games. The first video games predate PCs by several
+years, and could only be played on equipment costing tens of thousands
+of dollars. But video games took off with the invention of the microprocessor,
+the same technology that drove the PC revolution.
+As PCs became more powerful, games went hand in
+hand. Before long, a multibillion dollar industry that dwarfs the
+movie business had become the dominant form of consumer
+entertainment. From *Space Invaders* and *Pac-Man* to movies inspired
+by video games, video games have been both a cultural force and a
+shaper of the IT industry. 
+
+**If you're interested in learning more:**
+
+-   [Supercade](http://www.amazon.com/Supercade-Visual-History-Videogame-1971-1984/dp/0262524201/ref=sr_1_1?ie=UTF8&qid=1309507010&sr=8-1) ---a killer coffee-table book with color screenshots/photos of all the major video games since Space Invaders
+-   [The Ultimate History of Video Games](http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=steve+kent+video+games&x=0&y=0) by Steven L. Kent---just what the title says.  Lots of good books about this topic but this is the most comprehensive.
+
 # 1980-1995: BBS: The Documentary
 {: .section}
 
@@ -209,27 +234,3 @@ Richard Stallman, Eric Raymond and others, we learn about the origins
 of the open-source movement, the Free Software Foundation, and how
 Linux became the first serious server OS to challenge Microsoft
 Windows NT. 
-
-
-# 1980-1995: Video Game Invasion: The History of a Global Obsession
-{: .section}
-
-![](/assets/img/mastergeek-theater/videogameinvasion.jpg){: .align-left .thumb}
-
-While all those people were earnestly trying to use computers to
-"improve productivity," some slackers thought computers might be fun
-for just playing games. The first video games predate PCs by several
-years, and could only be played on equipment costing tens of thousands
-of dollars. But video games took off with the invention of the microprocessor,
-the same technology that drove the PC revolution.
-As PCs became more powerful, games went hand in
-hand. Before long, a multibillion dollar industry that dwarfs the
-movie business had become the dominant form of consumer
-entertainment. From *Space Invaders* and *Pac-Man* to movies inspired
-by video games, video games have been both a cultural force and a
-shaper of the IT industry. 
-
-**If you're interested in learning more:**
-
--   [Supercade](http://www.amazon.com/Supercade-Visual-History-Videogame-1971-1984/dp/0262524201/ref=sr_1_1?ie=UTF8&qid=1309507010&sr=8-1) ---a killer coffee-table book with color screenshots/photos of all the major video games since Space Invaders
--   [The Ultimate History of Video Games](http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=steve+kent+video+games&x=0&y=0) by Steven L. Kent---just what the title says.  Lots of good books about this topic but this is the most comprehensive.
