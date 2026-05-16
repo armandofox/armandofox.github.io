@@ -33,6 +33,12 @@ Grossman, and others)
 
 # News
 
+* May 2026: [Can A Computer Scientist Still
+Hope?](https://calearninglab.substack.com/p/can-a-computer-scientist-still-hope)
+I was interviewed by Lark Park of the California Education Learning
+Lab.  We
+discuss how CS education and coding have changed, and why attaining “the sum total of human knowledge” is still what we ought to be encouraging for anyone studying CS.
+
 * April 2026: Craig Zilles and I wrote about [why blue books are not
 the answer to the AI cheating crisis](https://www.insidehighered.com/opinion/views/2026/03/19/blue-books-are-not-answer-ai-opinion).
 
@@ -48,11 +54,6 @@ Cinco De Mayo-themed tour of Latin American music!
 
 
 # Media appearances, podcasts, etc.
-
-* [Can a Computer Scientist Still
-Hope?](https://calearninglab.substack.com/p/can-a-computer-scientist-still-hope)
-Interviewed by Lark Park of the California Education Learning Lab, I
-discuss how CS education and coding have changed, and why attaining “the sum total of human knowledge” is still what we ought to be encouraging for anyone studying CS.
 
 * [Teaching Software Engineering at Scale, and the Future of Software
 Engineering Education In the Age of
