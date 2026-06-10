@@ -92,13 +92,11 @@ Lytle), Dec 2006.  Original orchestration: rhythm, flute/clarinet/alto.
 Jul/Aug 2005. Original orchestration: rhythm, flute/clarinet/alto,
 clarinet/tenor, trumpet.
 1. Company (Altarena Playhouse, dir. Phil Lowery), Mar/Apr 2004
-1. Oklahoma! [Assistant Music Director] (Contra Costa Civic Theater, dir. Jeff Seaberg), Sep 1998
+1. \* Oklahoma! [Assistant Music Director] (Contra Costa Civic Theater, dir. Jeff Seaberg), Sep 1998.  Reduction: Piano, bass, drums, trumpet, trombone, flute/clarinet.
 1. Company (Haste Street Players, dir. Phil Lowery), 1998
 1. Bye Bye Birdie (Baker House Productions at MIT, dir. Liz Ambrogi), Apr 1990
 1. Chicago (Baker House Productions at MIT, dir. Ben DeSousa), Apr 1989
 1. Guys and Dolls (Baker House Productions at MIT, dir. Ben DeSousa), Apr 1988
-
-**Other Original Reductions for Small Theater Pits: **Oklahoma! (Contra Costa Civic Theatre, 1998)
 
 # I Play Some Instruments
 
