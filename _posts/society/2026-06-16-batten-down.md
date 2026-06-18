@@ -1,6 +1,6 @@
 ---
 title: "PSA: Batten down your hatches"
-categories: []
+categories: ["Computing and society"]
 ---
 
 I'm writing this as a public service announcement to my friends and
