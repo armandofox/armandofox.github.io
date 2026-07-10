@@ -3,52 +3,49 @@ title: "Amazon made me do it"
 categories: ["Gadgets","Bibliomane"]
 ---
 
-A couple of weeks ago I spent the time to do something I'd never
-bothered to do before: I [jailbroke](kindlemodding.org) both my Kindle Paperwhite (2011)
-and Kindle Voyage (2014), and removed the DRM from the vast majority
-of my purchased Kindle books.
-
-I'd never felt the need to do this before.  I'm aware of both the
-technical weaknesses and the questionable licensing issues around
-Kindle books, but I'm also sympathetic to the fact that part of the
-goal of DRM is to protect authors so they get paid for their books.  I
-have no problem with that, and as long as most people don't try to
-strip the DRM, this works OK.
-
-But then Amazon did something that made me change my tune: they
-immediately end-of-lifed all 2012-and-earlier Kindle devices, meaning
-those devices were "frozen" to whatever content happened to be on them
-on EOL day.  Not only couldn't you buy new books on those devices---nor, if you use
-OverDrive, borrow library books, since they require using the Kindle
-purchase flow on amazon.com---you couldn't even download books you'd
-already purchased in the past but didn't have on that device.
-
-This is craven and stupid.  There is absolutely no technological
-reason, from a formats or compatibility point of view, for Amazon to
-EOL these devices.  This isn't about protecting authors: they get paid
-no matter what device you read the book on.  It isn't about obsolete
-technology: the vast majority of ebooks out there work just fine even
-with the simple features of the first generation Kindle from 2007.  It
-is purely a forced obsolescence to get you to buy a new device---and
-by the way, the new devices have a secure enclave that makes DRM
-removal much harder, but that's another story.
-
-This all made me angry, so now I'm opening up my entire Kindle library to
-my friends.  I wasn't going to do this, Amazon.  Your shortsighted
-greed made me do it.
-
-If I've told you the password, the instructions below will give you
-access. Happy reading.  And fuck you on this one, Amazon.
+If I've told you the password, enter it below.
+Otherwise, sayonara.
 
 <!-- message block encrypted using:
- echo 'cleartext' | gpg -a --personal-aead-preferences=none --cipher-algo AES256 --symmetric -i -
+ gpg -a --personal-aead-preferences=none --cipher-algo AES256 --symmetric -i input.txt
+ since the JS encryption library doesn't support AEAD
 -->
 
 <pre><div id="k">-----BEGIN PGP MESSAGE-----
 
-jA0ECQMIOo2LEn5kIy3/0kIBA0VdpovtTVW5NSZmRLDrlzr6ByvST7b2JlCuIGf3
-qXlgJw8KeotAolFVrdG5ZBZjqmV0ZgnqrYx/+97Bg7rBuLg=
-=3qJx
+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
+=y1iZ
 -----END PGP MESSAGE-----</div></pre>
 
 <form id="decrypt-form">
