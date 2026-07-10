@@ -12,10 +12,10 @@ Otherwise, sayonara.
 </form>
 <p id="status"></p>
 
-[message block encrypted using
+<!-- message block encrypted using
  gpg -a --personal-aead-preferences=none --cipher-algo AES256 --symmetric -i input.txt
  since the JS encryption library doesn't support AEAD.
- Current password is ReadMyLips]: #
+-->
 
 <div id="k">
 -----BEGIN PGP MESSAGE-----
